@@ -18,11 +18,11 @@
 ETRI API를 사용하기 위한 각 항목별 텍스트 파일로 나타납니다.
 
 ## POS Tagging & Named Entity Recognition Test
-각 텍스트 파일의 POS 태깅과 개체명인식은 ETRI에서 개발한 cli 툴을 적극 활용합니다.
+각 텍스트 파일의 POS 태깅과 개체명인식은 ETRI에서 개발한 cli 툴(https://www.npmjs.com/package/etri-cli)을 적극 활용합니다.
 각각의 결과는 ./output/ETRI/의 /POS/ 폴더와 /NER/폴더에 저장되어 있습니다.
 
 ## Morphological Analysis & WordEmbedding
-형태소 분절은 '은전한닢'을 이용하고 WordEmbedding을 이용한 시각화도 수행할 예정입니다.(2020-06-01 기준)
+형태소 분절은 '은전한닢(https://github.com/koshort/pyeunjeon)'을 이용하고 WordEmbedding을 이용한 시각화도 수행할 예정입니다.(2020-06-01 기준)
 
 
 
