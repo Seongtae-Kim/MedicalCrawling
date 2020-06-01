@@ -1,0 +1,3401 @@
+{
+  "result": 0,
+  "return_object": {
+    "doc_id": "",
+    "DCT": "",
+    "category": "",
+    "category_weight": 0,
+    "title": {
+      "text": "",
+      "NE": ""
+    },
+    "metaInfo": {},
+    "paragraphInfo": [],
+    "sentence": [
+      {
+        "id": 0,
+        "reserve_str": "",
+        "text": "검사명: 평균적혈구용적(Mean Cell Volume)",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "검사",
+            "type": "NNG",
+            "position": 0,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "명",
+            "type": "NNG",
+            "position": 6,
+            "weight": 0.00576629
+          },
+          {
+            "id": 2,
+            "lemma": ":",
+            "type": "SP",
+            "position": 9,
+            "weight": 1
+          },
+          {
+            "id": 3,
+            "lemma": "평균",
+            "type": "NNG",
+            "position": 11,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "적혈",
+            "type": "NNG",
+            "position": 17,
+            "weight": 0.2
+          },
+          {
+            "id": 5,
+            "lemma": "구용",
+            "type": "NNG",
+            "position": 23,
+            "weight": 0.123226
+          },
+          {
+            "id": 6,
+            "lemma": "적",
+            "type": "XSN",
+            "position": 29,
+            "weight": 0.0168756
+          },
+          {
+            "id": 7,
+            "lemma": "(",
+            "type": "SS",
+            "position": 32,
+            "weight": 1
+          },
+          {
+            "id": 8,
+            "lemma": "Mean",
+            "type": "SL",
+            "position": 33,
+            "weight": 1
+          },
+          {
+            "id": 9,
+            "lemma": "Cell",
+            "type": "SL",
+            "position": 38,
+            "weight": 1
+          },
+          {
+            "id": 10,
+            "lemma": "Volume",
+            "type": "SL",
+            "position": 43,
+            "weight": 1
+          },
+          {
+            "id": 11,
+            "lemma": ")",
+            "type": "SS",
+            "position": 49,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "검사명:",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "평균적혈구용적(Mean",
+            "type": "",
+            "begin": 3,
+            "end": 8
+          },
+          {
+            "id": 2,
+            "text": "Cell",
+            "type": "",
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 3,
+            "text": "Volume)",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 1,
+        "reserve_str": "",
+        "text": "검사 설명: ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "검사",
+            "type": "NNG",
+            "position": 50,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "설명",
+            "type": "NNG",
+            "position": 57,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": ":",
+            "type": "SP",
+            "position": 63,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "검사",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "설명:",
+            "type": "",
+            "begin": 1,
+            "end": 2
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 2,
+        "reserve_str": "",
+        "text": "정의",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "정의",
+            "type": "NNG",
+            "position": 65,
+            "weight": 0.43414
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 3,
+        "reserve_str": "",
+        "text": "평균적혈구용적은 적혈구 하나의 평균 부피를 말하며 헤마토크리트/적혈구수 × 1,000으로 계산합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "평균적혈",
+            "type": "NNG",
+            "position": 71,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": "구용적",
+            "type": "NNG",
+            "position": 83,
+            "weight": 0
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 92,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "적",
+            "type": "NNG",
+            "position": 96,
+            "weight": 0.029843
+          },
+          {
+            "id": 4,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 99,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "하나",
+            "type": "NNG",
+            "position": 106,
+            "weight": 0.131576
+          },
+          {
+            "id": 6,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 112,
+            "weight": 0.0694213
+          },
+          {
+            "id": 7,
+            "lemma": "평균",
+            "type": "NNG",
+            "position": 116,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "부피",
+            "type": "NNG",
+            "position": 123,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 129,
+            "weight": 0.137686
+          },
+          {
+            "id": 10,
+            "lemma": "말",
+            "type": "NNG",
+            "position": 133,
+            "weight": 0.0814073
+          },
+          {
+            "id": 11,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 136,
+            "weight": 0.0001
+          },
+          {
+            "id": 12,
+            "lemma": "며",
+            "type": "EC",
+            "position": 139,
+            "weight": 0.371165
+          },
+          {
+            "id": 13,
+            "lemma": "헤마토크리트",
+            "type": "NNG",
+            "position": 143,
+            "weight": 0
+          },
+          {
+            "id": 14,
+            "lemma": "/",
+            "type": "SP",
+            "position": 161,
+            "weight": 1
+          },
+          {
+            "id": 15,
+            "lemma": "적",
+            "type": "NNG",
+            "position": 162,
+            "weight": 0.0488257
+          },
+          {
+            "id": 16,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 165,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "수",
+            "type": "NNG",
+            "position": 171,
+            "weight": 0.00933311
+          },
+          {
+            "id": 18,
+            "lemma": "×",
+            "type": "SW",
+            "position": 175,
+            "weight": 1
+          },
+          {
+            "id": 19,
+            "lemma": "1,000",
+            "type": "SN",
+            "position": 178,
+            "weight": 1
+          },
+          {
+            "id": 20,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 183,
+            "weight": 0.00395806
+          },
+          {
+            "id": 21,
+            "lemma": "계산",
+            "type": "NNG",
+            "position": 190,
+            "weight": 0.207454
+          },
+          {
+            "id": 22,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 196,
+            "weight": 0.0001
+          },
+          {
+            "id": 23,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 196,
+            "weight": 0.0449374
+          },
+          {
+            "id": 24,
+            "lemma": ".",
+            "type": "SF",
+            "position": 205,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "평균적혈구용적은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "적혈구",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "하나의",
+            "type": "",
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 3,
+            "text": "평균",
+            "type": "",
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "부피를",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 5,
+            "text": "말하며",
+            "type": "",
+            "begin": 10,
+            "end": 12
+          },
+          {
+            "id": 6,
+            "text": "헤마토크리트/적혈구수",
+            "type": "",
+            "begin": 13,
+            "end": 17
+          },
+          {
+            "id": 7,
+            "text": "×",
+            "type": "",
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 8,
+            "text": "1,000으로",
+            "type": "",
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 9,
+            "text": "계산합니다.",
+            "type": "",
+            "begin": 21,
+            "end": 24
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 4,
+        "reserve_str": "",
+        "text": " 평균적혈구용적은 빈혈의 감별진단에 이용됩니다. ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "평균적혈",
+            "type": "NNG",
+            "position": 207,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": "구용적",
+            "type": "NNG",
+            "position": 219,
+            "weight": 0
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 228,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 232,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 238,
+            "weight": 0.0694213
+          },
+          {
+            "id": 5,
+            "lemma": "감별",
+            "type": "NNG",
+            "position": 242,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "진단",
+            "type": "NNG",
+            "position": 248,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 254,
+            "weight": 0.153364
+          },
+          {
+            "id": 8,
+            "lemma": "이용",
+            "type": "NNG",
+            "position": 258,
+            "weight": 0.207679
+          },
+          {
+            "id": 9,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 264,
+            "weight": 0.000224177
+          },
+          {
+            "id": 10,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 264,
+            "weight": 0.0449374
+          },
+          {
+            "id": 11,
+            "lemma": ".",
+            "type": "SF",
+            "position": 273,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "평균적혈구용적은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "빈혈의",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "감별진단에",
+            "type": "",
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "이용됩니다.",
+            "type": "",
+            "begin": 8,
+            "end": 11
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 5,
+        "reserve_str": "",
+        "text": "검사/시술/수술 방법",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "검사",
+            "type": "NNG",
+            "position": 275,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "/",
+            "type": "SP",
+            "position": 281,
+            "weight": 1
+          },
+          {
+            "id": 2,
+            "lemma": "시술",
+            "type": "NNG",
+            "position": 282,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "/",
+            "type": "SP",
+            "position": 288,
+            "weight": 1
+          },
+          {
+            "id": 4,
+            "lemma": "수술",
+            "type": "NNG",
+            "position": 289,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "방법",
+            "type": "NNG",
+            "position": 296,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "검사/시술/수술",
+            "type": "",
+            "begin": 0,
+            "end": 4
+          },
+          {
+            "id": 1,
+            "text": "방법",
+            "type": "",
+            "begin": 5,
+            "end": 5
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 6,
+        "reserve_str": "",
+        "text": "검사 전 준비사항은 없으며, 팔의 정맥에서 혈액을 채취하여 검사를 시행합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "검사",
+            "type": "NNG",
+            "position": 302,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "전",
+            "type": "MM",
+            "position": 309,
+            "weight": 0.000937802
+          },
+          {
+            "id": 2,
+            "lemma": "준비",
+            "type": "NNG",
+            "position": 313,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "사항",
+            "type": "NNG",
+            "position": 319,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "은",
+            "type": "JX",
+            "position": 325,
+            "weight": 0.0449928
+          },
+          {
+            "id": 5,
+            "lemma": "없",
+            "type": "VA",
+            "position": 329,
+            "weight": 0.109103
+          },
+          {
+            "id": 6,
+            "lemma": "으며",
+            "type": "EC",
+            "position": 332,
+            "weight": 0.321076
+          },
+          {
+            "id": 7,
+            "lemma": ",",
+            "type": "SP",
+            "position": 338,
+            "weight": 1
+          },
+          {
+            "id": 8,
+            "lemma": "팔",
+            "type": "NNG",
+            "position": 340,
+            "weight": 0.180907
+          },
+          {
+            "id": 9,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 343,
+            "weight": 0.0694213
+          },
+          {
+            "id": 10,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 347,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 353,
+            "weight": 0.153407
+          },
+          {
+            "id": 12,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 360,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 366,
+            "weight": 0.129611
+          },
+          {
+            "id": 14,
+            "lemma": "채취",
+            "type": "NNG",
+            "position": 370,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 376,
+            "weight": 0.0001
+          },
+          {
+            "id": 16,
+            "lemma": "어",
+            "type": "EC",
+            "position": 379,
+            "weight": 0.361326
+          },
+          {
+            "id": 17,
+            "lemma": "검사",
+            "type": "NNG",
+            "position": 383,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 389,
+            "weight": 0.137686
+          },
+          {
+            "id": 19,
+            "lemma": "시행",
+            "type": "NNG",
+            "position": 393,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 399,
+            "weight": 0.0001
+          },
+          {
+            "id": 21,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 399,
+            "weight": 0.0449374
+          },
+          {
+            "id": 22,
+            "lemma": ".",
+            "type": "SF",
+            "position": 408,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "검사",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "전",
+            "type": "",
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "준비사항은",
+            "type": "",
+            "begin": 2,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "없으며,",
+            "type": "",
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "팔의",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 5,
+            "text": "정맥에서",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 6,
+            "text": "혈액을",
+            "type": "",
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 7,
+            "text": "채취하여",
+            "type": "",
+            "begin": 14,
+            "end": 16
+          },
+          {
+            "id": 8,
+            "text": "검사를",
+            "type": "",
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 9,
+            "text": "시행합니다.",
+            "type": "",
+            "begin": 19,
+            "end": 22
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 7,
+        "reserve_str": "",
+        "text": "검사결과",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "검사",
+            "type": "NNG",
+            "position": 409,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "결과",
+            "type": "NNG",
+            "position": 415,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "검사결과",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 8,
+        "reserve_str": "",
+        "text": "▶남성의 경우 85.8 ~ 102.0 fL",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "▶",
+            "type": "SW",
+            "position": 421,
+            "weight": 1
+          },
+          {
+            "id": 1,
+            "lemma": "남성",
+            "type": "NNG",
+            "position": 424,
+            "weight": 0.264351
+          },
+          {
+            "id": 2,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 430,
+            "weight": 0.0694213
+          },
+          {
+            "id": 3,
+            "lemma": "경우",
+            "type": "NNG",
+            "position": 434,
+            "weight": 0.87105
+          },
+          {
+            "id": 4,
+            "lemma": "85.8",
+            "type": "SN",
+            "position": 441,
+            "weight": 1
+          },
+          {
+            "id": 5,
+            "lemma": "~",
+            "type": "SO",
+            "position": 446,
+            "weight": 1
+          },
+          {
+            "id": 6,
+            "lemma": "102.0",
+            "type": "SN",
+            "position": 448,
+            "weight": 1
+          },
+          {
+            "id": 7,
+            "lemma": "fL",
+            "type": "SL",
+            "position": 454,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "▶남성의",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "경우",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "85.8",
+            "type": "",
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "~",
+            "type": "",
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": "102.0",
+            "type": "",
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 5,
+            "text": "fL",
+            "type": "",
+            "begin": 7,
+            "end": 7
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 9,
+        "reserve_str": "",
+        "text": "▶여성의 경우 82.2 ~ 100.0 fL",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "▶",
+            "type": "SW",
+            "position": 456,
+            "weight": 1
+          },
+          {
+            "id": 1,
+            "lemma": "여성",
+            "type": "NNG",
+            "position": 459,
+            "weight": 0.264805
+          },
+          {
+            "id": 2,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 465,
+            "weight": 0.0694213
+          },
+          {
+            "id": 3,
+            "lemma": "경우",
+            "type": "NNG",
+            "position": 469,
+            "weight": 0.87105
+          },
+          {
+            "id": 4,
+            "lemma": "82.2",
+            "type": "SN",
+            "position": 476,
+            "weight": 1
+          },
+          {
+            "id": 5,
+            "lemma": "~",
+            "type": "SO",
+            "position": 481,
+            "weight": 1
+          },
+          {
+            "id": 6,
+            "lemma": "100.0",
+            "type": "SN",
+            "position": 483,
+            "weight": 1
+          },
+          {
+            "id": 7,
+            "lemma": "fL",
+            "type": "SL",
+            "position": 489,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "▶여성의",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "경우",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "82.2",
+            "type": "",
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "~",
+            "type": "",
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": "100.0",
+            "type": "",
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 5,
+            "text": "fL",
+            "type": "",
+            "begin": 7,
+            "end": 7
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 10,
+        "reserve_str": "",
+        "text": "▶소적혈구빈혈은 MCV≤80, 정적혈구빈혈은 MCV 81~100, 대적혈구빈혈은 MCV≥101로 판단할 수 있습니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "▶",
+            "type": "SW",
+            "position": 491,
+            "weight": 1
+          },
+          {
+            "id": 1,
+            "lemma": "소적혈구빈혈",
+            "type": "NNG",
+            "position": 494,
+            "weight": 0
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 512,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "MCV",
+            "type": "SL",
+            "position": 516,
+            "weight": 1
+          },
+          {
+            "id": 4,
+            "lemma": "≤",
+            "type": "SW",
+            "position": 519,
+            "weight": 1
+          },
+          {
+            "id": 5,
+            "lemma": "80",
+            "type": "SN",
+            "position": 522,
+            "weight": 1
+          },
+          {
+            "id": 6,
+            "lemma": ",",
+            "type": "SP",
+            "position": 524,
+            "weight": 1
+          },
+          {
+            "id": 7,
+            "lemma": "정적",
+            "type": "NNG",
+            "position": 526,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 532,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 538,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "은",
+            "type": "JX",
+            "position": 544,
+            "weight": 0.0449928
+          },
+          {
+            "id": 11,
+            "lemma": "MCV",
+            "type": "SL",
+            "position": 548,
+            "weight": 1
+          },
+          {
+            "id": 12,
+            "lemma": "81",
+            "type": "SN",
+            "position": 552,
+            "weight": 1
+          },
+          {
+            "id": 13,
+            "lemma": "~",
+            "type": "SO",
+            "position": 554,
+            "weight": 1
+          },
+          {
+            "id": 14,
+            "lemma": "100",
+            "type": "SN",
+            "position": 555,
+            "weight": 1
+          },
+          {
+            "id": 15,
+            "lemma": ",",
+            "type": "SP",
+            "position": 558,
+            "weight": 1
+          },
+          {
+            "id": 16,
+            "lemma": "대적",
+            "type": "NNG",
+            "position": 560,
+            "weight": 0.85
+          },
+          {
+            "id": 17,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 566,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 572,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "은",
+            "type": "JX",
+            "position": 578,
+            "weight": 0.0449928
+          },
+          {
+            "id": 20,
+            "lemma": "MCV",
+            "type": "SL",
+            "position": 582,
+            "weight": 1
+          },
+          {
+            "id": 21,
+            "lemma": "≥",
+            "type": "SW",
+            "position": 585,
+            "weight": 1
+          },
+          {
+            "id": 22,
+            "lemma": "101",
+            "type": "SN",
+            "position": 588,
+            "weight": 1
+          },
+          {
+            "id": 23,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 591,
+            "weight": 0.00395352
+          },
+          {
+            "id": 24,
+            "lemma": "판단",
+            "type": "NNG",
+            "position": 595,
+            "weight": 0.9
+          },
+          {
+            "id": 25,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 601,
+            "weight": 0.0001
+          },
+          {
+            "id": 26,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 601,
+            "weight": 0.387847
+          },
+          {
+            "id": 27,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 605,
+            "weight": 0.215617
+          },
+          {
+            "id": 28,
+            "lemma": "있",
+            "type": "VA",
+            "position": 609,
+            "weight": 0.0518488
+          },
+          {
+            "id": 29,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 612,
+            "weight": 0.1367
+          },
+          {
+            "id": 30,
+            "lemma": ".",
+            "type": "SF",
+            "position": 621,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "▶소적혈구빈혈은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "MCV≤80,",
+            "type": "",
+            "begin": 3,
+            "end": 6
+          },
+          {
+            "id": 2,
+            "text": "정적혈구빈혈은",
+            "type": "",
+            "begin": 7,
+            "end": 10
+          },
+          {
+            "id": 3,
+            "text": "MCV",
+            "type": "",
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 4,
+            "text": "81~100,",
+            "type": "",
+            "begin": 12,
+            "end": 15
+          },
+          {
+            "id": 5,
+            "text": "대적혈구빈혈은",
+            "type": "",
+            "begin": 16,
+            "end": 19
+          },
+          {
+            "id": 6,
+            "text": "MCV≥101로",
+            "type": "",
+            "begin": 20,
+            "end": 23
+          },
+          {
+            "id": 7,
+            "text": "판단할",
+            "type": "",
+            "begin": 24,
+            "end": 26
+          },
+          {
+            "id": 8,
+            "text": "수",
+            "type": "",
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 9,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 28,
+            "end": 30
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 11,
+        "reserve_str": "",
+        "text": "주의사항",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "주의",
+            "type": "NNG",
+            "position": 622,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "사항",
+            "type": "NNG",
+            "position": 628,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "주의사항",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 12,
+        "reserve_str": "",
+        "text": "심한 철결핍빈혈과 재생불량빈혈, 임신시에는 평균적혈구용적이 감소합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "심하",
+            "type": "VA",
+            "position": 634,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 637,
+            "weight": 0.430446
+          },
+          {
+            "id": 2,
+            "lemma": "철",
+            "type": "NNG",
+            "position": 641,
+            "weight": 0.632543
+          },
+          {
+            "id": 3,
+            "lemma": "결핍",
+            "type": "NNG",
+            "position": 644,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 650,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "과",
+            "type": "JC",
+            "position": 656,
+            "weight": 0.017569
+          },
+          {
+            "id": 6,
+            "lemma": "재생",
+            "type": "NNG",
+            "position": 660,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "불량",
+            "type": "NNG",
+            "position": 666,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 672,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": ",",
+            "type": "SP",
+            "position": 678,
+            "weight": 1
+          },
+          {
+            "id": 10,
+            "lemma": "임신",
+            "type": "NNG",
+            "position": 680,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "시",
+            "type": "NNB",
+            "position": 686,
+            "weight": 0.00322101
+          },
+          {
+            "id": 12,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 689,
+            "weight": 0.135559
+          },
+          {
+            "id": 13,
+            "lemma": "는",
+            "type": "JX",
+            "position": 692,
+            "weight": 0.0387928
+          },
+          {
+            "id": 14,
+            "lemma": "평균",
+            "type": "NNG",
+            "position": 696,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "적혈",
+            "type": "NNG",
+            "position": 702,
+            "weight": 0.2
+          },
+          {
+            "id": 16,
+            "lemma": "구용적",
+            "type": "NNG",
+            "position": 708,
+            "weight": 0
+          },
+          {
+            "id": 17,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 717,
+            "weight": 0.0360723
+          },
+          {
+            "id": 18,
+            "lemma": "감소",
+            "type": "NNG",
+            "position": 721,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 727,
+            "weight": 0.0001
+          },
+          {
+            "id": 20,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 727,
+            "weight": 0.0449374
+          },
+          {
+            "id": 21,
+            "lemma": ".",
+            "type": "SF",
+            "position": 736,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "심한",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "철결핍빈혈과",
+            "type": "",
+            "begin": 2,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "재생불량빈혈,",
+            "type": "",
+            "begin": 6,
+            "end": 9
+          },
+          {
+            "id": 3,
+            "text": "임신시에는",
+            "type": "",
+            "begin": 10,
+            "end": 13
+          },
+          {
+            "id": 4,
+            "text": "평균적혈구용적이",
+            "type": "",
+            "begin": 14,
+            "end": 17
+          },
+          {
+            "id": 5,
+            "text": "감소합니다.",
+            "type": "",
+            "begin": 18,
+            "end": 21
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 13,
+        "reserve_str": "",
+        "text": " 반면 악성빈혈이나 산소가 부족한 고산지대에서 거주하는 경우, 항암제 투약 후 평균적혈구용적이 증가할 수 있습니다. ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "반면",
+            "type": "NNG",
+            "position": 738,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "악성",
+            "type": "NNG",
+            "position": 745,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 751,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "이나",
+            "type": "JC",
+            "position": 757,
+            "weight": 0.0238189
+          },
+          {
+            "id": 4,
+            "lemma": "산소",
+            "type": "NNG",
+            "position": 764,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 770,
+            "weight": 0.066324
+          },
+          {
+            "id": 6,
+            "lemma": "부족",
+            "type": "NNG",
+            "position": 774,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "하",
+            "type": "XSA",
+            "position": 780,
+            "weight": 0.0001
+          },
+          {
+            "id": 8,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 780,
+            "weight": 0.488779
+          },
+          {
+            "id": 9,
+            "lemma": "고산",
+            "type": "NNG",
+            "position": 784,
+            "weight": 0.537396
+          },
+          {
+            "id": 10,
+            "lemma": "지대",
+            "type": "NNG",
+            "position": 790,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 796,
+            "weight": 0.153407
+          },
+          {
+            "id": 12,
+            "lemma": "거주",
+            "type": "NNG",
+            "position": 803,
+            "weight": 0.206488
+          },
+          {
+            "id": 13,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 809,
+            "weight": 0.0001
+          },
+          {
+            "id": 14,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 812,
+            "weight": 0.238503
+          },
+          {
+            "id": 15,
+            "lemma": "경우",
+            "type": "NNG",
+            "position": 816,
+            "weight": 0.658545
+          },
+          {
+            "id": 16,
+            "lemma": ",",
+            "type": "SP",
+            "position": 822,
+            "weight": 1
+          },
+          {
+            "id": 17,
+            "lemma": "항암",
+            "type": "NNG",
+            "position": 824,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "제",
+            "type": "XSN",
+            "position": 830,
+            "weight": 0.00596315
+          },
+          {
+            "id": 19,
+            "lemma": "투약",
+            "type": "NNG",
+            "position": 834,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "후",
+            "type": "NNG",
+            "position": 841,
+            "weight": 0.18399
+          },
+          {
+            "id": 21,
+            "lemma": "평균",
+            "type": "NNG",
+            "position": 845,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "적혈",
+            "type": "NNG",
+            "position": 851,
+            "weight": 0.2
+          },
+          {
+            "id": 23,
+            "lemma": "구용적",
+            "type": "NNG",
+            "position": 857,
+            "weight": 0
+          },
+          {
+            "id": 24,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 866,
+            "weight": 0.0360723
+          },
+          {
+            "id": 25,
+            "lemma": "증가",
+            "type": "NNG",
+            "position": 870,
+            "weight": 0.9
+          },
+          {
+            "id": 26,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 876,
+            "weight": 0.0001
+          },
+          {
+            "id": 27,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 876,
+            "weight": 0.387847
+          },
+          {
+            "id": 28,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 880,
+            "weight": 0.215617
+          },
+          {
+            "id": 29,
+            "lemma": "있",
+            "type": "VA",
+            "position": 884,
+            "weight": 0.0518488
+          },
+          {
+            "id": 30,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 887,
+            "weight": 0.1367
+          },
+          {
+            "id": 31,
+            "lemma": ".",
+            "type": "SF",
+            "position": 896,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "반면",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "악성빈혈이나",
+            "type": "",
+            "begin": 1,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "산소가",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "부족한",
+            "type": "",
+            "begin": 6,
+            "end": 8
+          },
+          {
+            "id": 4,
+            "text": "고산지대에서",
+            "type": "",
+            "begin": 9,
+            "end": 11
+          },
+          {
+            "id": 5,
+            "text": "거주하는",
+            "type": "",
+            "begin": 12,
+            "end": 14
+          },
+          {
+            "id": 6,
+            "text": "경우,",
+            "type": "",
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 7,
+            "text": "항암제",
+            "type": "",
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 8,
+            "text": "투약",
+            "type": "",
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 9,
+            "text": "후",
+            "type": "",
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 10,
+            "text": "평균적혈구용적이",
+            "type": "",
+            "begin": 21,
+            "end": 24
+          },
+          {
+            "id": 11,
+            "text": "증가할",
+            "type": "",
+            "begin": 25,
+            "end": 27
+          },
+          {
+            "id": 12,
+            "text": "수",
+            "type": "",
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 13,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 29,
+            "end": 31
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 14,
+        "reserve_str": "",
+        "text": "헬스팁",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "헬스팁",
+            "type": "NNG",
+            "position": 898,
+            "weight": 0
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "헬스팁",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 15,
+        "reserve_str": "",
+        "text": "빈혈의 감별은 평균적혈구용적과 펑균적혈구혈색소, 평균적혈구혈색소농도, RDW 등과 함께 고려합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 907,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 913,
+            "weight": 0.0694213
+          },
+          {
+            "id": 2,
+            "lemma": "감별",
+            "type": "NNG",
+            "position": 917,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "은",
+            "type": "JX",
+            "position": 923,
+            "weight": 0.0449928
+          },
+          {
+            "id": 4,
+            "lemma": "평균",
+            "type": "NNG",
+            "position": 927,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "적혈",
+            "type": "NNG",
+            "position": 933,
+            "weight": 0.2
+          },
+          {
+            "id": 6,
+            "lemma": "구용적",
+            "type": "NNG",
+            "position": 939,
+            "weight": 0
+          },
+          {
+            "id": 7,
+            "lemma": "과",
+            "type": "JC",
+            "position": 948,
+            "weight": 0.017569
+          },
+          {
+            "id": 8,
+            "lemma": "펑균적",
+            "type": "NNG",
+            "position": 952,
+            "weight": 0
+          },
+          {
+            "id": 9,
+            "lemma": "혈구혈",
+            "type": "NNG",
+            "position": 961,
+            "weight": 0
+          },
+          {
+            "id": 10,
+            "lemma": "색소",
+            "type": "NNG",
+            "position": 970,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": ",",
+            "type": "SP",
+            "position": 976,
+            "weight": 1
+          },
+          {
+            "id": 12,
+            "lemma": "평균",
+            "type": "NNG",
+            "position": 978,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "적",
+            "type": "NNG",
+            "position": 984,
+            "weight": 0.0169769
+          },
+          {
+            "id": 14,
+            "lemma": "혈구혈색",
+            "type": "NNG",
+            "position": 987,
+            "weight": 0
+          },
+          {
+            "id": 15,
+            "lemma": "소농도",
+            "type": "NNG",
+            "position": 999,
+            "weight": 0
+          },
+          {
+            "id": 16,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1008,
+            "weight": 1
+          },
+          {
+            "id": 17,
+            "lemma": "RDW",
+            "type": "SL",
+            "position": 1010,
+            "weight": 1
+          },
+          {
+            "id": 18,
+            "lemma": "등",
+            "type": "NNB",
+            "position": 1014,
+            "weight": 0.0128318
+          },
+          {
+            "id": 19,
+            "lemma": "과",
+            "type": "JKB",
+            "position": 1017,
+            "weight": 0.0444681
+          },
+          {
+            "id": 20,
+            "lemma": "함께",
+            "type": "MAG",
+            "position": 1021,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": "고려",
+            "type": "NNG",
+            "position": 1028,
+            "weight": 0.0123606
+          },
+          {
+            "id": 22,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1034,
+            "weight": 0.0001
+          },
+          {
+            "id": 23,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1034,
+            "weight": 0.0449374
+          },
+          {
+            "id": 24,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1043,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "빈혈의",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "감별은",
+            "type": "",
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "평균적혈구용적과",
+            "type": "",
+            "begin": 4,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "펑균적혈구혈색소,",
+            "type": "",
+            "begin": 8,
+            "end": 11
+          },
+          {
+            "id": 4,
+            "text": "평균적혈구혈색소농도,",
+            "type": "",
+            "begin": 12,
+            "end": 16
+          },
+          {
+            "id": 5,
+            "text": "RDW",
+            "type": "",
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 6,
+            "text": "등과",
+            "type": "",
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 7,
+            "text": "함께",
+            "type": "",
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 8,
+            "text": "고려합니다.",
+            "type": "",
+            "begin": 21,
+            "end": 24
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 16,
+        "reserve_str": "",
+        "text": "  대적혈구빈혈은 비타민 B12나 엽산 결핍으로 인한 빈혈, 항암제나 항경련제 투약 이후에 발견되며, 정적혈구빈혈은 급성실혈이나 재생불량빈혈, 골수형성이상증후군에서 보일 수 있습니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "대적혈구빈혈",
+            "type": "NNG",
+            "position": 1046,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": "은",
+            "type": "JX",
+            "position": 1064,
+            "weight": 0.0449928
+          },
+          {
+            "id": 2,
+            "lemma": "비타민",
+            "type": "NNG",
+            "position": 1068,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "B",
+            "type": "SL",
+            "position": 1078,
+            "weight": 1
+          },
+          {
+            "id": 4,
+            "lemma": "12",
+            "type": "SN",
+            "position": 1079,
+            "weight": 1
+          },
+          {
+            "id": 5,
+            "lemma": "나",
+            "type": "JC",
+            "position": 1081,
+            "weight": 0.0001
+          },
+          {
+            "id": 6,
+            "lemma": "엽산",
+            "type": "NNG",
+            "position": 1085,
+            "weight": 0.2
+          },
+          {
+            "id": 7,
+            "lemma": "결핍",
+            "type": "NNG",
+            "position": 1092,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1098,
+            "weight": 0.153406
+          },
+          {
+            "id": 9,
+            "lemma": "인하",
+            "type": "VV",
+            "position": 1105,
+            "weight": 0.406902
+          },
+          {
+            "id": 10,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1108,
+            "weight": 0.304215
+          },
+          {
+            "id": 11,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 1112,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1118,
+            "weight": 1
+          },
+          {
+            "id": 13,
+            "lemma": "항암",
+            "type": "NNG",
+            "position": 1120,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "제",
+            "type": "XSN",
+            "position": 1126,
+            "weight": 0.00596315
+          },
+          {
+            "id": 15,
+            "lemma": "나",
+            "type": "JC",
+            "position": 1129,
+            "weight": 0.00299131
+          },
+          {
+            "id": 16,
+            "lemma": "항",
+            "type": "XPN",
+            "position": 1133,
+            "weight": 0.0001
+          },
+          {
+            "id": 17,
+            "lemma": "경련",
+            "type": "NNG",
+            "position": 1136,
+            "weight": 0.472368
+          },
+          {
+            "id": 18,
+            "lemma": "제",
+            "type": "XSN",
+            "position": 1142,
+            "weight": 0.00596315
+          },
+          {
+            "id": 19,
+            "lemma": "투약",
+            "type": "NNG",
+            "position": 1146,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "이후",
+            "type": "NNG",
+            "position": 1153,
+            "weight": 0.184814
+          },
+          {
+            "id": 21,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1159,
+            "weight": 0.153364
+          },
+          {
+            "id": 22,
+            "lemma": "발견",
+            "type": "NNG",
+            "position": 1163,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1169,
+            "weight": 0.000224177
+          },
+          {
+            "id": 24,
+            "lemma": "며",
+            "type": "EC",
+            "position": 1172,
+            "weight": 0.371165
+          },
+          {
+            "id": 25,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1175,
+            "weight": 1
+          },
+          {
+            "id": 26,
+            "lemma": "정적",
+            "type": "NNG",
+            "position": 1177,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 1183,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 1189,
+            "weight": 0.9
+          },
+          {
+            "id": 29,
+            "lemma": "은",
+            "type": "JX",
+            "position": 1195,
+            "weight": 0.0449928
+          },
+          {
+            "id": 30,
+            "lemma": "급성",
+            "type": "NNG",
+            "position": 1199,
+            "weight": 0.9
+          },
+          {
+            "id": 31,
+            "lemma": "실혈",
+            "type": "NNG",
+            "position": 1205,
+            "weight": 0.1
+          },
+          {
+            "id": 32,
+            "lemma": "이나",
+            "type": "JC",
+            "position": 1211,
+            "weight": 0.0238189
+          },
+          {
+            "id": 33,
+            "lemma": "재생",
+            "type": "NNG",
+            "position": 1218,
+            "weight": 0.9
+          },
+          {
+            "id": 34,
+            "lemma": "불량",
+            "type": "NNG",
+            "position": 1224,
+            "weight": 0.9
+          },
+          {
+            "id": 35,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 1230,
+            "weight": 0.9
+          },
+          {
+            "id": 36,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1236,
+            "weight": 1
+          },
+          {
+            "id": 37,
+            "lemma": "골수",
+            "type": "NNG",
+            "position": 1238,
+            "weight": 0.9
+          },
+          {
+            "id": 38,
+            "lemma": "형성",
+            "type": "NNG",
+            "position": 1244,
+            "weight": 0.9
+          },
+          {
+            "id": 39,
+            "lemma": "이상",
+            "type": "NNG",
+            "position": 1250,
+            "weight": 0.183731
+          },
+          {
+            "id": 40,
+            "lemma": "증후",
+            "type": "NNG",
+            "position": 1256,
+            "weight": 0.9
+          },
+          {
+            "id": 41,
+            "lemma": "군",
+            "type": "XSN",
+            "position": 1262,
+            "weight": 0.0001
+          },
+          {
+            "id": 42,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 1265,
+            "weight": 0.121718
+          },
+          {
+            "id": 43,
+            "lemma": "보이",
+            "type": "VV",
+            "position": 1272,
+            "weight": 0.443925
+          },
+          {
+            "id": 44,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 1275,
+            "weight": 0.300746
+          },
+          {
+            "id": 45,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 1279,
+            "weight": 0.215617
+          },
+          {
+            "id": 46,
+            "lemma": "있",
+            "type": "VA",
+            "position": 1283,
+            "weight": 0.0518488
+          },
+          {
+            "id": 47,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 1286,
+            "weight": 0.1367
+          },
+          {
+            "id": 48,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1295,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "대적혈구빈혈은",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "비타민",
+            "type": "",
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "B12나",
+            "type": "",
+            "begin": 3,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "엽산",
+            "type": "",
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 4,
+            "text": "결핍으로",
+            "type": "",
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 5,
+            "text": "인한",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 6,
+            "text": "빈혈,",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 7,
+            "text": "항암제나",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "항경련제",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          },
+          {
+            "id": 9,
+            "text": "투약",
+            "type": "",
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 10,
+            "text": "이후에",
+            "type": "",
+            "begin": 20,
+            "end": 21
+          },
+          {
+            "id": 11,
+            "text": "발견되며,",
+            "type": "",
+            "begin": 22,
+            "end": 25
+          },
+          {
+            "id": 12,
+            "text": "정적혈구빈혈은",
+            "type": "",
+            "begin": 26,
+            "end": 29
+          },
+          {
+            "id": 13,
+            "text": "급성실혈이나",
+            "type": "",
+            "begin": 30,
+            "end": 32
+          },
+          {
+            "id": 14,
+            "text": "재생불량빈혈,",
+            "type": "",
+            "begin": 33,
+            "end": 36
+          },
+          {
+            "id": 15,
+            "text": "골수형성이상증후군에서",
+            "type": "",
+            "begin": 37,
+            "end": 42
+          },
+          {
+            "id": 16,
+            "text": "보일",
+            "type": "",
+            "begin": 43,
+            "end": 44
+          },
+          {
+            "id": 17,
+            "text": "수",
+            "type": "",
+            "begin": 45,
+            "end": 45
+          },
+          {
+            "id": 18,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 46,
+            "end": 48
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 17,
+        "reserve_str": "",
+        "text": " 소적혈구빈혈은 대부분의 빈혈을 포함하게 되는데 철결핍빈혈과 만성질환빈혈이 여기에 속합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "소적",
+            "type": "NNG",
+            "position": 1297,
+            "weight": 0.15
+          },
+          {
+            "id": 1,
+            "lemma": "혈구빈혈",
+            "type": "NNG",
+            "position": 1303,
+            "weight": 0
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 1315,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "대",
+            "type": "XPN",
+            "position": 1319,
+            "weight": 0.000141351
+          },
+          {
+            "id": 4,
+            "lemma": "부분",
+            "type": "NNG",
+            "position": 1322,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1328,
+            "weight": 0.0694213
+          },
+          {
+            "id": 6,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 1332,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1338,
+            "weight": 0.129611
+          },
+          {
+            "id": 8,
+            "lemma": "포함",
+            "type": "NNG",
+            "position": 1342,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1348,
+            "weight": 0.0001
+          },
+          {
+            "id": 10,
+            "lemma": "게",
+            "type": "EC",
+            "position": 1351,
+            "weight": 0.369675
+          },
+          {
+            "id": 11,
+            "lemma": "되",
+            "type": "VV",
+            "position": 1355,
+            "weight": 0.209958
+          },
+          {
+            "id": 12,
+            "lemma": "는데",
+            "type": "EC",
+            "position": 1358,
+            "weight": 0.410685
+          },
+          {
+            "id": 13,
+            "lemma": "철",
+            "type": "NNG",
+            "position": 1365,
+            "weight": 0.210665
+          },
+          {
+            "id": 14,
+            "lemma": "결핍",
+            "type": "NNG",
+            "position": 1368,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 1374,
+            "weight": 0.9
+          },
+          {
+            "id": 16,
+            "lemma": "과",
+            "type": "JC",
+            "position": 1380,
+            "weight": 0.017569
+          },
+          {
+            "id": 17,
+            "lemma": "만성",
+            "type": "NNG",
+            "position": 1384,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "질환",
+            "type": "NNG",
+            "position": 1390,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 1396,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1402,
+            "weight": 0.0360723
+          },
+          {
+            "id": 21,
+            "lemma": "여기",
+            "type": "NP",
+            "position": 1406,
+            "weight": 0.0202032
+          },
+          {
+            "id": 22,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1412,
+            "weight": 0.126153
+          },
+          {
+            "id": 23,
+            "lemma": "속하",
+            "type": "VV",
+            "position": 1416,
+            "weight": 0.445183
+          },
+          {
+            "id": 24,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1419,
+            "weight": 0.0793776
+          },
+          {
+            "id": 25,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1428,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "소적혈구빈혈은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "대부분의",
+            "type": "",
+            "begin": 3,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "빈혈을",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "포함하게",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 4,
+            "text": "되는데",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 5,
+            "text": "철결핍빈혈과",
+            "type": "",
+            "begin": 13,
+            "end": 16
+          },
+          {
+            "id": 6,
+            "text": "만성질환빈혈이",
+            "type": "",
+            "begin": 17,
+            "end": 20
+          },
+          {
+            "id": 7,
+            "text": "여기에",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 8,
+            "text": "속합니다.",
+            "type": "",
+            "begin": 23,
+            "end": 25
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 18,
+        "reserve_str": "",
+        "text": "  철결핍빈혈는 초기에 정적혈구빈혈로 시작하며 심한 철결핍이 동반되는 경우에 소적혈구빈혈로 나타날 수 있습니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "철",
+            "type": "NNG",
+            "position": 1431,
+            "weight": 0.420467
+          },
+          {
+            "id": 1,
+            "lemma": "결핍",
+            "type": "NNG",
+            "position": 1434,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 1440,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "는",
+            "type": "JX",
+            "position": 1446,
+            "weight": 0.0287565
+          },
+          {
+            "id": 4,
+            "lemma": "초기",
+            "type": "NNG",
+            "position": 1450,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1456,
+            "weight": 0.153364
+          },
+          {
+            "id": 6,
+            "lemma": "정적",
+            "type": "NNG",
+            "position": 1460,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 1466,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 1472,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 1478,
+            "weight": 0.153229
+          },
+          {
+            "id": 10,
+            "lemma": "시작",
+            "type": "NNG",
+            "position": 1482,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1488,
+            "weight": 0.0001
+          },
+          {
+            "id": 12,
+            "lemma": "며",
+            "type": "EC",
+            "position": 1491,
+            "weight": 0.371165
+          },
+          {
+            "id": 13,
+            "lemma": "심하",
+            "type": "VA",
+            "position": 1495,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1498,
+            "weight": 0.430446
+          },
+          {
+            "id": 15,
+            "lemma": "철",
+            "type": "NNG",
+            "position": 1502,
+            "weight": 0.632543
+          },
+          {
+            "id": 16,
+            "lemma": "결핍",
+            "type": "NNG",
+            "position": 1505,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1511,
+            "weight": 0.0360723
+          },
+          {
+            "id": 18,
+            "lemma": "동반",
+            "type": "NNG",
+            "position": 1515,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1521,
+            "weight": 0.000224177
+          },
+          {
+            "id": 20,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1524,
+            "weight": 0.238503
+          },
+          {
+            "id": 21,
+            "lemma": "경우",
+            "type": "NNG",
+            "position": 1528,
+            "weight": 0.658545
+          },
+          {
+            "id": 22,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1534,
+            "weight": 0.153364
+          },
+          {
+            "id": 23,
+            "lemma": "소적",
+            "type": "NNG",
+            "position": 1538,
+            "weight": 0.15
+          },
+          {
+            "id": 24,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 1544,
+            "weight": 0.9
+          },
+          {
+            "id": 25,
+            "lemma": "빈혈",
+            "type": "NNG",
+            "position": 1550,
+            "weight": 0.9
+          },
+          {
+            "id": 26,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 1556,
+            "weight": 0.153229
+          },
+          {
+            "id": 27,
+            "lemma": "나타나",
+            "type": "VV",
+            "position": 1560,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 1566,
+            "weight": 0.300746
+          },
+          {
+            "id": 29,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 1570,
+            "weight": 0.215617
+          },
+          {
+            "id": 30,
+            "lemma": "있",
+            "type": "VA",
+            "position": 1574,
+            "weight": 0.0518488
+          },
+          {
+            "id": 31,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 1577,
+            "weight": 0.1367
+          },
+          {
+            "id": 32,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1586,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "철결핍빈혈는",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "초기에",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "정적혈구빈혈로",
+            "type": "",
+            "begin": 6,
+            "end": 9
+          },
+          {
+            "id": 3,
+            "text": "시작하며",
+            "type": "",
+            "begin": 10,
+            "end": 12
+          },
+          {
+            "id": 4,
+            "text": "심한",
+            "type": "",
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 5,
+            "text": "철결핍이",
+            "type": "",
+            "begin": 15,
+            "end": 17
+          },
+          {
+            "id": 6,
+            "text": "동반되는",
+            "type": "",
+            "begin": 18,
+            "end": 20
+          },
+          {
+            "id": 7,
+            "text": "경우에",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 8,
+            "text": "소적혈구빈혈로",
+            "type": "",
+            "begin": 23,
+            "end": 26
+          },
+          {
+            "id": 9,
+            "text": "나타날",
+            "type": "",
+            "begin": 27,
+            "end": 28
+          },
+          {
+            "id": 10,
+            "text": "수",
+            "type": "",
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 11,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 30,
+            "end": 32
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      }
+    ],
+    "entity": []
+  }
+}

@@ -1,0 +1,7775 @@
+{
+  "result": 0,
+  "return_object": {
+    "doc_id": "",
+    "DCT": "",
+    "category": "",
+    "category_weight": 0,
+    "title": {
+      "text": "",
+      "NE": ""
+    },
+    "metaInfo": {},
+    "paragraphInfo": [],
+    "sentence": [
+      {
+        "id": 0,
+        "reserve_str": "",
+        "text": "신체명: 조혈모세포(Hematopoietic stem cell)",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "신체명",
+            "type": "NNG",
+            "position": 0,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": ":",
+            "type": "SP",
+            "position": 9,
+            "weight": 1
+          },
+          {
+            "id": 2,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 11,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 17,
+            "weight": 0.0814783
+          },
+          {
+            "id": 4,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 20,
+            "weight": 0.184757
+          },
+          {
+            "id": 5,
+            "lemma": "(",
+            "type": "SS",
+            "position": 26,
+            "weight": 1
+          },
+          {
+            "id": 6,
+            "lemma": "Hematopoietic",
+            "type": "SL",
+            "position": 27,
+            "weight": 1
+          },
+          {
+            "id": 7,
+            "lemma": "stem",
+            "type": "SL",
+            "position": 41,
+            "weight": 1
+          },
+          {
+            "id": 8,
+            "lemma": "cell",
+            "type": "SL",
+            "position": 46,
+            "weight": 1
+          },
+          {
+            "id": 9,
+            "lemma": ")",
+            "type": "SS",
+            "position": 50,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "신체명",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 0,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": ":",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 9,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 11,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 17,
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "(",
+            "type": "SS",
+            "scode": "00",
+            "weight": 1,
+            "position": 26,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "Hematopoietic",
+            "type": "SL",
+            "scode": "00",
+            "weight": 1,
+            "position": 27,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "stem",
+            "type": "SL",
+            "scode": "00",
+            "weight": 1,
+            "position": 41,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "cell",
+            "type": "SL",
+            "scode": "00",
+            "weight": 1,
+            "position": 46,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": ")",
+            "type": "SS",
+            "scode": "00",
+            "weight": 1,
+            "position": 50,
+            "begin": 9,
+            "end": 9
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "신체명:",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "조혈모세포(Hematopoietic",
+            "type": "",
+            "begin": 2,
+            "end": 6
+          },
+          {
+            "id": 2,
+            "text": "stem",
+            "type": "",
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "cell)",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 2,
+            "end": 4,
+            "weight": 0.684058,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "Hematopoietic stem",
+            "type": "TMI_SERVICE",
+            "begin": 6,
+            "end": 7,
+            "weight": 0.210712,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 1,
+        "reserve_str": "",
+        "text": "정의",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "정의",
+            "type": "NNG",
+            "position": 51,
+            "weight": 0.43414
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 1,
+            "position": 51,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "LC_OTHERS",
+            "begin": 0,
+            "end": 0,
+            "weight": 1,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 2,
+        "reserve_str": "",
+        "text": "우리 몸의 뼈안에 존재하는 골수에서 생성되는 세포로 적혈구, 백혈구, 혈소판을 생산하는 역할을 합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "우리",
+            "type": "NP",
+            "position": 57,
+            "weight": 0.0729896
+          },
+          {
+            "id": 1,
+            "lemma": "몸",
+            "type": "NNG",
+            "position": 64,
+            "weight": 0.0705057
+          },
+          {
+            "id": 2,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 67,
+            "weight": 0.0694213
+          },
+          {
+            "id": 3,
+            "lemma": "뼈안",
+            "type": "NNG",
+            "position": 71,
+            "weight": 0
+          },
+          {
+            "id": 4,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 77,
+            "weight": 0.153364
+          },
+          {
+            "id": 5,
+            "lemma": "존재",
+            "type": "NNG",
+            "position": 81,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 87,
+            "weight": 0.0001
+          },
+          {
+            "id": 7,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 90,
+            "weight": 0.238503
+          },
+          {
+            "id": 8,
+            "lemma": "골수",
+            "type": "NNG",
+            "position": 94,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 100,
+            "weight": 0.153407
+          },
+          {
+            "id": 10,
+            "lemma": "생성",
+            "type": "NNG",
+            "position": 107,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 113,
+            "weight": 0.000224177
+          },
+          {
+            "id": 12,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 116,
+            "weight": 0.238503
+          },
+          {
+            "id": 13,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 120,
+            "weight": 0.658547
+          },
+          {
+            "id": 14,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 126,
+            "weight": 0.153229
+          },
+          {
+            "id": 15,
+            "lemma": "적",
+            "type": "NNG",
+            "position": 130,
+            "weight": 0.0191084
+          },
+          {
+            "id": 16,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 133,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": ",",
+            "type": "SP",
+            "position": 139,
+            "weight": 1
+          },
+          {
+            "id": 18,
+            "lemma": "백",
+            "type": "XPN",
+            "position": 141,
+            "weight": 0.0001
+          },
+          {
+            "id": 19,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 144,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": ",",
+            "type": "SP",
+            "position": 150,
+            "weight": 1
+          },
+          {
+            "id": 21,
+            "lemma": "혈소판",
+            "type": "NNG",
+            "position": 152,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 161,
+            "weight": 0.129611
+          },
+          {
+            "id": 23,
+            "lemma": "생산",
+            "type": "NNG",
+            "position": 165,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 171,
+            "weight": 0.0001
+          },
+          {
+            "id": 25,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 174,
+            "weight": 0.238503
+          },
+          {
+            "id": 26,
+            "lemma": "역할",
+            "type": "NNG",
+            "position": 178,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 184,
+            "weight": 0.129611
+          },
+          {
+            "id": 28,
+            "lemma": "하",
+            "type": "VV",
+            "position": 188,
+            "weight": 0.48169
+          },
+          {
+            "id": 29,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 188,
+            "weight": 0.0793776
+          },
+          {
+            "id": 30,
+            "lemma": ".",
+            "type": "SF",
+            "position": 197,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "우리",
+            "type": "NP",
+            "scode": "03",
+            "weight": 2.2,
+            "position": 57,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "몸",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 64,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 67,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "뼈안",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 71,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 77,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "존재하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 81,
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 90,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "골수",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 94,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 100,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "생성되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 107,
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 116,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "세포",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 6.6,
+            "position": 120,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 126,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "적혈구",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 130,
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 14,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 139,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 15,
+            "text": "백혈구",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 141,
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 16,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 150,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 17,
+            "text": "혈소판",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 152,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 18,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 161,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 19,
+            "text": "생산하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 165,
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 20,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 174,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 21,
+            "text": "역할",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 178,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 22,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 184,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 23,
+            "text": "하",
+            "type": "VV",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 188,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 24,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 188,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 25,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 197,
+            "begin": 30,
+            "end": 30
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "우리",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "몸의",
+            "type": "",
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "뼈안에",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "존재하는",
+            "type": "",
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "골수에서",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 5,
+            "text": "생성되는",
+            "type": "",
+            "begin": 10,
+            "end": 12
+          },
+          {
+            "id": 6,
+            "text": "세포로",
+            "type": "",
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 7,
+            "text": "적혈구,",
+            "type": "",
+            "begin": 15,
+            "end": 17
+          },
+          {
+            "id": 8,
+            "text": "백혈구,",
+            "type": "",
+            "begin": 18,
+            "end": 20
+          },
+          {
+            "id": 9,
+            "text": "혈소판을",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 10,
+            "text": "생산하는",
+            "type": "",
+            "begin": 23,
+            "end": 25
+          },
+          {
+            "id": 11,
+            "text": "역할을",
+            "type": "",
+            "begin": 26,
+            "end": 27
+          },
+          {
+            "id": 12,
+            "text": "합니다.",
+            "type": "",
+            "begin": 28,
+            "end": 30
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "골수",
+            "type": "TM_CELL_TISSUE",
+            "begin": 8,
+            "end": 8,
+            "weight": 0.349184,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "적혈구",
+            "type": "TM_CELL_TISSUE",
+            "begin": 15,
+            "end": 16,
+            "weight": 0.839008,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "백혈구",
+            "type": "TM_CELL_TISSUE",
+            "begin": 18,
+            "end": 19,
+            "weight": 0.589145,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "혈소판",
+            "type": "TM_CELL_TISSUE",
+            "begin": 21,
+            "end": 21,
+            "weight": 0.550911,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 3,
+        "reserve_str": "",
+        "text": " 대부분 조혈모세포는 주로 골수에 있으나 말초혈액에도 소량 존재하고 신생아의 제대혈에도 존재합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "대",
+            "type": "XPN",
+            "position": 199,
+            "weight": 0.000255245
+          },
+          {
+            "id": 1,
+            "lemma": "부분",
+            "type": "NNG",
+            "position": 202,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 209,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 215,
+            "weight": 0.0814783
+          },
+          {
+            "id": 4,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 218,
+            "weight": 0.184757
+          },
+          {
+            "id": 5,
+            "lemma": "는",
+            "type": "JX",
+            "position": 224,
+            "weight": 0.0287565
+          },
+          {
+            "id": 6,
+            "lemma": "주로",
+            "type": "MAG",
+            "position": 228,
+            "weight": 0.126869
+          },
+          {
+            "id": 7,
+            "lemma": "골수",
+            "type": "NNG",
+            "position": 235,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 241,
+            "weight": 0.153364
+          },
+          {
+            "id": 9,
+            "lemma": "있",
+            "type": "VA",
+            "position": 245,
+            "weight": 0.037292
+          },
+          {
+            "id": 10,
+            "lemma": "으나",
+            "type": "EC",
+            "position": 248,
+            "weight": 0.321427
+          },
+          {
+            "id": 11,
+            "lemma": "말초",
+            "type": "NNG",
+            "position": 255,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 261,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 267,
+            "weight": 0.153364
+          },
+          {
+            "id": 14,
+            "lemma": "도",
+            "type": "JX",
+            "position": 270,
+            "weight": 0.0912297
+          },
+          {
+            "id": 15,
+            "lemma": "소량",
+            "type": "NNG",
+            "position": 274,
+            "weight": 0.9
+          },
+          {
+            "id": 16,
+            "lemma": "존재",
+            "type": "NNG",
+            "position": 281,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 287,
+            "weight": 0.0001
+          },
+          {
+            "id": 18,
+            "lemma": "고",
+            "type": "EC",
+            "position": 290,
+            "weight": 0.359917
+          },
+          {
+            "id": 19,
+            "lemma": "신생",
+            "type": "NNG",
+            "position": 294,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "아",
+            "type": "XSN",
+            "position": 300,
+            "weight": 0.0001
+          },
+          {
+            "id": 21,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 303,
+            "weight": 0.120732
+          },
+          {
+            "id": 22,
+            "lemma": "제대혈",
+            "type": "NNG",
+            "position": 307,
+            "weight": 0
+          },
+          {
+            "id": 23,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 316,
+            "weight": 0.153364
+          },
+          {
+            "id": 24,
+            "lemma": "도",
+            "type": "JX",
+            "position": 319,
+            "weight": 0.0912297
+          },
+          {
+            "id": 25,
+            "lemma": "존재",
+            "type": "NNG",
+            "position": 323,
+            "weight": 0.9
+          },
+          {
+            "id": 26,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 329,
+            "weight": 0.0001
+          },
+          {
+            "id": 27,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 329,
+            "weight": 0.0449374
+          },
+          {
+            "id": 28,
+            "lemma": ".",
+            "type": "SF",
+            "position": 338,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "대부분",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 199,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 209,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 215,
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 224,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": "주로",
+            "type": "MAG",
+            "scode": "01",
+            "weight": 8.8,
+            "position": 228,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 5,
+            "text": "골수",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 235,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 6,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 241,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 7,
+            "text": "있",
+            "type": "VA",
+            "scode": "01",
+            "weight": 11,
+            "position": 245,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "으나",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 248,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "말초",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 255,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 261,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 267,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "도",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 270,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "소량",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 4.4,
+            "position": 274,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "존재하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 281,
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 15,
+            "text": "고",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 290,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 16,
+            "text": "신생아",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 294,
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 17,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 303,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 18,
+            "text": "제대혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 307,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 19,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 316,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 20,
+            "text": "도",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 319,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 21,
+            "text": "존재하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 323,
+            "begin": 25,
+            "end": 26
+          },
+          {
+            "id": 22,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 329,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 23,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 338,
+            "begin": 28,
+            "end": 28
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "대부분",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "조혈모세포는",
+            "type": "",
+            "begin": 2,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "주로",
+            "type": "",
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 3,
+            "text": "골수에",
+            "type": "",
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 4,
+            "text": "있으나",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "말초혈액에도",
+            "type": "",
+            "begin": 11,
+            "end": 14
+          },
+          {
+            "id": 6,
+            "text": "소량",
+            "type": "",
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 7,
+            "text": "존재하고",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          },
+          {
+            "id": 8,
+            "text": "신생아의",
+            "type": "",
+            "begin": 19,
+            "end": 21
+          },
+          {
+            "id": 9,
+            "text": "제대혈에도",
+            "type": "",
+            "begin": 22,
+            "end": 24
+          },
+          {
+            "id": 10,
+            "text": "존재합니다.",
+            "type": "",
+            "begin": 25,
+            "end": 28
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 2,
+            "end": 4,
+            "weight": 0.539029,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "골수",
+            "type": "TM_CELL_TISSUE",
+            "begin": 7,
+            "end": 7,
+            "weight": 0.332414,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "제대혈",
+            "type": "TM_CELL_TISSUE",
+            "begin": 22,
+            "end": 22,
+            "weight": 0.185013,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 4,
+        "reserve_str": "",
+        "text": " 조혈모세포에 이상이 생겨 질환이 발병할 경우 조혈모세포를 이식함으로써 질환을 치료할 수 있습니다. ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 340,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 346,
+            "weight": 0.0814783
+          },
+          {
+            "id": 2,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 349,
+            "weight": 0.184757
+          },
+          {
+            "id": 3,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 355,
+            "weight": 0.153364
+          },
+          {
+            "id": 4,
+            "lemma": "이상",
+            "type": "NNG",
+            "position": 359,
+            "weight": 0.206798
+          },
+          {
+            "id": 5,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 365,
+            "weight": 0.0360723
+          },
+          {
+            "id": 6,
+            "lemma": "생기",
+            "type": "VV",
+            "position": 369,
+            "weight": 0.30563
+          },
+          {
+            "id": 7,
+            "lemma": "어",
+            "type": "EC",
+            "position": 372,
+            "weight": 0.41831
+          },
+          {
+            "id": 8,
+            "lemma": "질환",
+            "type": "NNG",
+            "position": 376,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 382,
+            "weight": 0.0360723
+          },
+          {
+            "id": 10,
+            "lemma": "발병",
+            "type": "NNG",
+            "position": 386,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 392,
+            "weight": 0.0001
+          },
+          {
+            "id": 12,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 392,
+            "weight": 0.387847
+          },
+          {
+            "id": 13,
+            "lemma": "경우",
+            "type": "NNG",
+            "position": 396,
+            "weight": 0.658545
+          },
+          {
+            "id": 14,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 403,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 409,
+            "weight": 0.0814783
+          },
+          {
+            "id": 16,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 412,
+            "weight": 0.184757
+          },
+          {
+            "id": 17,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 418,
+            "weight": 0.137686
+          },
+          {
+            "id": 18,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 422,
+            "weight": 0.098955
+          },
+          {
+            "id": 19,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 428,
+            "weight": 0.0001
+          },
+          {
+            "id": 20,
+            "lemma": "ㅁ",
+            "type": "ETN",
+            "position": 428,
+            "weight": 0.0575018
+          },
+          {
+            "id": 21,
+            "lemma": "으로써",
+            "type": "JKB",
+            "position": 431,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "질환",
+            "type": "NNG",
+            "position": 441,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 447,
+            "weight": 0.129611
+          },
+          {
+            "id": 24,
+            "lemma": "치료",
+            "type": "NNG",
+            "position": 451,
+            "weight": 0.9
+          },
+          {
+            "id": 25,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 457,
+            "weight": 0.0001
+          },
+          {
+            "id": 26,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 457,
+            "weight": 0.387847
+          },
+          {
+            "id": 27,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 461,
+            "weight": 0.215617
+          },
+          {
+            "id": 28,
+            "lemma": "있",
+            "type": "VA",
+            "position": 465,
+            "weight": 0.0518488
+          },
+          {
+            "id": 29,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 468,
+            "weight": 0.1367
+          },
+          {
+            "id": 30,
+            "lemma": ".",
+            "type": "SF",
+            "position": 477,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 340,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 346,
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 355,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "이상",
+            "type": "NNG",
+            "scode": "12",
+            "weight": 3.41576,
+            "position": 359,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 365,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "생기",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 369,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 372,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "질환",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 376,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 382,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "발병하",
+            "type": "VV",
+            "scode": "02",
+            "weight": 4.4,
+            "position": 386,
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "ㄹ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 392,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "경우",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 9.8,
+            "position": 396,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 403,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 409,
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 14,
+            "text": "를",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 418,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 15,
+            "text": "이식하",
+            "type": "VV",
+            "scode": "03",
+            "weight": 4.4,
+            "position": 422,
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 16,
+            "text": "ㅁ",
+            "type": "ETN",
+            "scode": "00",
+            "weight": 1,
+            "position": 428,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 17,
+            "text": "으로써",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 431,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 18,
+            "text": "질환",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 441,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 19,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 447,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 20,
+            "text": "치료하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 451,
+            "begin": 24,
+            "end": 25
+          },
+          {
+            "id": 21,
+            "text": "ㄹ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 457,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 22,
+            "text": "수",
+            "type": "NNB",
+            "scode": "02",
+            "weight": 6.59923,
+            "position": 461,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 23,
+            "text": "있",
+            "type": "VA",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 465,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 24,
+            "text": "습니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 468,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 25,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 477,
+            "begin": 30,
+            "end": 30
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "조혈모세포에",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "이상이",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "생겨",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "질환이",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 4,
+            "text": "발병할",
+            "type": "",
+            "begin": 10,
+            "end": 12
+          },
+          {
+            "id": 5,
+            "text": "경우",
+            "type": "",
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 6,
+            "text": "조혈모세포를",
+            "type": "",
+            "begin": 14,
+            "end": 17
+          },
+          {
+            "id": 7,
+            "text": "이식함으로써",
+            "type": "",
+            "begin": 18,
+            "end": 21
+          },
+          {
+            "id": 8,
+            "text": "질환을",
+            "type": "",
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 9,
+            "text": "치료할",
+            "type": "",
+            "begin": 24,
+            "end": 26
+          },
+          {
+            "id": 10,
+            "text": "수",
+            "type": "",
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 11,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 28,
+            "end": 30
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 2,
+            "weight": 0.441606,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 14,
+            "end": 16,
+            "weight": 0.530759,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 5,
+        "reserve_str": "",
+        "text": "위치",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "위치",
+            "type": "NNG",
+            "position": 479,
+            "weight": 0.437565
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "위치",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 479,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "위치",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 6,
+        "reserve_str": "",
+        "text": "우리 몸의 뼈 안에 골수에 주로 존재하며, 말초혈액과 신생아의 제대혈에도 소량 존재합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "우리",
+            "type": "NP",
+            "position": 485,
+            "weight": 0.0729896
+          },
+          {
+            "id": 1,
+            "lemma": "몸",
+            "type": "NNG",
+            "position": 492,
+            "weight": 0.0705057
+          },
+          {
+            "id": 2,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 495,
+            "weight": 0.0694213
+          },
+          {
+            "id": 3,
+            "lemma": "뼈",
+            "type": "NNG",
+            "position": 499,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "안",
+            "type": "NNG",
+            "position": 503,
+            "weight": 0.0903732
+          },
+          {
+            "id": 5,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 506,
+            "weight": 0.153364
+          },
+          {
+            "id": 6,
+            "lemma": "골수",
+            "type": "NNG",
+            "position": 510,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 516,
+            "weight": 0.153364
+          },
+          {
+            "id": 8,
+            "lemma": "주로",
+            "type": "MAG",
+            "position": 520,
+            "weight": 0.0557734
+          },
+          {
+            "id": 9,
+            "lemma": "존재",
+            "type": "NNG",
+            "position": 527,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 533,
+            "weight": 0.0001
+          },
+          {
+            "id": 11,
+            "lemma": "며",
+            "type": "EC",
+            "position": 536,
+            "weight": 0.371165
+          },
+          {
+            "id": 12,
+            "lemma": ",",
+            "type": "SP",
+            "position": 539,
+            "weight": 1
+          },
+          {
+            "id": 13,
+            "lemma": "말초",
+            "type": "NNG",
+            "position": 541,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 547,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "과",
+            "type": "JC",
+            "position": 553,
+            "weight": 0.017569
+          },
+          {
+            "id": 16,
+            "lemma": "신생",
+            "type": "NNG",
+            "position": 557,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "아",
+            "type": "XSN",
+            "position": 563,
+            "weight": 0.0001
+          },
+          {
+            "id": 18,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 566,
+            "weight": 0.120732
+          },
+          {
+            "id": 19,
+            "lemma": "제대혈",
+            "type": "NNG",
+            "position": 570,
+            "weight": 0
+          },
+          {
+            "id": 20,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 579,
+            "weight": 0.153364
+          },
+          {
+            "id": 21,
+            "lemma": "도",
+            "type": "JX",
+            "position": 582,
+            "weight": 0.0912297
+          },
+          {
+            "id": 22,
+            "lemma": "소량",
+            "type": "NNG",
+            "position": 586,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "존재",
+            "type": "NNG",
+            "position": 593,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 599,
+            "weight": 0.0001
+          },
+          {
+            "id": 25,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 599,
+            "weight": 0.0449374
+          },
+          {
+            "id": 26,
+            "lemma": ".",
+            "type": "SF",
+            "position": 608,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "우리",
+            "type": "NP",
+            "scode": "03",
+            "weight": 4.4,
+            "position": 485,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "몸",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 492,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 495,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "뼈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 499,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "안",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 8.46667,
+            "position": 503,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 506,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "골수",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 510,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 516,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 8,
+            "text": "주로",
+            "type": "MAG",
+            "scode": "01",
+            "weight": 8.8,
+            "position": 520,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 9,
+            "text": "존재하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 527,
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 10,
+            "text": "며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 536,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 11,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 539,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 12,
+            "text": "말초",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 541,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 547,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 553,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 15,
+            "text": "신생아",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 557,
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 16,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 566,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 17,
+            "text": "제대혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 570,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 18,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 579,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 19,
+            "text": "도",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 582,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 20,
+            "text": "소량",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 2.2,
+            "position": 586,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 21,
+            "text": "존재하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 593,
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 22,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 599,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 23,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 608,
+            "begin": 26,
+            "end": 26
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "우리",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "몸의",
+            "type": "",
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "뼈",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "안에",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": "골수에",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 5,
+            "text": "주로",
+            "type": "",
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 6,
+            "text": "존재하며,",
+            "type": "",
+            "begin": 9,
+            "end": 12
+          },
+          {
+            "id": 7,
+            "text": "말초혈액과",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "신생아의",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          },
+          {
+            "id": 9,
+            "text": "제대혈에도",
+            "type": "",
+            "begin": 19,
+            "end": 21
+          },
+          {
+            "id": 10,
+            "text": "소량",
+            "type": "",
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 11,
+            "text": "존재합니다.",
+            "type": "",
+            "begin": 23,
+            "end": 26
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "뼈",
+            "type": "TM_CELL_TISSUE",
+            "begin": 3,
+            "end": 3,
+            "weight": 0.236094,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "골수",
+            "type": "TM_CELL_TISSUE",
+            "begin": 6,
+            "end": 6,
+            "weight": 0.322604,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "제대혈",
+            "type": "TM_CELL_TISSUE",
+            "begin": 19,
+            "end": 19,
+            "weight": 0.182542,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 7,
+        "reserve_str": "",
+        "text": "구조",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "구조",
+            "type": "NNG",
+            "position": 609,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "구조",
+            "type": "NNG",
+            "scode": "08",
+            "weight": 1,
+            "position": 609,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "구조",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 8,
+        "reserve_str": "",
+        "text": "조혈모세포는 다른 세포와는 다르게 CD34 표지자가 양성을 띄는 구조적인 특징을 지내고 있습니다. ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 615,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 621,
+            "weight": 0.0814783
+          },
+          {
+            "id": 2,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 624,
+            "weight": 0.184757
+          },
+          {
+            "id": 3,
+            "lemma": "는",
+            "type": "JX",
+            "position": 630,
+            "weight": 0.0287565
+          },
+          {
+            "id": 4,
+            "lemma": "다른",
+            "type": "MM",
+            "position": 634,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 641,
+            "weight": 0.737124
+          },
+          {
+            "id": 6,
+            "lemma": "와",
+            "type": "JKB",
+            "position": 647,
+            "weight": 0.0567862
+          },
+          {
+            "id": 7,
+            "lemma": "는",
+            "type": "JX",
+            "position": 650,
+            "weight": 0.0387928
+          },
+          {
+            "id": 8,
+            "lemma": "다르",
+            "type": "VA",
+            "position": 654,
+            "weight": 0.10899
+          },
+          {
+            "id": 9,
+            "lemma": "게",
+            "type": "EC",
+            "position": 660,
+            "weight": 0.31879
+          },
+          {
+            "id": 10,
+            "lemma": "CD",
+            "type": "SL",
+            "position": 664,
+            "weight": 1
+          },
+          {
+            "id": 11,
+            "lemma": "34",
+            "type": "SN",
+            "position": 666,
+            "weight": 1
+          },
+          {
+            "id": 12,
+            "lemma": "표지",
+            "type": "NNG",
+            "position": 669,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "자",
+            "type": "XSN",
+            "position": 675,
+            "weight": 0.00398741
+          },
+          {
+            "id": 14,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 678,
+            "weight": 0.134553
+          },
+          {
+            "id": 15,
+            "lemma": "양성",
+            "type": "NNG",
+            "position": 682,
+            "weight": 0.207944
+          },
+          {
+            "id": 16,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 688,
+            "weight": 0.129611
+          },
+          {
+            "id": 17,
+            "lemma": "띄",
+            "type": "VV",
+            "position": 692,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 695,
+            "weight": 0.184941
+          },
+          {
+            "id": 19,
+            "lemma": "구조",
+            "type": "NNG",
+            "position": 699,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "적",
+            "type": "XSN",
+            "position": 705,
+            "weight": 0.0168756
+          },
+          {
+            "id": 21,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 708,
+            "weight": 0.0165001
+          },
+          {
+            "id": 22,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 708,
+            "weight": 0.220712
+          },
+          {
+            "id": 23,
+            "lemma": "특징",
+            "type": "NNG",
+            "position": 712,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 718,
+            "weight": 0.129611
+          },
+          {
+            "id": 25,
+            "lemma": "지내",
+            "type": "VV",
+            "position": 722,
+            "weight": 0.777813
+          },
+          {
+            "id": 26,
+            "lemma": "고",
+            "type": "EC",
+            "position": 728,
+            "weight": 0.416679
+          },
+          {
+            "id": 27,
+            "lemma": "있",
+            "type": "VX",
+            "position": 732,
+            "weight": 0.125953
+          },
+          {
+            "id": 28,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 735,
+            "weight": 0.185981
+          },
+          {
+            "id": 29,
+            "lemma": ".",
+            "type": "SF",
+            "position": 744,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 615,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 621,
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 630,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "다른",
+            "type": "MM",
+            "scode": "00",
+            "weight": 0,
+            "position": 634,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "세포",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 8.8,
+            "position": 641,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "와",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 647,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 650,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "다르",
+            "type": "VA",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 654,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "게",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 660,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "CD",
+            "type": "SL",
+            "scode": "00",
+            "weight": 1,
+            "position": 664,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 10,
+            "text": "34",
+            "type": "SN",
+            "scode": "00",
+            "weight": 1,
+            "position": 666,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 11,
+            "text": "표지",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 2.7,
+            "position": 669,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 12,
+            "text": "자",
+            "type": "XSN",
+            "scode": "31",
+            "weight": 1,
+            "position": 675,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 678,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "양성",
+            "type": "NNG",
+            "scode": "10",
+            "weight": 1,
+            "position": 682,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 15,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 688,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 16,
+            "text": "띄",
+            "type": "VV",
+            "scode": "01",
+            "weight": 4.2,
+            "position": 692,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 17,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 695,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 18,
+            "text": "구조적",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 699,
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 19,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 708,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 20,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 708,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 21,
+            "text": "특징",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 712,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 22,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 718,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 23,
+            "text": "지내",
+            "type": "VV",
+            "scode": "01",
+            "weight": 1,
+            "position": 722,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 24,
+            "text": "고",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 728,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 25,
+            "text": "있",
+            "type": "VX",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 732,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 26,
+            "text": "습니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 735,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 27,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 744,
+            "begin": 29,
+            "end": 29
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "조혈모세포는",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "다른",
+            "type": "",
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "세포와는",
+            "type": "",
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "다르게",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 4,
+            "text": "CD34",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 5,
+            "text": "표지자가",
+            "type": "",
+            "begin": 12,
+            "end": 14
+          },
+          {
+            "id": 6,
+            "text": "양성을",
+            "type": "",
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 7,
+            "text": "띄는",
+            "type": "",
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 8,
+            "text": "구조적인",
+            "type": "",
+            "begin": 19,
+            "end": 22
+          },
+          {
+            "id": 9,
+            "text": "특징을",
+            "type": "",
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 10,
+            "text": "지내고",
+            "type": "",
+            "begin": 25,
+            "end": 26
+          },
+          {
+            "id": 11,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 27,
+            "end": 29
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 2,
+            "weight": 0.477059,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "CD",
+            "type": "TR_SCIENCE",
+            "begin": 10,
+            "end": 10,
+            "weight": 0.169762,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "표지자",
+            "type": "CV_POSITION",
+            "begin": 12,
+            "end": 13,
+            "weight": 0.25914,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "구조적",
+            "type": "TMI_SW",
+            "begin": 19,
+            "end": 20,
+            "weight": 1,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 9,
+        "reserve_str": "",
+        "text": "기능",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "기능",
+            "type": "NNG",
+            "position": 746,
+            "weight": 0.437845
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "기능",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 1,
+            "position": 746,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "기능",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "기능",
+            "type": "OGG_ECONOMY",
+            "begin": 0,
+            "end": 0,
+            "weight": 1,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 10,
+        "reserve_str": "",
+        "text": "조혈모세포는 적혈구, 백혈구, 혈소판을 생산합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 752,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 758,
+            "weight": 0.0814783
+          },
+          {
+            "id": 2,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 761,
+            "weight": 0.184757
+          },
+          {
+            "id": 3,
+            "lemma": "는",
+            "type": "JX",
+            "position": 767,
+            "weight": 0.0287565
+          },
+          {
+            "id": 4,
+            "lemma": "적",
+            "type": "NNG",
+            "position": 771,
+            "weight": 0.029843
+          },
+          {
+            "id": 5,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 774,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": ",",
+            "type": "SP",
+            "position": 780,
+            "weight": 1
+          },
+          {
+            "id": 7,
+            "lemma": "백",
+            "type": "XPN",
+            "position": 782,
+            "weight": 0.0001
+          },
+          {
+            "id": 8,
+            "lemma": "혈구",
+            "type": "NNG",
+            "position": 785,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": ",",
+            "type": "SP",
+            "position": 791,
+            "weight": 1
+          },
+          {
+            "id": 10,
+            "lemma": "혈소판",
+            "type": "NNG",
+            "position": 793,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 802,
+            "weight": 0.129611
+          },
+          {
+            "id": 12,
+            "lemma": "생산",
+            "type": "NNG",
+            "position": 806,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 812,
+            "weight": 0.0001
+          },
+          {
+            "id": 14,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 812,
+            "weight": 0.0449374
+          },
+          {
+            "id": 15,
+            "lemma": ".",
+            "type": "SF",
+            "position": 821,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 752,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 758,
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 767,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "적혈구",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 771,
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 780,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 5,
+            "text": "백혈구",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 782,
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 6,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 791,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 7,
+            "text": "혈소판",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 793,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 8,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 802,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 9,
+            "text": "생산하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 806,
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 10,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 812,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 11,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 821,
+            "begin": 15,
+            "end": 15
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "조혈모세포는",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "적혈구,",
+            "type": "",
+            "begin": 4,
+            "end": 6
+          },
+          {
+            "id": 2,
+            "text": "백혈구,",
+            "type": "",
+            "begin": 7,
+            "end": 9
+          },
+          {
+            "id": 3,
+            "text": "혈소판을",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 4,
+            "text": "생산합니다.",
+            "type": "",
+            "begin": 12,
+            "end": 15
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 2,
+            "weight": 0.51587,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "적혈구",
+            "type": "TM_CELL_TISSUE",
+            "begin": 4,
+            "end": 5,
+            "weight": 0.853018,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "백혈구",
+            "type": "TM_CELL_TISSUE",
+            "begin": 7,
+            "end": 8,
+            "weight": 0.58915,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "혈소판",
+            "type": "TM_CELL_TISSUE",
+            "begin": 10,
+            "end": 10,
+            "weight": 0.550992,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 11,
+        "reserve_str": "",
+        "text": " 조혈모세포는 자가복제능력이 있어 지속적인 조혈작용이 가능합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 823,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 829,
+            "weight": 0.0814783
+          },
+          {
+            "id": 2,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 832,
+            "weight": 0.184757
+          },
+          {
+            "id": 3,
+            "lemma": "는",
+            "type": "JX",
+            "position": 838,
+            "weight": 0.0287565
+          },
+          {
+            "id": 4,
+            "lemma": "자가",
+            "type": "NNG",
+            "position": 842,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "복제",
+            "type": "NNG",
+            "position": 848,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "능력",
+            "type": "NNG",
+            "position": 854,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 860,
+            "weight": 0.0360723
+          },
+          {
+            "id": 8,
+            "lemma": "있",
+            "type": "VA",
+            "position": 864,
+            "weight": 0.12767
+          },
+          {
+            "id": 9,
+            "lemma": "어",
+            "type": "EC",
+            "position": 867,
+            "weight": 0.311591
+          },
+          {
+            "id": 10,
+            "lemma": "지속",
+            "type": "NNG",
+            "position": 871,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "적",
+            "type": "XSN",
+            "position": 877,
+            "weight": 0.0168756
+          },
+          {
+            "id": 12,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 880,
+            "weight": 0.0165001
+          },
+          {
+            "id": 13,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 880,
+            "weight": 0.220712
+          },
+          {
+            "id": 14,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 884,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "작용",
+            "type": "NNG",
+            "position": 890,
+            "weight": 0.9
+          },
+          {
+            "id": 16,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 896,
+            "weight": 0.0360723
+          },
+          {
+            "id": 17,
+            "lemma": "가능",
+            "type": "NNG",
+            "position": 900,
+            "weight": 0.208321
+          },
+          {
+            "id": 18,
+            "lemma": "하",
+            "type": "XSA",
+            "position": 906,
+            "weight": 0.0001
+          },
+          {
+            "id": 19,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 906,
+            "weight": 0.0509021
+          },
+          {
+            "id": 20,
+            "lemma": ".",
+            "type": "SF",
+            "position": 915,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 823,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 829,
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 838,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "자가",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.2,
+            "position": 842,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "복제",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 2.83333,
+            "position": 848,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "능력",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 5.4,
+            "position": 854,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 860,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "있",
+            "type": "VA",
+            "scode": "01",
+            "weight": 15.2,
+            "position": 864,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 867,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "지속적",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 871,
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 880,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 880,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 884,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "작용",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.2,
+            "position": 890,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 896,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 15,
+            "text": "가능하",
+            "type": "VA",
+            "scode": "00",
+            "weight": 0,
+            "position": 900,
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 16,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 906,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 915,
+            "begin": 20,
+            "end": 20
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "조혈모세포는",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "자가복제능력이",
+            "type": "",
+            "begin": 4,
+            "end": 7
+          },
+          {
+            "id": 2,
+            "text": "있어",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 3,
+            "text": "지속적인",
+            "type": "",
+            "begin": 10,
+            "end": 13
+          },
+          {
+            "id": 4,
+            "text": "조혈작용이",
+            "type": "",
+            "begin": 14,
+            "end": 16
+          },
+          {
+            "id": 5,
+            "text": "가능합니다.",
+            "type": "",
+            "begin": 17,
+            "end": 20
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 2,
+            "weight": 0.553721,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 12,
+        "reserve_str": "",
+        "text": "헬스팁",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "헬스팁",
+            "type": "NNG",
+            "position": 916,
+            "weight": 0
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "헬스팁",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 916,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "헬스팁",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "헬스팁",
+            "type": "PS_NAME",
+            "begin": 0,
+            "end": 0,
+            "weight": 0.115488,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 13,
+        "reserve_str": "",
+        "text": "조혈모세포이식",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 925,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 931,
+            "weight": 0.0814783
+          },
+          {
+            "id": 2,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 934,
+            "weight": 0.184757
+          },
+          {
+            "id": 3,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 940,
+            "weight": 0.180378
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 925,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 931,
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 4,
+            "position": 940,
+            "begin": 3,
+            "end": 3
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "조혈모세포이식",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 2,
+            "weight": 0.592095,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 14,
+        "reserve_str": "",
+        "text": "  조혈모세포는 어디에서 채취하느냐에 따라 골수 조혈모세포이식, 말초혈액 조혈모세포이식, 제대혈 조혈모세포이식으로 나눌 수 있습니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 948,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 954,
+            "weight": 0.0814783
+          },
+          {
+            "id": 2,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 957,
+            "weight": 0.184757
+          },
+          {
+            "id": 3,
+            "lemma": "는",
+            "type": "JX",
+            "position": 963,
+            "weight": 0.0287565
+          },
+          {
+            "id": 4,
+            "lemma": "어디",
+            "type": "NP",
+            "position": 967,
+            "weight": 0.0418153
+          },
+          {
+            "id": 5,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 973,
+            "weight": 0.126188
+          },
+          {
+            "id": 6,
+            "lemma": "채취",
+            "type": "NNG",
+            "position": 980,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 986,
+            "weight": 0.0001
+          },
+          {
+            "id": 8,
+            "lemma": "느냐",
+            "type": "EC",
+            "position": 989,
+            "weight": 0.180562
+          },
+          {
+            "id": 9,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 995,
+            "weight": 0.000826006
+          },
+          {
+            "id": 10,
+            "lemma": "따르",
+            "type": "VV",
+            "position": 999,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "아",
+            "type": "EC",
+            "position": 1002,
+            "weight": 0.398809
+          },
+          {
+            "id": 12,
+            "lemma": "골수",
+            "type": "NNG",
+            "position": 1006,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1013,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1019,
+            "weight": 0.0814783
+          },
+          {
+            "id": 15,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1022,
+            "weight": 0.184757
+          },
+          {
+            "id": 16,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1028,
+            "weight": 0.180378
+          },
+          {
+            "id": 17,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1034,
+            "weight": 1
+          },
+          {
+            "id": 18,
+            "lemma": "말초",
+            "type": "NNG",
+            "position": 1036,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 1042,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1049,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1055,
+            "weight": 0.0814783
+          },
+          {
+            "id": 22,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1058,
+            "weight": 0.184757
+          },
+          {
+            "id": 23,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1064,
+            "weight": 0.180378
+          },
+          {
+            "id": 24,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1070,
+            "weight": 1
+          },
+          {
+            "id": 25,
+            "lemma": "제대혈",
+            "type": "NNG",
+            "position": 1072,
+            "weight": 0
+          },
+          {
+            "id": 26,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1082,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1088,
+            "weight": 0.0814783
+          },
+          {
+            "id": 28,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1091,
+            "weight": 0.184757
+          },
+          {
+            "id": 29,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1097,
+            "weight": 0.180378
+          },
+          {
+            "id": 30,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1103,
+            "weight": 0.153406
+          },
+          {
+            "id": 31,
+            "lemma": "나누",
+            "type": "VV",
+            "position": 1110,
+            "weight": 0.9
+          },
+          {
+            "id": 32,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 1113,
+            "weight": 0.300746
+          },
+          {
+            "id": 33,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 1117,
+            "weight": 0.215617
+          },
+          {
+            "id": 34,
+            "lemma": "있",
+            "type": "VA",
+            "position": 1121,
+            "weight": 0.0518488
+          },
+          {
+            "id": 35,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 1124,
+            "weight": 0.1367
+          },
+          {
+            "id": 36,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1133,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 948,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 954,
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 963,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "어디",
+            "type": "NP",
+            "scode": "01",
+            "weight": 3.2,
+            "position": 967,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 973,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "채취하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 980,
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 6,
+            "text": "느냐",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 989,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 7,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 995,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "따르",
+            "type": "VV",
+            "scode": "01",
+            "weight": 7.4,
+            "position": 999,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "아",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1002,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "골수",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1006,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1013,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1019,
+            "begin": 14,
+            "end": 15
+          },
+          {
+            "id": 13,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 9.4,
+            "position": 1028,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 14,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1034,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 15,
+            "text": "말초",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1036,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 16,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1042,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1049,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1055,
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 19,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 10.6,
+            "position": 1064,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 20,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1070,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 21,
+            "text": "제대혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1072,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 22,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1082,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 23,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1088,
+            "begin": 27,
+            "end": 28
+          },
+          {
+            "id": 24,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 9.4,
+            "position": 1097,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 25,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1103,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 26,
+            "text": "나누",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1110,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 27,
+            "text": "ㄹ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1113,
+            "begin": 32,
+            "end": 32
+          },
+          {
+            "id": 28,
+            "text": "수",
+            "type": "NNB",
+            "scode": "02",
+            "weight": 9.79923,
+            "position": 1117,
+            "begin": 33,
+            "end": 33
+          },
+          {
+            "id": 29,
+            "text": "있",
+            "type": "VA",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1121,
+            "begin": 34,
+            "end": 34
+          },
+          {
+            "id": 30,
+            "text": "습니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1124,
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 31,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1133,
+            "begin": 36,
+            "end": 36
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "조혈모세포는",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "어디에서",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "채취하느냐에",
+            "type": "",
+            "begin": 6,
+            "end": 9
+          },
+          {
+            "id": 3,
+            "text": "따라",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 4,
+            "text": "골수",
+            "type": "",
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 5,
+            "text": "조혈모세포이식,",
+            "type": "",
+            "begin": 13,
+            "end": 17
+          },
+          {
+            "id": 6,
+            "text": "말초혈액",
+            "type": "",
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 7,
+            "text": "조혈모세포이식,",
+            "type": "",
+            "begin": 20,
+            "end": 24
+          },
+          {
+            "id": 8,
+            "text": "제대혈",
+            "type": "",
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 9,
+            "text": "조혈모세포이식으로",
+            "type": "",
+            "begin": 26,
+            "end": 30
+          },
+          {
+            "id": 10,
+            "text": "나눌",
+            "type": "",
+            "begin": 31,
+            "end": 32
+          },
+          {
+            "id": 11,
+            "text": "수",
+            "type": "",
+            "begin": 33,
+            "end": 33
+          },
+          {
+            "id": 12,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 34,
+            "end": 36
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 2,
+            "weight": 0.561927,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "골수",
+            "type": "TM_CELL_TISSUE",
+            "begin": 12,
+            "end": 12,
+            "weight": 0.302832,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "조혈모세포이식",
+            "type": "TM_CELL_TISSUE",
+            "begin": 13,
+            "end": 16,
+            "weight": 0.449621,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "조혈모세포이식",
+            "type": "TM_CELL_TISSUE",
+            "begin": 20,
+            "end": 23,
+            "weight": 0.460358,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "제대혈 조혈모세포이식",
+            "type": "TM_CELL_TISSUE",
+            "begin": 25,
+            "end": 29,
+            "weight": 0.275751,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 15,
+        "reserve_str": "",
+        "text": " 최근 제대혈 조혈모세포에 대한 관심이 높아지고 있는데, 제대혈 조혈모세포는 분만 후 제대나 태반에서 채취하게 됩니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "최근",
+            "type": "NNG",
+            "position": 1135,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "제대혈",
+            "type": "NNG",
+            "position": 1142,
+            "weight": 0
+          },
+          {
+            "id": 2,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1152,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1158,
+            "weight": 0.0814783
+          },
+          {
+            "id": 4,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1161,
+            "weight": 0.184757
+          },
+          {
+            "id": 5,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1167,
+            "weight": 0.153364
+          },
+          {
+            "id": 6,
+            "lemma": "대하",
+            "type": "VV",
+            "position": 1171,
+            "weight": 0.444579
+          },
+          {
+            "id": 7,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1174,
+            "weight": 0.304215
+          },
+          {
+            "id": 8,
+            "lemma": "관심",
+            "type": "NNG",
+            "position": 1178,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1184,
+            "weight": 0.0360723
+          },
+          {
+            "id": 10,
+            "lemma": "높아지",
+            "type": "VV",
+            "position": 1188,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "고",
+            "type": "EC",
+            "position": 1197,
+            "weight": 0.416679
+          },
+          {
+            "id": 12,
+            "lemma": "있",
+            "type": "VX",
+            "position": 1201,
+            "weight": 0.125953
+          },
+          {
+            "id": 13,
+            "lemma": "는데",
+            "type": "EC",
+            "position": 1204,
+            "weight": 0.252751
+          },
+          {
+            "id": 14,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1210,
+            "weight": 1
+          },
+          {
+            "id": 15,
+            "lemma": "제대혈",
+            "type": "NNG",
+            "position": 1212,
+            "weight": 0
+          },
+          {
+            "id": 16,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1222,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1228,
+            "weight": 0.0814783
+          },
+          {
+            "id": 18,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1231,
+            "weight": 0.184757
+          },
+          {
+            "id": 19,
+            "lemma": "는",
+            "type": "JX",
+            "position": 1237,
+            "weight": 0.0287565
+          },
+          {
+            "id": 20,
+            "lemma": "분만",
+            "type": "NNG",
+            "position": 1241,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": "후",
+            "type": "NNG",
+            "position": 1248,
+            "weight": 0.18399
+          },
+          {
+            "id": 22,
+            "lemma": "제대",
+            "type": "NNG",
+            "position": 1252,
+            "weight": 0.18351
+          },
+          {
+            "id": 23,
+            "lemma": "나",
+            "type": "JC",
+            "position": 1258,
+            "weight": 0.00543468
+          },
+          {
+            "id": 24,
+            "lemma": "태반",
+            "type": "NNG",
+            "position": 1262,
+            "weight": 0.9
+          },
+          {
+            "id": 25,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 1268,
+            "weight": 0.153407
+          },
+          {
+            "id": 26,
+            "lemma": "채취",
+            "type": "NNG",
+            "position": 1275,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1281,
+            "weight": 0.0001
+          },
+          {
+            "id": 28,
+            "lemma": "게",
+            "type": "EC",
+            "position": 1284,
+            "weight": 0.369675
+          },
+          {
+            "id": 29,
+            "lemma": "되",
+            "type": "VV",
+            "position": 1288,
+            "weight": 0.209958
+          },
+          {
+            "id": 30,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1288,
+            "weight": 0.0793776
+          },
+          {
+            "id": 31,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1297,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "최근",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1135,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "제대혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1142,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1152,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1158,
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1167,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "대하",
+            "type": "VV",
+            "scode": "02",
+            "weight": 7.4,
+            "position": 1171,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1174,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "관심",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.2,
+            "position": 1178,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1184,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "높아지",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1188,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 10,
+            "text": "고",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1197,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 11,
+            "text": "있",
+            "type": "VX",
+            "scode": "01",
+            "weight": 7.6,
+            "position": 1201,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 12,
+            "text": "는데",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1204,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1210,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "제대혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1212,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 15,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1222,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 16,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1228,
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 17,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1237,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 18,
+            "text": "분만",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1241,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 19,
+            "text": "후",
+            "type": "NNG",
+            "scode": "08",
+            "weight": 8.6,
+            "position": 1248,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 20,
+            "text": "제대",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 1252,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 21,
+            "text": "나",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1258,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 22,
+            "text": "태반",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 1262,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 23,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1268,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 24,
+            "text": "채취하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1275,
+            "begin": 26,
+            "end": 27
+          },
+          {
+            "id": 25,
+            "text": "게",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1284,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 26,
+            "text": "되",
+            "type": "VV",
+            "scode": "01",
+            "weight": 2,
+            "position": 1288,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 27,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1288,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 28,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1297,
+            "begin": 31,
+            "end": 31
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "최근",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "제대혈",
+            "type": "",
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "조혈모세포에",
+            "type": "",
+            "begin": 2,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "대한",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "관심이",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 5,
+            "text": "높아지고",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 6,
+            "text": "있는데,",
+            "type": "",
+            "begin": 12,
+            "end": 14
+          },
+          {
+            "id": 7,
+            "text": "제대혈",
+            "type": "",
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "조혈모세포는",
+            "type": "",
+            "begin": 16,
+            "end": 19
+          },
+          {
+            "id": 9,
+            "text": "분만",
+            "type": "",
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 10,
+            "text": "후",
+            "type": "",
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 11,
+            "text": "제대나",
+            "type": "",
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 12,
+            "text": "태반에서",
+            "type": "",
+            "begin": 24,
+            "end": 25
+          },
+          {
+            "id": 13,
+            "text": "채취하게",
+            "type": "",
+            "begin": 26,
+            "end": 28
+          },
+          {
+            "id": 14,
+            "text": "됩니다.",
+            "type": "",
+            "begin": 29,
+            "end": 31
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "제대혈 조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 1,
+            "end": 4,
+            "weight": 0.363376,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "제대혈 조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 15,
+            "end": 18,
+            "weight": 0.403561,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 16,
+        "reserve_str": "",
+        "text": "  조혈모세포는 누구에게 채취하느냐에 따라 자가 조혈모세포이식과 동종 조혈모세포이식으로 나눌 수 있습니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1300,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1306,
+            "weight": 0.0814783
+          },
+          {
+            "id": 2,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1309,
+            "weight": 0.184757
+          },
+          {
+            "id": 3,
+            "lemma": "는",
+            "type": "JX",
+            "position": 1315,
+            "weight": 0.0287565
+          },
+          {
+            "id": 4,
+            "lemma": "누구",
+            "type": "NP",
+            "position": 1319,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "에게",
+            "type": "JKB",
+            "position": 1325,
+            "weight": 0.126146
+          },
+          {
+            "id": 6,
+            "lemma": "채취",
+            "type": "NNG",
+            "position": 1332,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1338,
+            "weight": 0.0001
+          },
+          {
+            "id": 8,
+            "lemma": "느냐",
+            "type": "EC",
+            "position": 1341,
+            "weight": 0.180562
+          },
+          {
+            "id": 9,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1347,
+            "weight": 0.000826006
+          },
+          {
+            "id": 10,
+            "lemma": "따르",
+            "type": "VV",
+            "position": 1351,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "아",
+            "type": "EC",
+            "position": 1354,
+            "weight": 0.398809
+          },
+          {
+            "id": 12,
+            "lemma": "자",
+            "type": "NNB",
+            "position": 1358,
+            "weight": 0.000115065
+          },
+          {
+            "id": 13,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 1361,
+            "weight": 0.0691641
+          },
+          {
+            "id": 14,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1365,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1371,
+            "weight": 0.0814783
+          },
+          {
+            "id": 16,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1374,
+            "weight": 0.184757
+          },
+          {
+            "id": 17,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1380,
+            "weight": 0.180378
+          },
+          {
+            "id": 18,
+            "lemma": "과",
+            "type": "JC",
+            "position": 1386,
+            "weight": 0.017569
+          },
+          {
+            "id": 19,
+            "lemma": "동종",
+            "type": "NNG",
+            "position": 1390,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1397,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1403,
+            "weight": 0.0814783
+          },
+          {
+            "id": 22,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1406,
+            "weight": 0.184757
+          },
+          {
+            "id": 23,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1412,
+            "weight": 0.180378
+          },
+          {
+            "id": 24,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1418,
+            "weight": 0.153406
+          },
+          {
+            "id": 25,
+            "lemma": "나누",
+            "type": "VV",
+            "position": 1425,
+            "weight": 0.9
+          },
+          {
+            "id": 26,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 1428,
+            "weight": 0.300746
+          },
+          {
+            "id": 27,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 1432,
+            "weight": 0.215617
+          },
+          {
+            "id": 28,
+            "lemma": "있",
+            "type": "VA",
+            "position": 1436,
+            "weight": 0.0518488
+          },
+          {
+            "id": 29,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 1439,
+            "weight": 0.1367
+          },
+          {
+            "id": 30,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1448,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1300,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1306,
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1315,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "누구",
+            "type": "NP",
+            "scode": "00",
+            "weight": 0,
+            "position": 1319,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "에게",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1325,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "채취하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1332,
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 6,
+            "text": "느냐",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1341,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 7,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1347,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "따르",
+            "type": "VV",
+            "scode": "01",
+            "weight": 6.4,
+            "position": 1351,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "아",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1354,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "자",
+            "type": "NNB",
+            "scode": "18",
+            "weight": 2.2,
+            "position": 1358,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1361,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1365,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1371,
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 14,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 7.2,
+            "position": 1380,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 15,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1386,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 16,
+            "text": "동종",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 1390,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1397,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1403,
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 19,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 9.4,
+            "position": 1412,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 20,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1418,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 21,
+            "text": "나누",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1425,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 22,
+            "text": "ㄹ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1428,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 23,
+            "text": "수",
+            "type": "NNB",
+            "scode": "02",
+            "weight": 9.79923,
+            "position": 1432,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 24,
+            "text": "있",
+            "type": "VA",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1436,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 25,
+            "text": "습니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1439,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 26,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1448,
+            "begin": 30,
+            "end": 30
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "조혈모세포는",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "누구에게",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "채취하느냐에",
+            "type": "",
+            "begin": 6,
+            "end": 9
+          },
+          {
+            "id": 3,
+            "text": "따라",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 4,
+            "text": "자가",
+            "type": "",
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 5,
+            "text": "조혈모세포이식과",
+            "type": "",
+            "begin": 14,
+            "end": 18
+          },
+          {
+            "id": 6,
+            "text": "동종",
+            "type": "",
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 7,
+            "text": "조혈모세포이식으로",
+            "type": "",
+            "begin": 20,
+            "end": 24
+          },
+          {
+            "id": 8,
+            "text": "나눌",
+            "type": "",
+            "begin": 25,
+            "end": 26
+          },
+          {
+            "id": 9,
+            "text": "수",
+            "type": "",
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 10,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 28,
+            "end": 30
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 2,
+            "weight": 0.507416,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 14,
+            "end": 16,
+            "weight": 0.589732,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "조혈모세포이식",
+            "type": "TM_CELL_TISSUE",
+            "begin": 20,
+            "end": 23,
+            "weight": 0.470953,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 17,
+        "reserve_str": "",
+        "text": " 자가 조혈모세포이식은 자신의 골수나 말초혈액에서 조혈모세포를 채취한 후 보관하였다가 필요 시 이식하는 방법이며, 동종 조혈모세포이식은 자신이 아닌 다른사람에게 조혈모세포이식을 공여받는 방법인데, 이 방법은 이식거부반응 등의 면역학적인 문제가 발생할 수 있습니다. ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "자",
+            "type": "NNB",
+            "position": 1450,
+            "weight": 0.0001
+          },
+          {
+            "id": 1,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 1453,
+            "weight": 0.0691641
+          },
+          {
+            "id": 2,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1457,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1463,
+            "weight": 0.0814783
+          },
+          {
+            "id": 4,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1466,
+            "weight": 0.184757
+          },
+          {
+            "id": 5,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1472,
+            "weight": 0.180378
+          },
+          {
+            "id": 6,
+            "lemma": "은",
+            "type": "JX",
+            "position": 1478,
+            "weight": 0.0449928
+          },
+          {
+            "id": 7,
+            "lemma": "자신",
+            "type": "NNG",
+            "position": 1482,
+            "weight": 0.324905
+          },
+          {
+            "id": 8,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1488,
+            "weight": 0.0694213
+          },
+          {
+            "id": 9,
+            "lemma": "골수",
+            "type": "NNG",
+            "position": 1492,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "나",
+            "type": "JC",
+            "position": 1498,
+            "weight": 0.00543468
+          },
+          {
+            "id": 11,
+            "lemma": "말초",
+            "type": "NNG",
+            "position": 1502,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 1508,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 1514,
+            "weight": 0.153407
+          },
+          {
+            "id": 14,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1521,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1527,
+            "weight": 0.0814783
+          },
+          {
+            "id": 16,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1530,
+            "weight": 0.184757
+          },
+          {
+            "id": 17,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 1536,
+            "weight": 0.137686
+          },
+          {
+            "id": 18,
+            "lemma": "채취",
+            "type": "NNG",
+            "position": 1540,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1546,
+            "weight": 0.0001
+          },
+          {
+            "id": 20,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1546,
+            "weight": 0.392321
+          },
+          {
+            "id": 21,
+            "lemma": "후",
+            "type": "NNG",
+            "position": 1550,
+            "weight": 0.655812
+          },
+          {
+            "id": 22,
+            "lemma": "보관",
+            "type": "NNG",
+            "position": 1554,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1560,
+            "weight": 0.0001
+          },
+          {
+            "id": 24,
+            "lemma": "었",
+            "type": "EP",
+            "position": 1563,
+            "weight": 0.9
+          },
+          {
+            "id": 25,
+            "lemma": "다가",
+            "type": "EC",
+            "position": 1566,
+            "weight": 0.188685
+          },
+          {
+            "id": 26,
+            "lemma": "필요",
+            "type": "NNG",
+            "position": 1573,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "시",
+            "type": "NNB",
+            "position": 1580,
+            "weight": 0.00322101
+          },
+          {
+            "id": 28,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1584,
+            "weight": 0.107947
+          },
+          {
+            "id": 29,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1590,
+            "weight": 0.0001
+          },
+          {
+            "id": 30,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1593,
+            "weight": 0.238503
+          },
+          {
+            "id": 31,
+            "lemma": "방법",
+            "type": "NNG",
+            "position": 1597,
+            "weight": 0.9
+          },
+          {
+            "id": 32,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1603,
+            "weight": 0.0177525
+          },
+          {
+            "id": 33,
+            "lemma": "며",
+            "type": "EC",
+            "position": 1606,
+            "weight": 0.250555
+          },
+          {
+            "id": 34,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1609,
+            "weight": 1
+          },
+          {
+            "id": 35,
+            "lemma": "동종",
+            "type": "NNG",
+            "position": 1611,
+            "weight": 0.9
+          },
+          {
+            "id": 36,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1618,
+            "weight": 0.9
+          },
+          {
+            "id": 37,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1624,
+            "weight": 0.0814783
+          },
+          {
+            "id": 38,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1627,
+            "weight": 0.184757
+          },
+          {
+            "id": 39,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1633,
+            "weight": 0.180378
+          },
+          {
+            "id": 40,
+            "lemma": "은",
+            "type": "JX",
+            "position": 1639,
+            "weight": 0.0449928
+          },
+          {
+            "id": 41,
+            "lemma": "자신",
+            "type": "NNG",
+            "position": 1643,
+            "weight": 0.324905
+          },
+          {
+            "id": 42,
+            "lemma": "이",
+            "type": "JKC",
+            "position": 1649,
+            "weight": 0.000287945
+          },
+          {
+            "id": 43,
+            "lemma": "아니",
+            "type": "VCN",
+            "position": 1653,
+            "weight": 0.354175
+          },
+          {
+            "id": 44,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1656,
+            "weight": 0.144018
+          },
+          {
+            "id": 45,
+            "lemma": "다른",
+            "type": "MM",
+            "position": 1660,
+            "weight": 0.9
+          },
+          {
+            "id": 46,
+            "lemma": "사람",
+            "type": "NNG",
+            "position": 1666,
+            "weight": 0.737436
+          },
+          {
+            "id": 47,
+            "lemma": "에게",
+            "type": "JKB",
+            "position": 1672,
+            "weight": 0.153356
+          },
+          {
+            "id": 48,
+            "lemma": "조혈",
+            "type": "NNG",
+            "position": 1679,
+            "weight": 0.9
+          },
+          {
+            "id": 49,
+            "lemma": "모",
+            "type": "NNG",
+            "position": 1685,
+            "weight": 0.0814783
+          },
+          {
+            "id": 50,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 1688,
+            "weight": 0.184757
+          },
+          {
+            "id": 51,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1694,
+            "weight": 0.180378
+          },
+          {
+            "id": 52,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1700,
+            "weight": 0.129611
+          },
+          {
+            "id": 53,
+            "lemma": "공여",
+            "type": "NNG",
+            "position": 1704,
+            "weight": 0.9
+          },
+          {
+            "id": 54,
+            "lemma": "받",
+            "type": "VV",
+            "position": 1710,
+            "weight": 0.0147799
+          },
+          {
+            "id": 55,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1713,
+            "weight": 0.184941
+          },
+          {
+            "id": 56,
+            "lemma": "방법",
+            "type": "NNG",
+            "position": 1717,
+            "weight": 0.9
+          },
+          {
+            "id": 57,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1723,
+            "weight": 0.0177525
+          },
+          {
+            "id": 58,
+            "lemma": "ㄴ데",
+            "type": "EC",
+            "position": 1723,
+            "weight": 0.209075
+          },
+          {
+            "id": 59,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1729,
+            "weight": 1
+          },
+          {
+            "id": 60,
+            "lemma": "이",
+            "type": "MM",
+            "position": 1731,
+            "weight": 0.0017249
+          },
+          {
+            "id": 61,
+            "lemma": "방법",
+            "type": "NNG",
+            "position": 1735,
+            "weight": 0.9
+          },
+          {
+            "id": 62,
+            "lemma": "은",
+            "type": "JX",
+            "position": 1741,
+            "weight": 0.0449928
+          },
+          {
+            "id": 63,
+            "lemma": "이식",
+            "type": "NNG",
+            "position": 1745,
+            "weight": 0.317079
+          },
+          {
+            "id": 64,
+            "lemma": "거부",
+            "type": "NNG",
+            "position": 1751,
+            "weight": 0.9
+          },
+          {
+            "id": 65,
+            "lemma": "반응",
+            "type": "NNG",
+            "position": 1757,
+            "weight": 0.9
+          },
+          {
+            "id": 66,
+            "lemma": "등",
+            "type": "NNB",
+            "position": 1764,
+            "weight": 0.0146757
+          },
+          {
+            "id": 67,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1767,
+            "weight": 0.0520933
+          },
+          {
+            "id": 68,
+            "lemma": "면역",
+            "type": "NNG",
+            "position": 1771,
+            "weight": 0.9
+          },
+          {
+            "id": 69,
+            "lemma": "학",
+            "type": "XSN",
+            "position": 1777,
+            "weight": 0.0233263
+          },
+          {
+            "id": 70,
+            "lemma": "적",
+            "type": "XSN",
+            "position": 1780,
+            "weight": 0.00581009
+          },
+          {
+            "id": 71,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1783,
+            "weight": 0.0165001
+          },
+          {
+            "id": 72,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1783,
+            "weight": 0.220712
+          },
+          {
+            "id": 73,
+            "lemma": "문제",
+            "type": "NNG",
+            "position": 1787,
+            "weight": 0.658025
+          },
+          {
+            "id": 74,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 1793,
+            "weight": 0.066324
+          },
+          {
+            "id": 75,
+            "lemma": "발생",
+            "type": "NNG",
+            "position": 1797,
+            "weight": 0.9
+          },
+          {
+            "id": 76,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1803,
+            "weight": 0.0001
+          },
+          {
+            "id": 77,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 1803,
+            "weight": 0.387847
+          },
+          {
+            "id": 78,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 1807,
+            "weight": 0.215617
+          },
+          {
+            "id": 79,
+            "lemma": "있",
+            "type": "VA",
+            "position": 1811,
+            "weight": 0.0518488
+          },
+          {
+            "id": 80,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 1814,
+            "weight": 0.1367
+          },
+          {
+            "id": 81,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1823,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "자",
+            "type": "NNB",
+            "scode": "18",
+            "weight": 2.2,
+            "position": 1450,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1453,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1457,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1463,
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 8.4,
+            "position": 1472,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1478,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "자신",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 6.4,
+            "position": 1482,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 1488,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "골수",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1492,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "나",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1498,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 10,
+            "text": "말초",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1502,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 11,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1508,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 12,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1514,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1521,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1527,
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 15,
+            "text": "를",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1536,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 16,
+            "text": "채취하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1540,
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1546,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "후",
+            "type": "NNG",
+            "scode": "08",
+            "weight": 6.4,
+            "position": 1550,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 19,
+            "text": "보관하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1554,
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 20,
+            "text": "었",
+            "type": "EP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1563,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 21,
+            "text": "다가",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1566,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 22,
+            "text": "필요",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1573,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 23,
+            "text": "시",
+            "type": "NNB",
+            "scode": "10",
+            "weight": 2,
+            "position": 1580,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 24,
+            "text": "이식하",
+            "type": "VV",
+            "scode": "03",
+            "weight": 2.2,
+            "position": 1584,
+            "begin": 28,
+            "end": 29
+          },
+          {
+            "id": 25,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1593,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 26,
+            "text": "방법",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1597,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 27,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 1603,
+            "begin": 32,
+            "end": 32
+          },
+          {
+            "id": 28,
+            "text": "며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1606,
+            "begin": 33,
+            "end": 33
+          },
+          {
+            "id": 29,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1609,
+            "begin": 34,
+            "end": 34
+          },
+          {
+            "id": 30,
+            "text": "동종",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 1611,
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 31,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1618,
+            "begin": 36,
+            "end": 36
+          },
+          {
+            "id": 32,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1624,
+            "begin": 37,
+            "end": 38
+          },
+          {
+            "id": 33,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 7.2,
+            "position": 1633,
+            "begin": 39,
+            "end": 39
+          },
+          {
+            "id": 34,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1639,
+            "begin": 40,
+            "end": 40
+          },
+          {
+            "id": 35,
+            "text": "자신",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 8.49795,
+            "position": 1643,
+            "begin": 41,
+            "end": 41
+          },
+          {
+            "id": 36,
+            "text": "이",
+            "type": "JKC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1649,
+            "begin": 42,
+            "end": 42
+          },
+          {
+            "id": 37,
+            "text": "아니",
+            "type": "VCN",
+            "scode": "00",
+            "weight": 0,
+            "position": 1653,
+            "begin": 43,
+            "end": 43
+          },
+          {
+            "id": 38,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1656,
+            "begin": 44,
+            "end": 44
+          },
+          {
+            "id": 39,
+            "text": "다른",
+            "type": "MM",
+            "scode": "00",
+            "weight": 0,
+            "position": 1660,
+            "begin": 45,
+            "end": 45
+          },
+          {
+            "id": 40,
+            "text": "사람",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1666,
+            "begin": 46,
+            "end": 46
+          },
+          {
+            "id": 41,
+            "text": "에게",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1672,
+            "begin": 47,
+            "end": 47
+          },
+          {
+            "id": 42,
+            "text": "조혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1679,
+            "begin": 48,
+            "end": 48
+          },
+          {
+            "id": 43,
+            "text": "모세포",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1685,
+            "begin": 49,
+            "end": 50
+          },
+          {
+            "id": 44,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 8.2,
+            "position": 1694,
+            "begin": 51,
+            "end": 51
+          },
+          {
+            "id": 45,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1700,
+            "begin": 52,
+            "end": 52
+          },
+          {
+            "id": 46,
+            "text": "공여",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 3.2,
+            "position": 1704,
+            "begin": 53,
+            "end": 53
+          },
+          {
+            "id": 47,
+            "text": "받",
+            "type": "VV",
+            "scode": "01",
+            "weight": 14.0571,
+            "position": 1710,
+            "begin": 54,
+            "end": 54
+          },
+          {
+            "id": 48,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1713,
+            "begin": 55,
+            "end": 55
+          },
+          {
+            "id": 49,
+            "text": "방법",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1717,
+            "begin": 56,
+            "end": 56
+          },
+          {
+            "id": 50,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 1723,
+            "begin": 57,
+            "end": 57
+          },
+          {
+            "id": 51,
+            "text": "ㄴ데",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1723,
+            "begin": 58,
+            "end": 58
+          },
+          {
+            "id": 52,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1729,
+            "begin": 59,
+            "end": 59
+          },
+          {
+            "id": 53,
+            "text": "이",
+            "type": "MM",
+            "scode": "05",
+            "weight": 10.6839,
+            "position": 1731,
+            "begin": 60,
+            "end": 60
+          },
+          {
+            "id": 54,
+            "text": "방법",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1735,
+            "begin": 61,
+            "end": 61
+          },
+          {
+            "id": 55,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1741,
+            "begin": 62,
+            "end": 62
+          },
+          {
+            "id": 56,
+            "text": "이식",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 4,
+            "position": 1745,
+            "begin": 63,
+            "end": 63
+          },
+          {
+            "id": 57,
+            "text": "거부반응",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1751,
+            "begin": 64,
+            "end": 65
+          },
+          {
+            "id": 58,
+            "text": "등",
+            "type": "NNB",
+            "scode": "05",
+            "weight": 10.8,
+            "position": 1764,
+            "begin": 66,
+            "end": 66
+          },
+          {
+            "id": 59,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 1767,
+            "begin": 67,
+            "end": 67
+          },
+          {
+            "id": 60,
+            "text": "면역",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 3.2,
+            "position": 1771,
+            "begin": 68,
+            "end": 68
+          },
+          {
+            "id": 61,
+            "text": "학적",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 1777,
+            "begin": 69,
+            "end": 70
+          },
+          {
+            "id": 62,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 1783,
+            "begin": 71,
+            "end": 71
+          },
+          {
+            "id": 63,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1783,
+            "begin": 72,
+            "end": 72
+          },
+          {
+            "id": 64,
+            "text": "문제",
+            "type": "NNG",
+            "scode": "06",
+            "weight": 3.2,
+            "position": 1787,
+            "begin": 73,
+            "end": 73
+          },
+          {
+            "id": 65,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1793,
+            "begin": 74,
+            "end": 74
+          },
+          {
+            "id": 66,
+            "text": "발생하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1797,
+            "begin": 75,
+            "end": 76
+          },
+          {
+            "id": 67,
+            "text": "ㄹ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1803,
+            "begin": 77,
+            "end": 77
+          },
+          {
+            "id": 68,
+            "text": "수",
+            "type": "NNB",
+            "scode": "02",
+            "weight": 6.59923,
+            "position": 1807,
+            "begin": 78,
+            "end": 78
+          },
+          {
+            "id": 69,
+            "text": "있",
+            "type": "VA",
+            "scode": "01",
+            "weight": 3.2,
+            "position": 1811,
+            "begin": 79,
+            "end": 79
+          },
+          {
+            "id": 70,
+            "text": "습니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1814,
+            "begin": 80,
+            "end": 80
+          },
+          {
+            "id": 71,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1823,
+            "begin": 81,
+            "end": 81
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "자가",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "조혈모세포이식은",
+            "type": "",
+            "begin": 2,
+            "end": 6
+          },
+          {
+            "id": 2,
+            "text": "자신의",
+            "type": "",
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 3,
+            "text": "골수나",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 4,
+            "text": "말초혈액에서",
+            "type": "",
+            "begin": 11,
+            "end": 13
+          },
+          {
+            "id": 5,
+            "text": "조혈모세포를",
+            "type": "",
+            "begin": 14,
+            "end": 17
+          },
+          {
+            "id": 6,
+            "text": "채취한",
+            "type": "",
+            "begin": 18,
+            "end": 20
+          },
+          {
+            "id": 7,
+            "text": "후",
+            "type": "",
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 8,
+            "text": "보관하였다가",
+            "type": "",
+            "begin": 22,
+            "end": 25
+          },
+          {
+            "id": 9,
+            "text": "필요",
+            "type": "",
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 10,
+            "text": "시",
+            "type": "",
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 11,
+            "text": "이식하는",
+            "type": "",
+            "begin": 28,
+            "end": 30
+          },
+          {
+            "id": 12,
+            "text": "방법이며,",
+            "type": "",
+            "begin": 31,
+            "end": 34
+          },
+          {
+            "id": 13,
+            "text": "동종",
+            "type": "",
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 14,
+            "text": "조혈모세포이식은",
+            "type": "",
+            "begin": 36,
+            "end": 40
+          },
+          {
+            "id": 15,
+            "text": "자신이",
+            "type": "",
+            "begin": 41,
+            "end": 42
+          },
+          {
+            "id": 16,
+            "text": "아닌",
+            "type": "",
+            "begin": 43,
+            "end": 44
+          },
+          {
+            "id": 17,
+            "text": "다른사람에게",
+            "type": "",
+            "begin": 45,
+            "end": 47
+          },
+          {
+            "id": 18,
+            "text": "조혈모세포이식을",
+            "type": "",
+            "begin": 48,
+            "end": 52
+          },
+          {
+            "id": 19,
+            "text": "공여받는",
+            "type": "",
+            "begin": 53,
+            "end": 55
+          },
+          {
+            "id": 20,
+            "text": "방법인데,",
+            "type": "",
+            "begin": 56,
+            "end": 59
+          },
+          {
+            "id": 21,
+            "text": "이",
+            "type": "",
+            "begin": 60,
+            "end": 60
+          },
+          {
+            "id": 22,
+            "text": "방법은",
+            "type": "",
+            "begin": 61,
+            "end": 62
+          },
+          {
+            "id": 23,
+            "text": "이식거부반응",
+            "type": "",
+            "begin": 63,
+            "end": 65
+          },
+          {
+            "id": 24,
+            "text": "등의",
+            "type": "",
+            "begin": 66,
+            "end": 67
+          },
+          {
+            "id": 25,
+            "text": "면역학적인",
+            "type": "",
+            "begin": 68,
+            "end": 72
+          },
+          {
+            "id": 26,
+            "text": "문제가",
+            "type": "",
+            "begin": 73,
+            "end": 74
+          },
+          {
+            "id": 27,
+            "text": "발생할",
+            "type": "",
+            "begin": 75,
+            "end": 77
+          },
+          {
+            "id": 28,
+            "text": "수",
+            "type": "",
+            "begin": 78,
+            "end": 78
+          },
+          {
+            "id": 29,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 79,
+            "end": 81
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 2,
+            "end": 4,
+            "weight": 0.551969,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "골수",
+            "type": "TM_CELL_TISSUE",
+            "begin": 9,
+            "end": 9,
+            "weight": 0.374344,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 14,
+            "end": 16,
+            "weight": 0.599932,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 36,
+            "end": 38,
+            "weight": 0.600449,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "조혈모세포",
+            "type": "TM_CELL_TISSUE",
+            "begin": 48,
+            "end": 50,
+            "weight": 0.657135,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "면역학",
+            "type": "FD_SCIENCE",
+            "begin": 68,
+            "end": 69,
+            "weight": 0.657407,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      }
+    ],
+    "entity": []
+  }
+}

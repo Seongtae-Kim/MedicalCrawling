@@ -1,0 +1,5533 @@
+{
+  "result": 0,
+  "return_object": {
+    "doc_id": "",
+    "DCT": "",
+    "category": "",
+    "category_weight": 0,
+    "title": {
+      "text": "",
+      "NE": ""
+    },
+    "metaInfo": {},
+    "paragraphInfo": [],
+    "sentence": [
+      {
+        "id": 0,
+        "reserve_str": "",
+        "text": "신체명: 부신피질(Adrenal cortex)",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "신체명",
+            "type": "NNG",
+            "position": 0,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": ":",
+            "type": "SP",
+            "position": 9,
+            "weight": 1
+          },
+          {
+            "id": 2,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 11,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "피질",
+            "type": "NNG",
+            "position": 17,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "(",
+            "type": "SS",
+            "position": 23,
+            "weight": 1
+          },
+          {
+            "id": 5,
+            "lemma": "Adrenal",
+            "type": "SL",
+            "position": 24,
+            "weight": 1
+          },
+          {
+            "id": 6,
+            "lemma": "cortex",
+            "type": "SL",
+            "position": 32,
+            "weight": 1
+          },
+          {
+            "id": 7,
+            "lemma": ")",
+            "type": "SS",
+            "position": 38,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "신체명:",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "부신피질(Adrenal",
+            "type": "",
+            "begin": 2,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "cortex)",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 1,
+        "reserve_str": "",
+        "text": "정의",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "정의",
+            "type": "NNG",
+            "position": 39,
+            "weight": 0.43414
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 2,
+        "reserve_str": "",
+        "text": "부신의 바깥쪽에서 스테로이드 호르몬을 생성하고 분비하는 기관입니다. ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 45,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 51,
+            "weight": 0.0694213
+          },
+          {
+            "id": 2,
+            "lemma": "바깥",
+            "type": "NNG",
+            "position": 55,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "쪽",
+            "type": "NNG",
+            "position": 61,
+            "weight": 0.00899105
+          },
+          {
+            "id": 4,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 64,
+            "weight": 0.153407
+          },
+          {
+            "id": 5,
+            "lemma": "스테로이드",
+            "type": "NNG",
+            "position": 71,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "호르몬",
+            "type": "NNG",
+            "position": 87,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 96,
+            "weight": 0.129611
+          },
+          {
+            "id": 8,
+            "lemma": "생성",
+            "type": "NNG",
+            "position": 100,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 106,
+            "weight": 0.0001
+          },
+          {
+            "id": 10,
+            "lemma": "고",
+            "type": "EC",
+            "position": 109,
+            "weight": 0.359917
+          },
+          {
+            "id": 11,
+            "lemma": "분비",
+            "type": "NNG",
+            "position": 113,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 119,
+            "weight": 0.0001
+          },
+          {
+            "id": 13,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 122,
+            "weight": 0.238503
+          },
+          {
+            "id": 14,
+            "lemma": "기관",
+            "type": "NNG",
+            "position": 126,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 132,
+            "weight": 0.0177525
+          },
+          {
+            "id": 16,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 132,
+            "weight": 0.36174
+          },
+          {
+            "id": 17,
+            "lemma": ".",
+            "type": "SF",
+            "position": 141,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "부신의",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "바깥쪽에서",
+            "type": "",
+            "begin": 2,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "스테로이드",
+            "type": "",
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "호르몬을",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "생성하고",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "분비하는",
+            "type": "",
+            "begin": 11,
+            "end": 13
+          },
+          {
+            "id": 6,
+            "text": "기관입니다.",
+            "type": "",
+            "begin": 14,
+            "end": 17
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 3,
+        "reserve_str": "",
+        "text": "위치",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "위치",
+            "type": "NNG",
+            "position": 143,
+            "weight": 0.437565
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "위치",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 4,
+        "reserve_str": "",
+        "text": "부신은 신장의 윗부분에 있으며, 부신피질은 부신의 바깥층을 나타냅니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 149,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "은",
+            "type": "JX",
+            "position": 155,
+            "weight": 0.0449928
+          },
+          {
+            "id": 2,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 159,
+            "weight": 0.312972
+          },
+          {
+            "id": 3,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 165,
+            "weight": 0.0694213
+          },
+          {
+            "id": 4,
+            "lemma": "윗부분",
+            "type": "NNG",
+            "position": 169,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 178,
+            "weight": 0.153364
+          },
+          {
+            "id": 6,
+            "lemma": "있",
+            "type": "VA",
+            "position": 182,
+            "weight": 0.037292
+          },
+          {
+            "id": 7,
+            "lemma": "으며",
+            "type": "EC",
+            "position": 185,
+            "weight": 0.321076
+          },
+          {
+            "id": 8,
+            "lemma": ",",
+            "type": "SP",
+            "position": 191,
+            "weight": 1
+          },
+          {
+            "id": 9,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 193,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "피질",
+            "type": "NNG",
+            "position": 199,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "은",
+            "type": "JX",
+            "position": 205,
+            "weight": 0.0449928
+          },
+          {
+            "id": 12,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 209,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 215,
+            "weight": 0.0694213
+          },
+          {
+            "id": 14,
+            "lemma": "바깥",
+            "type": "NNG",
+            "position": 219,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "층",
+            "type": "NNG",
+            "position": 225,
+            "weight": 0.141586
+          },
+          {
+            "id": 16,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 228,
+            "weight": 0.129611
+          },
+          {
+            "id": 17,
+            "lemma": "나타내",
+            "type": "VV",
+            "position": 232,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 238,
+            "weight": 0.0793776
+          },
+          {
+            "id": 19,
+            "lemma": ".",
+            "type": "SF",
+            "position": 247,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "부신은",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "신장의",
+            "type": "",
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "윗부분에",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "있으며,",
+            "type": "",
+            "begin": 6,
+            "end": 8
+          },
+          {
+            "id": 4,
+            "text": "부신피질은",
+            "type": "",
+            "begin": 9,
+            "end": 11
+          },
+          {
+            "id": 5,
+            "text": "부신의",
+            "type": "",
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 6,
+            "text": "바깥층을",
+            "type": "",
+            "begin": 14,
+            "end": 16
+          },
+          {
+            "id": 7,
+            "text": "나타냅니다.",
+            "type": "",
+            "begin": 17,
+            "end": 19
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 5,
+        "reserve_str": "",
+        "text": "구조",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "구조",
+            "type": "NNG",
+            "position": 248,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "구조",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 6,
+        "reserve_str": "",
+        "text": "부신의 90%를 차지하며, 수질을 둘러싸는 형태로 선조직으로 이루어져 있습니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 254,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 260,
+            "weight": 0.0694213
+          },
+          {
+            "id": 2,
+            "lemma": "90",
+            "type": "SN",
+            "position": 264,
+            "weight": 1
+          },
+          {
+            "id": 3,
+            "lemma": "%",
+            "type": "SW",
+            "position": 266,
+            "weight": 1
+          },
+          {
+            "id": 4,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 267,
+            "weight": 0.0190959
+          },
+          {
+            "id": 5,
+            "lemma": "차지",
+            "type": "NNG",
+            "position": 271,
+            "weight": 0.0446654
+          },
+          {
+            "id": 6,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 277,
+            "weight": 0.0001
+          },
+          {
+            "id": 7,
+            "lemma": "며",
+            "type": "EC",
+            "position": 280,
+            "weight": 0.371165
+          },
+          {
+            "id": 8,
+            "lemma": ",",
+            "type": "SP",
+            "position": 283,
+            "weight": 1
+          },
+          {
+            "id": 9,
+            "lemma": "수질",
+            "type": "NNG",
+            "position": 285,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 291,
+            "weight": 0.129611
+          },
+          {
+            "id": 11,
+            "lemma": "둘러싸",
+            "type": "VV",
+            "position": 295,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 304,
+            "weight": 0.184941
+          },
+          {
+            "id": 13,
+            "lemma": "형태",
+            "type": "NNG",
+            "position": 308,
+            "weight": 0.657568
+          },
+          {
+            "id": 14,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 314,
+            "weight": 0.153229
+          },
+          {
+            "id": 15,
+            "lemma": "선",
+            "type": "XPN",
+            "position": 318,
+            "weight": 0.0001
+          },
+          {
+            "id": 16,
+            "lemma": "조직",
+            "type": "NNG",
+            "position": 321,
+            "weight": 0.473811
+          },
+          {
+            "id": 17,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 327,
+            "weight": 0.153406
+          },
+          {
+            "id": 18,
+            "lemma": "이루어지",
+            "type": "VV",
+            "position": 334,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "어",
+            "type": "EC",
+            "position": 343,
+            "weight": 0.41831
+          },
+          {
+            "id": 20,
+            "lemma": "있",
+            "type": "VX",
+            "position": 347,
+            "weight": 0.125953
+          },
+          {
+            "id": 21,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 350,
+            "weight": 0.185981
+          },
+          {
+            "id": 22,
+            "lemma": ".",
+            "type": "SF",
+            "position": 359,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "부신의",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "90%를",
+            "type": "",
+            "begin": 2,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "차지하며,",
+            "type": "",
+            "begin": 5,
+            "end": 8
+          },
+          {
+            "id": 3,
+            "text": "수질을",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 4,
+            "text": "둘러싸는",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 5,
+            "text": "형태로",
+            "type": "",
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 6,
+            "text": "선조직으로",
+            "type": "",
+            "begin": 15,
+            "end": 17
+          },
+          {
+            "id": 7,
+            "text": "이루어져",
+            "type": "",
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 8,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 20,
+            "end": 22
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 7,
+        "reserve_str": "",
+        "text": " 부신피질은 3개의 세포층으로 구성되어 있는데, 가장 바깥쪽부터 차례로 사구층?다발층?그물층으로 이루어져 있습니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 361,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "피질",
+            "type": "NNG",
+            "position": 367,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 373,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "3",
+            "type": "SN",
+            "position": 377,
+            "weight": 1
+          },
+          {
+            "id": 4,
+            "lemma": "개",
+            "type": "NNB",
+            "position": 378,
+            "weight": 0.363274
+          },
+          {
+            "id": 5,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 381,
+            "weight": 0.0520933
+          },
+          {
+            "id": 6,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 385,
+            "weight": 0.871053
+          },
+          {
+            "id": 7,
+            "lemma": "층",
+            "type": "XSN",
+            "position": 391,
+            "weight": 0.00809743
+          },
+          {
+            "id": 8,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 394,
+            "weight": 0.121717
+          },
+          {
+            "id": 9,
+            "lemma": "구성",
+            "type": "NNG",
+            "position": 401,
+            "weight": 0.207604
+          },
+          {
+            "id": 10,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 407,
+            "weight": 0.000224177
+          },
+          {
+            "id": 11,
+            "lemma": "어",
+            "type": "EC",
+            "position": 410,
+            "weight": 0.361326
+          },
+          {
+            "id": 12,
+            "lemma": "있",
+            "type": "VX",
+            "position": 414,
+            "weight": 0.125953
+          },
+          {
+            "id": 13,
+            "lemma": "는데",
+            "type": "EC",
+            "position": 417,
+            "weight": 0.252751
+          },
+          {
+            "id": 14,
+            "lemma": ",",
+            "type": "SP",
+            "position": 423,
+            "weight": 1
+          },
+          {
+            "id": 15,
+            "lemma": "가장",
+            "type": "MAG",
+            "position": 425,
+            "weight": 0.0564166
+          },
+          {
+            "id": 16,
+            "lemma": "바깥",
+            "type": "NNG",
+            "position": 432,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "쪽",
+            "type": "NNG",
+            "position": 438,
+            "weight": 0.00899105
+          },
+          {
+            "id": 18,
+            "lemma": "부터",
+            "type": "JX",
+            "position": 441,
+            "weight": 0.0688504
+          },
+          {
+            "id": 19,
+            "lemma": "차례",
+            "type": "NNG",
+            "position": 448,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 454,
+            "weight": 0.153229
+          },
+          {
+            "id": 21,
+            "lemma": "사구층",
+            "type": "NNG",
+            "position": 458,
+            "weight": 0
+          },
+          {
+            "id": 22,
+            "lemma": "?",
+            "type": "SF",
+            "position": 467,
+            "weight": 1
+          },
+          {
+            "id": 23,
+            "lemma": "다발층",
+            "type": "NNG",
+            "position": 468,
+            "weight": 0
+          },
+          {
+            "id": 24,
+            "lemma": "?",
+            "type": "SF",
+            "position": 477,
+            "weight": 1
+          },
+          {
+            "id": 25,
+            "lemma": "그물층",
+            "type": "NNG",
+            "position": 478,
+            "weight": 0
+          },
+          {
+            "id": 26,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 487,
+            "weight": 0.153406
+          },
+          {
+            "id": 27,
+            "lemma": "이루어지",
+            "type": "VV",
+            "position": 494,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "어",
+            "type": "EC",
+            "position": 503,
+            "weight": 0.41831
+          },
+          {
+            "id": 29,
+            "lemma": "있",
+            "type": "VX",
+            "position": 507,
+            "weight": 0.125953
+          },
+          {
+            "id": 30,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 510,
+            "weight": 0.185981
+          },
+          {
+            "id": 31,
+            "lemma": ".",
+            "type": "SF",
+            "position": 519,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "부신피질은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "3개의",
+            "type": "",
+            "begin": 3,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "세포층으로",
+            "type": "",
+            "begin": 6,
+            "end": 8
+          },
+          {
+            "id": 3,
+            "text": "구성되어",
+            "type": "",
+            "begin": 9,
+            "end": 11
+          },
+          {
+            "id": 4,
+            "text": "있는데,",
+            "type": "",
+            "begin": 12,
+            "end": 14
+          },
+          {
+            "id": 5,
+            "text": "가장",
+            "type": "",
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 6,
+            "text": "바깥쪽부터",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          },
+          {
+            "id": 7,
+            "text": "차례로",
+            "type": "",
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 8,
+            "text": "사구층?다발층?그물층으로",
+            "type": "",
+            "begin": 21,
+            "end": 26
+          },
+          {
+            "id": 9,
+            "text": "이루어져",
+            "type": "",
+            "begin": 27,
+            "end": 28
+          },
+          {
+            "id": 10,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 29,
+            "end": 31
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 8,
+        "reserve_str": "",
+        "text": "기능",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "기능",
+            "type": "NNG",
+            "position": 520,
+            "weight": 0.437845
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "기능",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 9,
+        "reserve_str": "",
+        "text": "뇌하수체에서 분비되는 부신피질자극호르몬의 자극을 받아 코티솔, 알도스테론, 안드로겐 등의 스테로이드 호르몬을 생성합니다. ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "뇌",
+            "type": "NNG",
+            "position": 526,
+            "weight": 0.421624
+          },
+          {
+            "id": 1,
+            "lemma": "하수체",
+            "type": "NNG",
+            "position": 529,
+            "weight": 0.25
+          },
+          {
+            "id": 2,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 538,
+            "weight": 0.153407
+          },
+          {
+            "id": 3,
+            "lemma": "분비",
+            "type": "NNG",
+            "position": 545,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 551,
+            "weight": 0.000224177
+          },
+          {
+            "id": 5,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 554,
+            "weight": 0.238503
+          },
+          {
+            "id": 6,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 558,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "피질",
+            "type": "NNG",
+            "position": 564,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "자극",
+            "type": "NNG",
+            "position": 570,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "호르몬",
+            "type": "NNG",
+            "position": 576,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 585,
+            "weight": 0.0694213
+          },
+          {
+            "id": 11,
+            "lemma": "자극",
+            "type": "NNG",
+            "position": 589,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 595,
+            "weight": 0.129611
+          },
+          {
+            "id": 13,
+            "lemma": "받",
+            "type": "VV",
+            "position": 599,
+            "weight": 0.765648
+          },
+          {
+            "id": 14,
+            "lemma": "아",
+            "type": "EC",
+            "position": 602,
+            "weight": 0.398809
+          },
+          {
+            "id": 15,
+            "lemma": "코티솔",
+            "type": "NNG",
+            "position": 606,
+            "weight": 0.05
+          },
+          {
+            "id": 16,
+            "lemma": ",",
+            "type": "SP",
+            "position": 615,
+            "weight": 1
+          },
+          {
+            "id": 17,
+            "lemma": "알도스테",
+            "type": "NNG",
+            "position": 617,
+            "weight": 0
+          },
+          {
+            "id": 18,
+            "lemma": "론",
+            "type": "XSN",
+            "position": 629,
+            "weight": 0.0338336
+          },
+          {
+            "id": 19,
+            "lemma": ",",
+            "type": "SP",
+            "position": 632,
+            "weight": 1
+          },
+          {
+            "id": 20,
+            "lemma": "안드로겐",
+            "type": "NNG",
+            "position": 634,
+            "weight": 0
+          },
+          {
+            "id": 21,
+            "lemma": "등",
+            "type": "NNB",
+            "position": 647,
+            "weight": 0.0146757
+          },
+          {
+            "id": 22,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 650,
+            "weight": 0.0520933
+          },
+          {
+            "id": 23,
+            "lemma": "스테로이드",
+            "type": "NNG",
+            "position": 654,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": "호르몬",
+            "type": "NNG",
+            "position": 670,
+            "weight": 0.9
+          },
+          {
+            "id": 25,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 679,
+            "weight": 0.129611
+          },
+          {
+            "id": 26,
+            "lemma": "생성",
+            "type": "NNG",
+            "position": 683,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 689,
+            "weight": 0.0001
+          },
+          {
+            "id": 28,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 689,
+            "weight": 0.0449374
+          },
+          {
+            "id": 29,
+            "lemma": ".",
+            "type": "SF",
+            "position": 698,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "뇌하수체에서",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "분비되는",
+            "type": "",
+            "begin": 3,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "부신피질자극호르몬의",
+            "type": "",
+            "begin": 6,
+            "end": 10
+          },
+          {
+            "id": 3,
+            "text": "자극을",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 4,
+            "text": "받아",
+            "type": "",
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 5,
+            "text": "코티솔,",
+            "type": "",
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 6,
+            "text": "알도스테론,",
+            "type": "",
+            "begin": 17,
+            "end": 19
+          },
+          {
+            "id": 7,
+            "text": "안드로겐",
+            "type": "",
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 8,
+            "text": "등의",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 9,
+            "text": "스테로이드",
+            "type": "",
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 10,
+            "text": "호르몬을",
+            "type": "",
+            "begin": 24,
+            "end": 25
+          },
+          {
+            "id": 11,
+            "text": "생성합니다.",
+            "type": "",
+            "begin": 26,
+            "end": 29
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 10,
+        "reserve_str": "",
+        "text": "  알도스테론 : 부신피질의 가장 바깥층인 사구층에서 생성되는 염류 코르티코이드(mineralocorticoids)입니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "알도스테",
+            "type": "NNG",
+            "position": 702,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": "론",
+            "type": "XSN",
+            "position": 714,
+            "weight": 0.0338336
+          },
+          {
+            "id": 2,
+            "lemma": ":",
+            "type": "SP",
+            "position": 718,
+            "weight": 1
+          },
+          {
+            "id": 3,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 720,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "피질",
+            "type": "NNG",
+            "position": 726,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 732,
+            "weight": 0.0694213
+          },
+          {
+            "id": 6,
+            "lemma": "가장",
+            "type": "MAG",
+            "position": 736,
+            "weight": 0.00368841
+          },
+          {
+            "id": 7,
+            "lemma": "바깥",
+            "type": "NNG",
+            "position": 743,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "층",
+            "type": "NNG",
+            "position": 749,
+            "weight": 0.141586
+          },
+          {
+            "id": 9,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 752,
+            "weight": 0.0177525
+          },
+          {
+            "id": 10,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 752,
+            "weight": 0.220712
+          },
+          {
+            "id": 11,
+            "lemma": "사구층",
+            "type": "NNG",
+            "position": 756,
+            "weight": 0
+          },
+          {
+            "id": 12,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 765,
+            "weight": 0.153407
+          },
+          {
+            "id": 13,
+            "lemma": "생성",
+            "type": "NNG",
+            "position": 772,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 778,
+            "weight": 0.000224177
+          },
+          {
+            "id": 15,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 781,
+            "weight": 0.238503
+          },
+          {
+            "id": 16,
+            "lemma": "염류",
+            "type": "NNG",
+            "position": 785,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "코르티코이드",
+            "type": "NNG",
+            "position": 792,
+            "weight": 0.1
+          },
+          {
+            "id": 18,
+            "lemma": "(",
+            "type": "SS",
+            "position": 810,
+            "weight": 1
+          },
+          {
+            "id": 19,
+            "lemma": "mineralocorticoids",
+            "type": "SL",
+            "position": 811,
+            "weight": 1
+          },
+          {
+            "id": 20,
+            "lemma": ")",
+            "type": "SS",
+            "position": 829,
+            "weight": 1
+          },
+          {
+            "id": 21,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 830,
+            "weight": 0.00747344
+          },
+          {
+            "id": 22,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 830,
+            "weight": 0.36174
+          },
+          {
+            "id": 23,
+            "lemma": ".",
+            "type": "SF",
+            "position": 839,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "알도스테론",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": ":",
+            "type": "",
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "부신피질의",
+            "type": "",
+            "begin": 3,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "가장",
+            "type": "",
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 4,
+            "text": "바깥층인",
+            "type": "",
+            "begin": 7,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "사구층에서",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 6,
+            "text": "생성되는",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          },
+          {
+            "id": 7,
+            "text": "염류",
+            "type": "",
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 8,
+            "text": "코르티코이드(mineralocorticoids)입니다.",
+            "type": "",
+            "begin": 17,
+            "end": 23
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 11,
+        "reserve_str": "",
+        "text": " 나트륨과 칼륨의 농도를 통해 몸 안의 수분과 전해질의 균형을 조절합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "나트륨",
+            "type": "NNG",
+            "position": 841,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "과",
+            "type": "JC",
+            "position": 850,
+            "weight": 0.017569
+          },
+          {
+            "id": 2,
+            "lemma": "칼륨",
+            "type": "NNG",
+            "position": 854,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 860,
+            "weight": 0.0694213
+          },
+          {
+            "id": 4,
+            "lemma": "농도",
+            "type": "NNG",
+            "position": 864,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 870,
+            "weight": 0.137686
+          },
+          {
+            "id": 6,
+            "lemma": "통하",
+            "type": "VV",
+            "position": 874,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "어",
+            "type": "EC",
+            "position": 877,
+            "weight": 0.41831
+          },
+          {
+            "id": 8,
+            "lemma": "몸",
+            "type": "NNG",
+            "position": 881,
+            "weight": 0.21936
+          },
+          {
+            "id": 9,
+            "lemma": "안",
+            "type": "NNG",
+            "position": 885,
+            "weight": 0.0903732
+          },
+          {
+            "id": 10,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 888,
+            "weight": 0.0694213
+          },
+          {
+            "id": 11,
+            "lemma": "수분",
+            "type": "NNG",
+            "position": 892,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "과",
+            "type": "JC",
+            "position": 898,
+            "weight": 0.017569
+          },
+          {
+            "id": 13,
+            "lemma": "전해",
+            "type": "NNG",
+            "position": 902,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "질",
+            "type": "XSN",
+            "position": 908,
+            "weight": 0.0050218
+          },
+          {
+            "id": 15,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 911,
+            "weight": 0.120732
+          },
+          {
+            "id": 16,
+            "lemma": "균형",
+            "type": "NNG",
+            "position": 915,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 921,
+            "weight": 0.129611
+          },
+          {
+            "id": 18,
+            "lemma": "조절",
+            "type": "NNG",
+            "position": 925,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 931,
+            "weight": 0.0001
+          },
+          {
+            "id": 20,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 931,
+            "weight": 0.0449374
+          },
+          {
+            "id": 21,
+            "lemma": ".",
+            "type": "SF",
+            "position": 940,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "나트륨과",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "칼륨의",
+            "type": "",
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "농도를",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "통해",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "몸",
+            "type": "",
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 5,
+            "text": "안의",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 6,
+            "text": "수분과",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 7,
+            "text": "전해질의",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "균형을",
+            "type": "",
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 9,
+            "text": "조절합니다.",
+            "type": "",
+            "begin": 18,
+            "end": 21
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 12,
+        "reserve_str": "",
+        "text": "  코티솔 : 부신피질의 중간 층인 다발층에서 생성되는 당류 코르티코이드(glucocorticoids)입니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "코티솔",
+            "type": "NNG",
+            "position": 943,
+            "weight": 0.05
+          },
+          {
+            "id": 1,
+            "lemma": ":",
+            "type": "SP",
+            "position": 953,
+            "weight": 1
+          },
+          {
+            "id": 2,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 955,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "피질",
+            "type": "NNG",
+            "position": 961,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 967,
+            "weight": 0.0694213
+          },
+          {
+            "id": 5,
+            "lemma": "중간",
+            "type": "NNG",
+            "position": 971,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "층",
+            "type": "NNG",
+            "position": 978,
+            "weight": 0.141586
+          },
+          {
+            "id": 7,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 981,
+            "weight": 0.0177525
+          },
+          {
+            "id": 8,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 981,
+            "weight": 0.220712
+          },
+          {
+            "id": 9,
+            "lemma": "다발층",
+            "type": "NNG",
+            "position": 985,
+            "weight": 0
+          },
+          {
+            "id": 10,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 994,
+            "weight": 0.153407
+          },
+          {
+            "id": 11,
+            "lemma": "생성",
+            "type": "NNG",
+            "position": 1001,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1007,
+            "weight": 0.000224177
+          },
+          {
+            "id": 13,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1010,
+            "weight": 0.238503
+          },
+          {
+            "id": 14,
+            "lemma": "당류",
+            "type": "NNG",
+            "position": 1014,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "코르티코이드",
+            "type": "NNG",
+            "position": 1021,
+            "weight": 0.1
+          },
+          {
+            "id": 16,
+            "lemma": "(",
+            "type": "SS",
+            "position": 1039,
+            "weight": 1
+          },
+          {
+            "id": 17,
+            "lemma": "glucocorticoids",
+            "type": "SL",
+            "position": 1040,
+            "weight": 1
+          },
+          {
+            "id": 18,
+            "lemma": ")",
+            "type": "SS",
+            "position": 1055,
+            "weight": 1
+          },
+          {
+            "id": 19,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1056,
+            "weight": 0.00747344
+          },
+          {
+            "id": 20,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1056,
+            "weight": 0.36174
+          },
+          {
+            "id": 21,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1065,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "코티솔",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": ":",
+            "type": "",
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "부신피질의",
+            "type": "",
+            "begin": 2,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "중간",
+            "type": "",
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": "층인",
+            "type": "",
+            "begin": 6,
+            "end": 8
+          },
+          {
+            "id": 5,
+            "text": "다발층에서",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 6,
+            "text": "생성되는",
+            "type": "",
+            "begin": 11,
+            "end": 13
+          },
+          {
+            "id": 7,
+            "text": "당류",
+            "type": "",
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 8,
+            "text": "코르티코이드(glucocorticoids)입니다.",
+            "type": "",
+            "begin": 15,
+            "end": 21
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 13,
+        "reserve_str": "",
+        "text": " 코르티손(cortisone)과 코르티솔(cortisol)이 여기에 속하며, 대사를 증진하고 혈당량을 증가시킴으로써 스트레스 요인에 저항하도록 신체를 돕는 인체의 스트레스 반응을 조절합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "코르티",
+            "type": "NNG",
+            "position": 1067,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": "손",
+            "type": "NNG",
+            "position": 1076,
+            "weight": 0.181413
+          },
+          {
+            "id": 2,
+            "lemma": "(",
+            "type": "SS",
+            "position": 1079,
+            "weight": 1
+          },
+          {
+            "id": 3,
+            "lemma": "cortisone",
+            "type": "SL",
+            "position": 1080,
+            "weight": 1
+          },
+          {
+            "id": 4,
+            "lemma": ")",
+            "type": "SS",
+            "position": 1089,
+            "weight": 1
+          },
+          {
+            "id": 5,
+            "lemma": "과",
+            "type": "JC",
+            "position": 1090,
+            "weight": 0.00441114
+          },
+          {
+            "id": 6,
+            "lemma": "코르티솔",
+            "type": "NNG",
+            "position": 1094,
+            "weight": 0.05
+          },
+          {
+            "id": 7,
+            "lemma": "(",
+            "type": "SS",
+            "position": 1106,
+            "weight": 1
+          },
+          {
+            "id": 8,
+            "lemma": "cortisol",
+            "type": "SL",
+            "position": 1107,
+            "weight": 1
+          },
+          {
+            "id": 9,
+            "lemma": ")",
+            "type": "SS",
+            "position": 1115,
+            "weight": 1
+          },
+          {
+            "id": 10,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1116,
+            "weight": 0.00786134
+          },
+          {
+            "id": 11,
+            "lemma": "여기",
+            "type": "NP",
+            "position": 1120,
+            "weight": 0.0202032
+          },
+          {
+            "id": 12,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1126,
+            "weight": 0.126153
+          },
+          {
+            "id": 13,
+            "lemma": "속하",
+            "type": "VV",
+            "position": 1130,
+            "weight": 0.445183
+          },
+          {
+            "id": 14,
+            "lemma": "며",
+            "type": "EC",
+            "position": 1136,
+            "weight": 0.429701
+          },
+          {
+            "id": 15,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1139,
+            "weight": 1
+          },
+          {
+            "id": 16,
+            "lemma": "대사",
+            "type": "NNG",
+            "position": 1141,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 1147,
+            "weight": 0.137686
+          },
+          {
+            "id": 18,
+            "lemma": "증진",
+            "type": "NNG",
+            "position": 1151,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1157,
+            "weight": 0.0001
+          },
+          {
+            "id": 20,
+            "lemma": "고",
+            "type": "EC",
+            "position": 1160,
+            "weight": 0.359917
+          },
+          {
+            "id": 21,
+            "lemma": "혈당",
+            "type": "NNG",
+            "position": 1164,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "량",
+            "type": "NNG",
+            "position": 1170,
+            "weight": 0.17275
+          },
+          {
+            "id": 23,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1173,
+            "weight": 0.129611
+          },
+          {
+            "id": 24,
+            "lemma": "증가",
+            "type": "NNG",
+            "position": 1177,
+            "weight": 0.9
+          },
+          {
+            "id": 25,
+            "lemma": "시키",
+            "type": "XSV",
+            "position": 1183,
+            "weight": 0.00340357
+          },
+          {
+            "id": 26,
+            "lemma": "ㅁ",
+            "type": "ETN",
+            "position": 1186,
+            "weight": 0.0575018
+          },
+          {
+            "id": 27,
+            "lemma": "으로써",
+            "type": "JKB",
+            "position": 1189,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "스트레스",
+            "type": "NNG",
+            "position": 1199,
+            "weight": 0.9
+          },
+          {
+            "id": 29,
+            "lemma": "요인",
+            "type": "NNG",
+            "position": 1212,
+            "weight": 0.184722
+          },
+          {
+            "id": 30,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1218,
+            "weight": 0.153364
+          },
+          {
+            "id": 31,
+            "lemma": "저항",
+            "type": "NNG",
+            "position": 1222,
+            "weight": 0.9
+          },
+          {
+            "id": 32,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1228,
+            "weight": 0.0001
+          },
+          {
+            "id": 33,
+            "lemma": "도록",
+            "type": "EC",
+            "position": 1231,
+            "weight": 0.370757
+          },
+          {
+            "id": 34,
+            "lemma": "신체",
+            "type": "NNG",
+            "position": 1238,
+            "weight": 0.9
+          },
+          {
+            "id": 35,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 1244,
+            "weight": 0.137686
+          },
+          {
+            "id": 36,
+            "lemma": "돕",
+            "type": "VV",
+            "position": 1248,
+            "weight": 0.777582
+          },
+          {
+            "id": 37,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1251,
+            "weight": 0.184941
+          },
+          {
+            "id": 38,
+            "lemma": "인체",
+            "type": "NNG",
+            "position": 1255,
+            "weight": 0.9
+          },
+          {
+            "id": 39,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1261,
+            "weight": 0.0694213
+          },
+          {
+            "id": 40,
+            "lemma": "스트레스",
+            "type": "NNG",
+            "position": 1265,
+            "weight": 0.9
+          },
+          {
+            "id": 41,
+            "lemma": "반응",
+            "type": "NNG",
+            "position": 1278,
+            "weight": 0.9
+          },
+          {
+            "id": 42,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1284,
+            "weight": 0.129611
+          },
+          {
+            "id": 43,
+            "lemma": "조절",
+            "type": "NNG",
+            "position": 1288,
+            "weight": 0.9
+          },
+          {
+            "id": 44,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1294,
+            "weight": 0.0001
+          },
+          {
+            "id": 45,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1294,
+            "weight": 0.0449374
+          },
+          {
+            "id": 46,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1303,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "코르티손(cortisone)과",
+            "type": "",
+            "begin": 0,
+            "end": 5
+          },
+          {
+            "id": 1,
+            "text": "코르티솔(cortisol)이",
+            "type": "",
+            "begin": 6,
+            "end": 10
+          },
+          {
+            "id": 2,
+            "text": "여기에",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 3,
+            "text": "속하며,",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          },
+          {
+            "id": 4,
+            "text": "대사를",
+            "type": "",
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 5,
+            "text": "증진하고",
+            "type": "",
+            "begin": 18,
+            "end": 20
+          },
+          {
+            "id": 6,
+            "text": "혈당량을",
+            "type": "",
+            "begin": 21,
+            "end": 23
+          },
+          {
+            "id": 7,
+            "text": "증가시킴으로써",
+            "type": "",
+            "begin": 24,
+            "end": 27
+          },
+          {
+            "id": 8,
+            "text": "스트레스",
+            "type": "",
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 9,
+            "text": "요인에",
+            "type": "",
+            "begin": 29,
+            "end": 30
+          },
+          {
+            "id": 10,
+            "text": "저항하도록",
+            "type": "",
+            "begin": 31,
+            "end": 33
+          },
+          {
+            "id": 11,
+            "text": "신체를",
+            "type": "",
+            "begin": 34,
+            "end": 35
+          },
+          {
+            "id": 12,
+            "text": "돕는",
+            "type": "",
+            "begin": 36,
+            "end": 37
+          },
+          {
+            "id": 13,
+            "text": "인체의",
+            "type": "",
+            "begin": 38,
+            "end": 39
+          },
+          {
+            "id": 14,
+            "text": "스트레스",
+            "type": "",
+            "begin": 40,
+            "end": 40
+          },
+          {
+            "id": 15,
+            "text": "반응을",
+            "type": "",
+            "begin": 41,
+            "end": 42
+          },
+          {
+            "id": 16,
+            "text": "조절합니다.",
+            "type": "",
+            "begin": 43,
+            "end": 46
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 14,
+        "reserve_str": "",
+        "text": " 당류 코르티코이드의 혈액 속의 농도가 증가하면 지방과 단백질을 분해시켜 포도당으로 바뀌게 하는데 결국 혈당을 올리게 하는 기능을 합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "당류",
+            "type": "NNG",
+            "position": 1305,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "코르티코이드",
+            "type": "NNG",
+            "position": 1312,
+            "weight": 0.1
+          },
+          {
+            "id": 2,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1330,
+            "weight": 0.0694213
+          },
+          {
+            "id": 3,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 1334,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "속",
+            "type": "NNG",
+            "position": 1341,
+            "weight": 0.18219
+          },
+          {
+            "id": 5,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1344,
+            "weight": 0.0694213
+          },
+          {
+            "id": 6,
+            "lemma": "농도",
+            "type": "NNG",
+            "position": 1348,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 1354,
+            "weight": 0.066324
+          },
+          {
+            "id": 8,
+            "lemma": "증가",
+            "type": "NNG",
+            "position": 1358,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1364,
+            "weight": 0.0001
+          },
+          {
+            "id": 10,
+            "lemma": "면",
+            "type": "EC",
+            "position": 1367,
+            "weight": 0.344962
+          },
+          {
+            "id": 11,
+            "lemma": "지방",
+            "type": "NNG",
+            "position": 1371,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "과",
+            "type": "JC",
+            "position": 1377,
+            "weight": 0.017569
+          },
+          {
+            "id": 13,
+            "lemma": "단백",
+            "type": "NNG",
+            "position": 1381,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "질",
+            "type": "XSN",
+            "position": 1387,
+            "weight": 0.0050218
+          },
+          {
+            "id": 15,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1390,
+            "weight": 0.0819193
+          },
+          {
+            "id": 16,
+            "lemma": "분해",
+            "type": "NNG",
+            "position": 1394,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "시키",
+            "type": "XSV",
+            "position": 1400,
+            "weight": 0.00340357
+          },
+          {
+            "id": 18,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1403,
+            "weight": 0.361326
+          },
+          {
+            "id": 19,
+            "lemma": "포도",
+            "type": "NNG",
+            "position": 1407,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "당",
+            "type": "NNG",
+            "position": 1413,
+            "weight": 0.107866
+          },
+          {
+            "id": 21,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1416,
+            "weight": 0.153406
+          },
+          {
+            "id": 22,
+            "lemma": "바뀌",
+            "type": "VV",
+            "position": 1423,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "게",
+            "type": "EC",
+            "position": 1429,
+            "weight": 0.427975
+          },
+          {
+            "id": 24,
+            "lemma": "하",
+            "type": "VX",
+            "position": 1433,
+            "weight": 0.0899221
+          },
+          {
+            "id": 25,
+            "lemma": "는데",
+            "type": "EC",
+            "position": 1436,
+            "weight": 0.252751
+          },
+          {
+            "id": 26,
+            "lemma": "결국",
+            "type": "NNG",
+            "position": 1443,
+            "weight": 0.219338
+          },
+          {
+            "id": 27,
+            "lemma": "혈당",
+            "type": "NNG",
+            "position": 1450,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1456,
+            "weight": 0.129611
+          },
+          {
+            "id": 29,
+            "lemma": "올리",
+            "type": "VV",
+            "position": 1460,
+            "weight": 0.778212
+          },
+          {
+            "id": 30,
+            "lemma": "게",
+            "type": "EC",
+            "position": 1466,
+            "weight": 0.427975
+          },
+          {
+            "id": 31,
+            "lemma": "하",
+            "type": "VX",
+            "position": 1470,
+            "weight": 0.0899221
+          },
+          {
+            "id": 32,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1473,
+            "weight": 0.183966
+          },
+          {
+            "id": 33,
+            "lemma": "기능",
+            "type": "NNG",
+            "position": 1477,
+            "weight": 0.658686
+          },
+          {
+            "id": 34,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1483,
+            "weight": 0.129611
+          },
+          {
+            "id": 35,
+            "lemma": "하",
+            "type": "VV",
+            "position": 1487,
+            "weight": 0.48169
+          },
+          {
+            "id": 36,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1487,
+            "weight": 0.0793776
+          },
+          {
+            "id": 37,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1496,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "당류",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "코르티코이드의",
+            "type": "",
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "혈액",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "속의",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": "농도가",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 5,
+            "text": "증가하면",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 6,
+            "text": "지방과",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 7,
+            "text": "단백질을",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "분해시켜",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          },
+          {
+            "id": 9,
+            "text": "포도당으로",
+            "type": "",
+            "begin": 19,
+            "end": 21
+          },
+          {
+            "id": 10,
+            "text": "바뀌게",
+            "type": "",
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 11,
+            "text": "하는데",
+            "type": "",
+            "begin": 24,
+            "end": 25
+          },
+          {
+            "id": 12,
+            "text": "결국",
+            "type": "",
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 13,
+            "text": "혈당을",
+            "type": "",
+            "begin": 27,
+            "end": 28
+          },
+          {
+            "id": 14,
+            "text": "올리게",
+            "type": "",
+            "begin": 29,
+            "end": 30
+          },
+          {
+            "id": 15,
+            "text": "하는",
+            "type": "",
+            "begin": 31,
+            "end": 32
+          },
+          {
+            "id": 16,
+            "text": "기능을",
+            "type": "",
+            "begin": 33,
+            "end": 34
+          },
+          {
+            "id": 17,
+            "text": "합니다.",
+            "type": "",
+            "begin": 35,
+            "end": 37
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 15,
+        "reserve_str": "",
+        "text": " 그리고 항염증 작용, 부종 감소, 통증을 줄이는 기능 또한 합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "그리고",
+            "type": "MAJ",
+            "position": 1498,
+            "weight": 0.0306186
+          },
+          {
+            "id": 1,
+            "lemma": "항",
+            "type": "NNG",
+            "position": 1508,
+            "weight": 0.400017
+          },
+          {
+            "id": 2,
+            "lemma": "염증",
+            "type": "NNG",
+            "position": 1511,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "작용",
+            "type": "NNG",
+            "position": 1518,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1524,
+            "weight": 1
+          },
+          {
+            "id": 5,
+            "lemma": "부종",
+            "type": "NNG",
+            "position": 1526,
+            "weight": 0.526336
+          },
+          {
+            "id": 6,
+            "lemma": "감소",
+            "type": "NNG",
+            "position": 1533,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1539,
+            "weight": 1
+          },
+          {
+            "id": 8,
+            "lemma": "통증",
+            "type": "NNG",
+            "position": 1541,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1547,
+            "weight": 0.129611
+          },
+          {
+            "id": 10,
+            "lemma": "줄이",
+            "type": "VV",
+            "position": 1551,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1557,
+            "weight": 0.184941
+          },
+          {
+            "id": 12,
+            "lemma": "기능",
+            "type": "NNG",
+            "position": 1561,
+            "weight": 0.658686
+          },
+          {
+            "id": 13,
+            "lemma": "또한",
+            "type": "MAG",
+            "position": 1568,
+            "weight": 0.00503569
+          },
+          {
+            "id": 14,
+            "lemma": "하",
+            "type": "VV",
+            "position": 1575,
+            "weight": 0.24126
+          },
+          {
+            "id": 15,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1575,
+            "weight": 0.0793776
+          },
+          {
+            "id": 16,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1584,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "그리고",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "항염증",
+            "type": "",
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "작용,",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "부종",
+            "type": "",
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": "감소,",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 5,
+            "text": "통증을",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 6,
+            "text": "줄이는",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 7,
+            "text": "기능",
+            "type": "",
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 8,
+            "text": "또한",
+            "type": "",
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 9,
+            "text": "합니다.",
+            "type": "",
+            "begin": 14,
+            "end": 16
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 16,
+        "reserve_str": "",
+        "text": "  안드로겐, 에스트로겐 : 부신피질의 가장 안쪽인 그물층에서 생성되는 성호르몬으로 적은 양이 일생동안 계속해서 생산됩니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "안드로겐",
+            "type": "NNG",
+            "position": 1587,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1599,
+            "weight": 1
+          },
+          {
+            "id": 2,
+            "lemma": "에스트로겐",
+            "type": "NNG",
+            "position": 1601,
+            "weight": 0.6
+          },
+          {
+            "id": 3,
+            "lemma": ":",
+            "type": "SP",
+            "position": 1617,
+            "weight": 1
+          },
+          {
+            "id": 4,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 1619,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "피질",
+            "type": "NNG",
+            "position": 1625,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1631,
+            "weight": 0.0694213
+          },
+          {
+            "id": 7,
+            "lemma": "가장",
+            "type": "MAG",
+            "position": 1635,
+            "weight": 0.00368841
+          },
+          {
+            "id": 8,
+            "lemma": "안쪽",
+            "type": "NNG",
+            "position": 1642,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1648,
+            "weight": 0.0177525
+          },
+          {
+            "id": 10,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1648,
+            "weight": 0.220712
+          },
+          {
+            "id": 11,
+            "lemma": "그물층",
+            "type": "NNG",
+            "position": 1652,
+            "weight": 0
+          },
+          {
+            "id": 12,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 1661,
+            "weight": 0.153407
+          },
+          {
+            "id": 13,
+            "lemma": "생성",
+            "type": "NNG",
+            "position": 1668,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1674,
+            "weight": 0.000224177
+          },
+          {
+            "id": 15,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1677,
+            "weight": 0.238503
+          },
+          {
+            "id": 16,
+            "lemma": "성",
+            "type": "NNG",
+            "position": 1681,
+            "weight": 0.323826
+          },
+          {
+            "id": 17,
+            "lemma": "호르몬",
+            "type": "NNG",
+            "position": 1684,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1693,
+            "weight": 0.153406
+          },
+          {
+            "id": 19,
+            "lemma": "적",
+            "type": "VV",
+            "position": 1700,
+            "weight": 0.0377161
+          },
+          {
+            "id": 20,
+            "lemma": "은",
+            "type": "ETM",
+            "position": 1703,
+            "weight": 0.109632
+          },
+          {
+            "id": 21,
+            "lemma": "양",
+            "type": "NNG",
+            "position": 1707,
+            "weight": 0.366342
+          },
+          {
+            "id": 22,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1710,
+            "weight": 0.0360723
+          },
+          {
+            "id": 23,
+            "lemma": "일생",
+            "type": "NNG",
+            "position": 1714,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": "동안",
+            "type": "NNG",
+            "position": 1720,
+            "weight": 0.184748
+          },
+          {
+            "id": 25,
+            "lemma": "계속",
+            "type": "NNG",
+            "position": 1727,
+            "weight": 0.00457121
+          },
+          {
+            "id": 26,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1733,
+            "weight": 0.0001
+          },
+          {
+            "id": 27,
+            "lemma": "어서",
+            "type": "EC",
+            "position": 1733,
+            "weight": 0.364511
+          },
+          {
+            "id": 28,
+            "lemma": "생산",
+            "type": "NNG",
+            "position": 1740,
+            "weight": 0.9
+          },
+          {
+            "id": 29,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1746,
+            "weight": 0.000224177
+          },
+          {
+            "id": 30,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1746,
+            "weight": 0.0449374
+          },
+          {
+            "id": 31,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1755,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "안드로겐,",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "에스트로겐",
+            "type": "",
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": ":",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "부신피질의",
+            "type": "",
+            "begin": 4,
+            "end": 6
+          },
+          {
+            "id": 4,
+            "text": "가장",
+            "type": "",
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 5,
+            "text": "안쪽인",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 6,
+            "text": "그물층에서",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 7,
+            "text": "생성되는",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "성호르몬으로",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          },
+          {
+            "id": 9,
+            "text": "적은",
+            "type": "",
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 10,
+            "text": "양이",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 11,
+            "text": "일생동안",
+            "type": "",
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 12,
+            "text": "계속해서",
+            "type": "",
+            "begin": 25,
+            "end": 27
+          },
+          {
+            "id": 13,
+            "text": "생산됩니다.",
+            "type": "",
+            "begin": 28,
+            "end": 31
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 17,
+        "reserve_str": "",
+        "text": "헬스팁",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "헬스팁",
+            "type": "NNG",
+            "position": 1756,
+            "weight": 0
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "헬스팁",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 18,
+        "reserve_str": "",
+        "text": "부신피질 호르몬 성분인 스테로이드를 전신 부작용을 최소화하기 위해 코점막에 국소적으로 스테로이드를 투여하여 알레르기 비염 치료를 하며, 류마티스 관절염 환자들에게는 면역 억제와 항염 작용을 위해 관절에 주사하기도 합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 1765,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "피질",
+            "type": "NNG",
+            "position": 1771,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "호르몬",
+            "type": "NNG",
+            "position": 1778,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "성분",
+            "type": "NNG",
+            "position": 1788,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1794,
+            "weight": 0.0177525
+          },
+          {
+            "id": 5,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1794,
+            "weight": 0.220712
+          },
+          {
+            "id": 6,
+            "lemma": "스테로이드",
+            "type": "NNG",
+            "position": 1798,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 1813,
+            "weight": 0.137686
+          },
+          {
+            "id": 8,
+            "lemma": "전신",
+            "type": "NNG",
+            "position": 1817,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "부",
+            "type": "XPN",
+            "position": 1824,
+            "weight": 0.0001
+          },
+          {
+            "id": 10,
+            "lemma": "작용",
+            "type": "NNG",
+            "position": 1827,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1833,
+            "weight": 0.129611
+          },
+          {
+            "id": 12,
+            "lemma": "최소",
+            "type": "NNG",
+            "position": 1837,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "화",
+            "type": "XSN",
+            "position": 1843,
+            "weight": 0.0240371
+          },
+          {
+            "id": 14,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1846,
+            "weight": 0.000102334
+          },
+          {
+            "id": 15,
+            "lemma": "기",
+            "type": "ETN",
+            "position": 1849,
+            "weight": 0.0556099
+          },
+          {
+            "id": 16,
+            "lemma": "위하",
+            "type": "VV",
+            "position": 1853,
+            "weight": 0.176484
+          },
+          {
+            "id": 17,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1856,
+            "weight": 0.41831
+          },
+          {
+            "id": 18,
+            "lemma": "코",
+            "type": "NNG",
+            "position": 1860,
+            "weight": 0.218518
+          },
+          {
+            "id": 19,
+            "lemma": "점막",
+            "type": "NNG",
+            "position": 1863,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1869,
+            "weight": 0.153364
+          },
+          {
+            "id": 21,
+            "lemma": "국소",
+            "type": "NNG",
+            "position": 1873,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "적",
+            "type": "XSN",
+            "position": 1879,
+            "weight": 0.0168756
+          },
+          {
+            "id": 23,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1882,
+            "weight": 0.121717
+          },
+          {
+            "id": 24,
+            "lemma": "스테로이드",
+            "type": "NNG",
+            "position": 1889,
+            "weight": 0.9
+          },
+          {
+            "id": 25,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 1904,
+            "weight": 0.137686
+          },
+          {
+            "id": 26,
+            "lemma": "투여",
+            "type": "NNG",
+            "position": 1908,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1914,
+            "weight": 0.0001
+          },
+          {
+            "id": 28,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1917,
+            "weight": 0.361326
+          },
+          {
+            "id": 29,
+            "lemma": "알레르기",
+            "type": "NNG",
+            "position": 1921,
+            "weight": 0.9
+          },
+          {
+            "id": 30,
+            "lemma": "비염",
+            "type": "NNG",
+            "position": 1934,
+            "weight": 0.9
+          },
+          {
+            "id": 31,
+            "lemma": "치료",
+            "type": "NNG",
+            "position": 1941,
+            "weight": 0.9
+          },
+          {
+            "id": 32,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 1947,
+            "weight": 0.137686
+          },
+          {
+            "id": 33,
+            "lemma": "하",
+            "type": "VV",
+            "position": 1951,
+            "weight": 0.48169
+          },
+          {
+            "id": 34,
+            "lemma": "며",
+            "type": "EC",
+            "position": 1954,
+            "weight": 0.429701
+          },
+          {
+            "id": 35,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1957,
+            "weight": 1
+          },
+          {
+            "id": 36,
+            "lemma": "류마티스",
+            "type": "NNG",
+            "position": 1959,
+            "weight": 0.05
+          },
+          {
+            "id": 37,
+            "lemma": "관절",
+            "type": "NNG",
+            "position": 1972,
+            "weight": 0.9
+          },
+          {
+            "id": 38,
+            "lemma": "염",
+            "type": "NNG",
+            "position": 1978,
+            "weight": 0.16321
+          },
+          {
+            "id": 39,
+            "lemma": "환자",
+            "type": "NNG",
+            "position": 1982,
+            "weight": 0.9
+          },
+          {
+            "id": 40,
+            "lemma": "들",
+            "type": "XSN",
+            "position": 1988,
+            "weight": 0.0299841
+          },
+          {
+            "id": 41,
+            "lemma": "에게",
+            "type": "JKB",
+            "position": 1991,
+            "weight": 0.121677
+          },
+          {
+            "id": 42,
+            "lemma": "는",
+            "type": "JX",
+            "position": 1997,
+            "weight": 0.0387928
+          },
+          {
+            "id": 43,
+            "lemma": "면역",
+            "type": "NNG",
+            "position": 2001,
+            "weight": 0.9
+          },
+          {
+            "id": 44,
+            "lemma": "억제",
+            "type": "NNG",
+            "position": 2008,
+            "weight": 0.9
+          },
+          {
+            "id": 45,
+            "lemma": "와",
+            "type": "JC",
+            "position": 2014,
+            "weight": 0.0169714
+          },
+          {
+            "id": 46,
+            "lemma": "항",
+            "type": "XPN",
+            "position": 2018,
+            "weight": 0.0001
+          },
+          {
+            "id": 47,
+            "lemma": "염",
+            "type": "NNG",
+            "position": 2021,
+            "weight": 0.418454
+          },
+          {
+            "id": 48,
+            "lemma": "작용",
+            "type": "NNG",
+            "position": 2025,
+            "weight": 0.9
+          },
+          {
+            "id": 49,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 2031,
+            "weight": 0.129611
+          },
+          {
+            "id": 50,
+            "lemma": "위하",
+            "type": "VV",
+            "position": 2035,
+            "weight": 0.778555
+          },
+          {
+            "id": 51,
+            "lemma": "어",
+            "type": "EC",
+            "position": 2038,
+            "weight": 0.41831
+          },
+          {
+            "id": 52,
+            "lemma": "관절",
+            "type": "NNG",
+            "position": 2042,
+            "weight": 0.9
+          },
+          {
+            "id": 53,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 2048,
+            "weight": 0.153364
+          },
+          {
+            "id": 54,
+            "lemma": "주사",
+            "type": "NNG",
+            "position": 2052,
+            "weight": 0.9
+          },
+          {
+            "id": 55,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 2058,
+            "weight": 0.0001
+          },
+          {
+            "id": 56,
+            "lemma": "기",
+            "type": "ETN",
+            "position": 2061,
+            "weight": 0.0556099
+          },
+          {
+            "id": 57,
+            "lemma": "도",
+            "type": "JX",
+            "position": 2064,
+            "weight": 0.147715
+          },
+          {
+            "id": 58,
+            "lemma": "하",
+            "type": "VX",
+            "position": 2068,
+            "weight": 0.00978548
+          },
+          {
+            "id": 59,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 2068,
+            "weight": 0.184529
+          },
+          {
+            "id": 60,
+            "lemma": ".",
+            "type": "SF",
+            "position": 2077,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "부신피질",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "호르몬",
+            "type": "",
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "성분인",
+            "type": "",
+            "begin": 3,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "스테로이드를",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "전신",
+            "type": "",
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 5,
+            "text": "부작용을",
+            "type": "",
+            "begin": 9,
+            "end": 11
+          },
+          {
+            "id": 6,
+            "text": "최소화하기",
+            "type": "",
+            "begin": 12,
+            "end": 15
+          },
+          {
+            "id": 7,
+            "text": "위해",
+            "type": "",
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 8,
+            "text": "코점막에",
+            "type": "",
+            "begin": 18,
+            "end": 20
+          },
+          {
+            "id": 9,
+            "text": "국소적으로",
+            "type": "",
+            "begin": 21,
+            "end": 23
+          },
+          {
+            "id": 10,
+            "text": "스테로이드를",
+            "type": "",
+            "begin": 24,
+            "end": 25
+          },
+          {
+            "id": 11,
+            "text": "투여하여",
+            "type": "",
+            "begin": 26,
+            "end": 28
+          },
+          {
+            "id": 12,
+            "text": "알레르기",
+            "type": "",
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 13,
+            "text": "비염",
+            "type": "",
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 14,
+            "text": "치료를",
+            "type": "",
+            "begin": 31,
+            "end": 32
+          },
+          {
+            "id": 15,
+            "text": "하며,",
+            "type": "",
+            "begin": 33,
+            "end": 35
+          },
+          {
+            "id": 16,
+            "text": "류마티스",
+            "type": "",
+            "begin": 36,
+            "end": 36
+          },
+          {
+            "id": 17,
+            "text": "관절염",
+            "type": "",
+            "begin": 37,
+            "end": 38
+          },
+          {
+            "id": 18,
+            "text": "환자들에게는",
+            "type": "",
+            "begin": 39,
+            "end": 42
+          },
+          {
+            "id": 19,
+            "text": "면역",
+            "type": "",
+            "begin": 43,
+            "end": 43
+          },
+          {
+            "id": 20,
+            "text": "억제와",
+            "type": "",
+            "begin": 44,
+            "end": 45
+          },
+          {
+            "id": 21,
+            "text": "항염",
+            "type": "",
+            "begin": 46,
+            "end": 47
+          },
+          {
+            "id": 22,
+            "text": "작용을",
+            "type": "",
+            "begin": 48,
+            "end": 49
+          },
+          {
+            "id": 23,
+            "text": "위해",
+            "type": "",
+            "begin": 50,
+            "end": 51
+          },
+          {
+            "id": 24,
+            "text": "관절에",
+            "type": "",
+            "begin": 52,
+            "end": 53
+          },
+          {
+            "id": 25,
+            "text": "주사하기도",
+            "type": "",
+            "begin": 54,
+            "end": 57
+          },
+          {
+            "id": 26,
+            "text": "합니다.",
+            "type": "",
+            "begin": 58,
+            "end": 60
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 19,
+        "reserve_str": "",
+        "text": "  부신피질 호르몬 약제는 신체의 대사에 관련하여 당을 저장하고 단백질과 지방의 분해를 도우며, 면역억제 작용, 항염작용 등의 기능을 합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "부신",
+            "type": "NNG",
+            "position": 2080,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "피질",
+            "type": "NNG",
+            "position": 2086,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "호르몬",
+            "type": "NNG",
+            "position": 2093,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "약제",
+            "type": "NNG",
+            "position": 2103,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "는",
+            "type": "JX",
+            "position": 2109,
+            "weight": 0.0287565
+          },
+          {
+            "id": 5,
+            "lemma": "신체",
+            "type": "NNG",
+            "position": 2113,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 2119,
+            "weight": 0.0694213
+          },
+          {
+            "id": 7,
+            "lemma": "대사",
+            "type": "NNG",
+            "position": 2123,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 2129,
+            "weight": 0.153364
+          },
+          {
+            "id": 9,
+            "lemma": "관련",
+            "type": "NNG",
+            "position": 2133,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 2139,
+            "weight": 0.0001
+          },
+          {
+            "id": 11,
+            "lemma": "어",
+            "type": "EC",
+            "position": 2142,
+            "weight": 0.361326
+          },
+          {
+            "id": 12,
+            "lemma": "당",
+            "type": "NNG",
+            "position": 2146,
+            "weight": 0.128048
+          },
+          {
+            "id": 13,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 2149,
+            "weight": 0.129611
+          },
+          {
+            "id": 14,
+            "lemma": "저장",
+            "type": "NNG",
+            "position": 2153,
+            "weight": 0.099954
+          },
+          {
+            "id": 15,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 2159,
+            "weight": 0.0001
+          },
+          {
+            "id": 16,
+            "lemma": "고",
+            "type": "EC",
+            "position": 2162,
+            "weight": 0.359917
+          },
+          {
+            "id": 17,
+            "lemma": "단백",
+            "type": "NNG",
+            "position": 2166,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "질",
+            "type": "XSN",
+            "position": 2172,
+            "weight": 0.0050218
+          },
+          {
+            "id": 19,
+            "lemma": "과",
+            "type": "JC",
+            "position": 2175,
+            "weight": 0.0096702
+          },
+          {
+            "id": 20,
+            "lemma": "지방",
+            "type": "NNG",
+            "position": 2179,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 2185,
+            "weight": 0.0694213
+          },
+          {
+            "id": 22,
+            "lemma": "분해",
+            "type": "NNG",
+            "position": 2189,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 2195,
+            "weight": 0.137686
+          },
+          {
+            "id": 24,
+            "lemma": "돕",
+            "type": "VV",
+            "position": 2199,
+            "weight": 0.777582
+          },
+          {
+            "id": 25,
+            "lemma": "으며",
+            "type": "EC",
+            "position": 2202,
+            "weight": 0.431045
+          },
+          {
+            "id": 26,
+            "lemma": ",",
+            "type": "SP",
+            "position": 2208,
+            "weight": 1
+          },
+          {
+            "id": 27,
+            "lemma": "면역",
+            "type": "NNG",
+            "position": 2210,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "억제",
+            "type": "NNG",
+            "position": 2216,
+            "weight": 0.9
+          },
+          {
+            "id": 29,
+            "lemma": "작용",
+            "type": "NNG",
+            "position": 2223,
+            "weight": 0.9
+          },
+          {
+            "id": 30,
+            "lemma": ",",
+            "type": "SP",
+            "position": 2229,
+            "weight": 1
+          },
+          {
+            "id": 31,
+            "lemma": "항염",
+            "type": "NNG",
+            "position": 2231,
+            "weight": 0
+          },
+          {
+            "id": 32,
+            "lemma": "작용",
+            "type": "NNG",
+            "position": 2237,
+            "weight": 0.9
+          },
+          {
+            "id": 33,
+            "lemma": "등",
+            "type": "NNB",
+            "position": 2244,
+            "weight": 0.0146757
+          },
+          {
+            "id": 34,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 2247,
+            "weight": 0.0520933
+          },
+          {
+            "id": 35,
+            "lemma": "기능",
+            "type": "NNG",
+            "position": 2251,
+            "weight": 0.871236
+          },
+          {
+            "id": 36,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 2257,
+            "weight": 0.129611
+          },
+          {
+            "id": 37,
+            "lemma": "하",
+            "type": "VV",
+            "position": 2261,
+            "weight": 0.48169
+          },
+          {
+            "id": 38,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 2261,
+            "weight": 0.0793776
+          },
+          {
+            "id": 39,
+            "lemma": ".",
+            "type": "SF",
+            "position": 2270,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "부신피질",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "호르몬",
+            "type": "",
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "약제는",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "신체의",
+            "type": "",
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 4,
+            "text": "대사에",
+            "type": "",
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 5,
+            "text": "관련하여",
+            "type": "",
+            "begin": 9,
+            "end": 11
+          },
+          {
+            "id": 6,
+            "text": "당을",
+            "type": "",
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 7,
+            "text": "저장하고",
+            "type": "",
+            "begin": 14,
+            "end": 16
+          },
+          {
+            "id": 8,
+            "text": "단백질과",
+            "type": "",
+            "begin": 17,
+            "end": 19
+          },
+          {
+            "id": 9,
+            "text": "지방의",
+            "type": "",
+            "begin": 20,
+            "end": 21
+          },
+          {
+            "id": 10,
+            "text": "분해를",
+            "type": "",
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 11,
+            "text": "도우며,",
+            "type": "",
+            "begin": 24,
+            "end": 26
+          },
+          {
+            "id": 12,
+            "text": "면역억제",
+            "type": "",
+            "begin": 27,
+            "end": 28
+          },
+          {
+            "id": 13,
+            "text": "작용,",
+            "type": "",
+            "begin": 29,
+            "end": 30
+          },
+          {
+            "id": 14,
+            "text": "항염작용",
+            "type": "",
+            "begin": 31,
+            "end": 32
+          },
+          {
+            "id": 15,
+            "text": "등의",
+            "type": "",
+            "begin": 33,
+            "end": 34
+          },
+          {
+            "id": 16,
+            "text": "기능을",
+            "type": "",
+            "begin": 35,
+            "end": 36
+          },
+          {
+            "id": 17,
+            "text": "합니다.",
+            "type": "",
+            "begin": 37,
+            "end": 39
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 20,
+        "reserve_str": "",
+        "text": " 몸에 필요한 중요한 호르몬이지만 많은 양을 사용하거나 무분별한 사용시 심각한 부작용을 초래할 수 있습니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "몸",
+            "type": "NNG",
+            "position": 2272,
+            "weight": 0.437821
+          },
+          {
+            "id": 1,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 2275,
+            "weight": 0.153364
+          },
+          {
+            "id": 2,
+            "lemma": "필요",
+            "type": "NNG",
+            "position": 2279,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "하",
+            "type": "XSA",
+            "position": 2285,
+            "weight": 0.0001
+          },
+          {
+            "id": 4,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 2285,
+            "weight": 0.488779
+          },
+          {
+            "id": 5,
+            "lemma": "중요",
+            "type": "NNG",
+            "position": 2289,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "하",
+            "type": "XSA",
+            "position": 2295,
+            "weight": 0.0001
+          },
+          {
+            "id": 7,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 2295,
+            "weight": 0.488779
+          },
+          {
+            "id": 8,
+            "lemma": "호르몬",
+            "type": "NNG",
+            "position": 2299,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 2308,
+            "weight": 0.0177525
+          },
+          {
+            "id": 10,
+            "lemma": "지만",
+            "type": "EC",
+            "position": 2311,
+            "weight": 0.247025
+          },
+          {
+            "id": 11,
+            "lemma": "많",
+            "type": "VA",
+            "position": 2318,
+            "weight": 0.0501738
+          },
+          {
+            "id": 12,
+            "lemma": "은",
+            "type": "ETM",
+            "position": 2321,
+            "weight": 0.155123
+          },
+          {
+            "id": 13,
+            "lemma": "양",
+            "type": "NNG",
+            "position": 2325,
+            "weight": 0.366342
+          },
+          {
+            "id": 14,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 2328,
+            "weight": 0.129611
+          },
+          {
+            "id": 15,
+            "lemma": "사용",
+            "type": "NNG",
+            "position": 2332,
+            "weight": 0.9
+          },
+          {
+            "id": 16,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 2338,
+            "weight": 0.0001
+          },
+          {
+            "id": 17,
+            "lemma": "거나",
+            "type": "EC",
+            "position": 2341,
+            "weight": 0.364324
+          },
+          {
+            "id": 18,
+            "lemma": "무분별",
+            "type": "NNG",
+            "position": 2348,
+            "weight": 0.55
+          },
+          {
+            "id": 19,
+            "lemma": "하",
+            "type": "XSA",
+            "position": 2357,
+            "weight": 0.0001
+          },
+          {
+            "id": 20,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 2357,
+            "weight": 0.488779
+          },
+          {
+            "id": 21,
+            "lemma": "사용",
+            "type": "NNG",
+            "position": 2361,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "시",
+            "type": "NNB",
+            "position": 2367,
+            "weight": 0.00322101
+          },
+          {
+            "id": 23,
+            "lemma": "심각",
+            "type": "NNG",
+            "position": 2371,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": "하",
+            "type": "XSA",
+            "position": 2377,
+            "weight": 0.0001
+          },
+          {
+            "id": 25,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 2377,
+            "weight": 0.488779
+          },
+          {
+            "id": 26,
+            "lemma": "부",
+            "type": "XPN",
+            "position": 2381,
+            "weight": 0.000121579
+          },
+          {
+            "id": 27,
+            "lemma": "작용",
+            "type": "NNG",
+            "position": 2384,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 2390,
+            "weight": 0.129611
+          },
+          {
+            "id": 29,
+            "lemma": "초래",
+            "type": "NNG",
+            "position": 2394,
+            "weight": 0.9
+          },
+          {
+            "id": 30,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 2400,
+            "weight": 0.0001
+          },
+          {
+            "id": 31,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 2400,
+            "weight": 0.387847
+          },
+          {
+            "id": 32,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 2404,
+            "weight": 0.215617
+          },
+          {
+            "id": 33,
+            "lemma": "있",
+            "type": "VA",
+            "position": 2408,
+            "weight": 0.0518488
+          },
+          {
+            "id": 34,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 2411,
+            "weight": 0.1367
+          },
+          {
+            "id": 35,
+            "lemma": ".",
+            "type": "SF",
+            "position": 2420,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "몸에",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "필요한",
+            "type": "",
+            "begin": 2,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "중요한",
+            "type": "",
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "호르몬이지만",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 4,
+            "text": "많은",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 5,
+            "text": "양을",
+            "type": "",
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 6,
+            "text": "사용하거나",
+            "type": "",
+            "begin": 15,
+            "end": 17
+          },
+          {
+            "id": 7,
+            "text": "무분별한",
+            "type": "",
+            "begin": 18,
+            "end": 20
+          },
+          {
+            "id": 8,
+            "text": "사용시",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 9,
+            "text": "심각한",
+            "type": "",
+            "begin": 23,
+            "end": 25
+          },
+          {
+            "id": 10,
+            "text": "부작용을",
+            "type": "",
+            "begin": 26,
+            "end": 28
+          },
+          {
+            "id": 11,
+            "text": "초래할",
+            "type": "",
+            "begin": 29,
+            "end": 31
+          },
+          {
+            "id": 12,
+            "text": "수",
+            "type": "",
+            "begin": 32,
+            "end": 32
+          },
+          {
+            "id": 13,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 33,
+            "end": 35
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 21,
+        "reserve_str": "",
+        "text": " 부작용으로는 만월형 얼굴, 위장장애, 골다공증, 감염증 악화, 골두무균성 괴사, 체중 증가 등의 증상이 발생할 수 있으므로 복용과 관련하여 의료진과 반드시 상의하도록 합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "부",
+            "type": "XPN",
+            "position": 2422,
+            "weight": 0.000261127
+          },
+          {
+            "id": 1,
+            "lemma": "작용",
+            "type": "NNG",
+            "position": 2425,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 2431,
+            "weight": 0.153406
+          },
+          {
+            "id": 3,
+            "lemma": "는",
+            "type": "JX",
+            "position": 2437,
+            "weight": 0.0387928
+          },
+          {
+            "id": 4,
+            "lemma": "만월",
+            "type": "NNG",
+            "position": 2441,
+            "weight": 0.309449
+          },
+          {
+            "id": 5,
+            "lemma": "형",
+            "type": "XSN",
+            "position": 2447,
+            "weight": 0.0121759
+          },
+          {
+            "id": 6,
+            "lemma": "얼굴",
+            "type": "NNG",
+            "position": 2451,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": ",",
+            "type": "SP",
+            "position": 2457,
+            "weight": 1
+          },
+          {
+            "id": 8,
+            "lemma": "위장",
+            "type": "NNG",
+            "position": 2459,
+            "weight": 0.530456
+          },
+          {
+            "id": 9,
+            "lemma": "장애",
+            "type": "NNG",
+            "position": 2465,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": ",",
+            "type": "SP",
+            "position": 2471,
+            "weight": 1
+          },
+          {
+            "id": 11,
+            "lemma": "골",
+            "type": "NNG",
+            "position": 2473,
+            "weight": 0.463544
+          },
+          {
+            "id": 12,
+            "lemma": "다공",
+            "type": "NNG",
+            "position": 2476,
+            "weight": 0.1
+          },
+          {
+            "id": 13,
+            "lemma": "증",
+            "type": "XSN",
+            "position": 2482,
+            "weight": 0.0294359
+          },
+          {
+            "id": 14,
+            "lemma": ",",
+            "type": "SP",
+            "position": 2485,
+            "weight": 1
+          },
+          {
+            "id": 15,
+            "lemma": "감염",
+            "type": "NNG",
+            "position": 2487,
+            "weight": 0.9
+          },
+          {
+            "id": 16,
+            "lemma": "증",
+            "type": "XSN",
+            "position": 2493,
+            "weight": 0.0294359
+          },
+          {
+            "id": 17,
+            "lemma": "악화",
+            "type": "NNG",
+            "position": 2497,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": ",",
+            "type": "SP",
+            "position": 2503,
+            "weight": 1
+          },
+          {
+            "id": 19,
+            "lemma": "골두무균성",
+            "type": "NNG",
+            "position": 2505,
+            "weight": 0
+          },
+          {
+            "id": 20,
+            "lemma": "괴사",
+            "type": "NNG",
+            "position": 2521,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": ",",
+            "type": "SP",
+            "position": 2527,
+            "weight": 1
+          },
+          {
+            "id": 22,
+            "lemma": "체중",
+            "type": "NNG",
+            "position": 2529,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "증가",
+            "type": "NNG",
+            "position": 2536,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": "등",
+            "type": "NNB",
+            "position": 2543,
+            "weight": 0.0146757
+          },
+          {
+            "id": 25,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 2546,
+            "weight": 0.0520933
+          },
+          {
+            "id": 26,
+            "lemma": "증상",
+            "type": "NNG",
+            "position": 2550,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 2556,
+            "weight": 0.0360723
+          },
+          {
+            "id": 28,
+            "lemma": "발생",
+            "type": "NNG",
+            "position": 2560,
+            "weight": 0.9
+          },
+          {
+            "id": 29,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 2566,
+            "weight": 0.0001
+          },
+          {
+            "id": 30,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 2566,
+            "weight": 0.387847
+          },
+          {
+            "id": 31,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 2570,
+            "weight": 0.215617
+          },
+          {
+            "id": 32,
+            "lemma": "있",
+            "type": "VA",
+            "position": 2574,
+            "weight": 0.0518488
+          },
+          {
+            "id": 33,
+            "lemma": "으므로",
+            "type": "EC",
+            "position": 2577,
+            "weight": 0.312517
+          },
+          {
+            "id": 34,
+            "lemma": "복용",
+            "type": "NNG",
+            "position": 2587,
+            "weight": 0.9
+          },
+          {
+            "id": 35,
+            "lemma": "과",
+            "type": "JKB",
+            "position": 2593,
+            "weight": 0.0503087
+          },
+          {
+            "id": 36,
+            "lemma": "관련",
+            "type": "NNG",
+            "position": 2597,
+            "weight": 0.9
+          },
+          {
+            "id": 37,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 2603,
+            "weight": 0.0001
+          },
+          {
+            "id": 38,
+            "lemma": "어",
+            "type": "EC",
+            "position": 2606,
+            "weight": 0.361326
+          },
+          {
+            "id": 39,
+            "lemma": "의료",
+            "type": "NNG",
+            "position": 2610,
+            "weight": 0.9
+          },
+          {
+            "id": 40,
+            "lemma": "진",
+            "type": "XSN",
+            "position": 2616,
+            "weight": 0.00653155
+          },
+          {
+            "id": 41,
+            "lemma": "과",
+            "type": "JC",
+            "position": 2619,
+            "weight": 0.0096702
+          },
+          {
+            "id": 42,
+            "lemma": "반드시",
+            "type": "MAG",
+            "position": 2623,
+            "weight": 0.9
+          },
+          {
+            "id": 43,
+            "lemma": "상의",
+            "type": "NNG",
+            "position": 2633,
+            "weight": 0.259041
+          },
+          {
+            "id": 44,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 2639,
+            "weight": 0.0001
+          },
+          {
+            "id": 45,
+            "lemma": "도록",
+            "type": "EC",
+            "position": 2642,
+            "weight": 0.370757
+          },
+          {
+            "id": 46,
+            "lemma": "하",
+            "type": "VX",
+            "position": 2649,
+            "weight": 0.0899221
+          },
+          {
+            "id": 47,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 2649,
+            "weight": 0.184529
+          },
+          {
+            "id": 48,
+            "lemma": ".",
+            "type": "SF",
+            "position": 2658,
+            "weight": 1
+          }
+        ],
+        "WSD": [],
+        "word": [
+          {
+            "id": 0,
+            "text": "부작용으로는",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "만월형",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "얼굴,",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "위장장애,",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 4,
+            "text": "골다공증,",
+            "type": "",
+            "begin": 11,
+            "end": 14
+          },
+          {
+            "id": 5,
+            "text": "감염증",
+            "type": "",
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 6,
+            "text": "악화,",
+            "type": "",
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 7,
+            "text": "골두무균성",
+            "type": "",
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 8,
+            "text": "괴사,",
+            "type": "",
+            "begin": 20,
+            "end": 21
+          },
+          {
+            "id": 9,
+            "text": "체중",
+            "type": "",
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 10,
+            "text": "증가",
+            "type": "",
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 11,
+            "text": "등의",
+            "type": "",
+            "begin": 24,
+            "end": 25
+          },
+          {
+            "id": 12,
+            "text": "증상이",
+            "type": "",
+            "begin": 26,
+            "end": 27
+          },
+          {
+            "id": 13,
+            "text": "발생할",
+            "type": "",
+            "begin": 28,
+            "end": 30
+          },
+          {
+            "id": 14,
+            "text": "수",
+            "type": "",
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 15,
+            "text": "있으므로",
+            "type": "",
+            "begin": 32,
+            "end": 33
+          },
+          {
+            "id": 16,
+            "text": "복용과",
+            "type": "",
+            "begin": 34,
+            "end": 35
+          },
+          {
+            "id": 17,
+            "text": "관련하여",
+            "type": "",
+            "begin": 36,
+            "end": 38
+          },
+          {
+            "id": 18,
+            "text": "의료진과",
+            "type": "",
+            "begin": 39,
+            "end": 41
+          },
+          {
+            "id": 19,
+            "text": "반드시",
+            "type": "",
+            "begin": 42,
+            "end": 42
+          },
+          {
+            "id": 20,
+            "text": "상의하도록",
+            "type": "",
+            "begin": 43,
+            "end": 45
+          },
+          {
+            "id": 21,
+            "text": "합니다.",
+            "type": "",
+            "begin": 46,
+            "end": 48
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      }
+    ],
+    "entity": []
+  }
+}

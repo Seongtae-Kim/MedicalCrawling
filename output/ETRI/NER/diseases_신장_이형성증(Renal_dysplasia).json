@@ -1,0 +1,7850 @@
+{
+  "result": 0,
+  "return_object": {
+    "doc_id": "",
+    "DCT": "",
+    "category": "",
+    "category_weight": 0,
+    "title": {
+      "text": "",
+      "NE": ""
+    },
+    "metaInfo": {},
+    "paragraphInfo": [],
+    "sentence": [
+      {
+        "id": 0,
+        "reserve_str": "",
+        "text": "질환명: 신장 이형성증(Renal dysplasia)",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "질환",
+            "type": "NNG",
+            "position": 0,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "명",
+            "type": "NNG",
+            "position": 6,
+            "weight": 0.00576629
+          },
+          {
+            "id": 2,
+            "lemma": ":",
+            "type": "SP",
+            "position": 9,
+            "weight": 1
+          },
+          {
+            "id": 3,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 11,
+            "weight": 0.512049
+          },
+          {
+            "id": 4,
+            "lemma": "이",
+            "type": "NNP",
+            "position": 18,
+            "weight": 0.0001
+          },
+          {
+            "id": 5,
+            "lemma": "형성증",
+            "type": "NNG",
+            "position": 21,
+            "weight": 0
+          },
+          {
+            "id": 6,
+            "lemma": "(",
+            "type": "SS",
+            "position": 30,
+            "weight": 1
+          },
+          {
+            "id": 7,
+            "lemma": "Renal",
+            "type": "SL",
+            "position": 31,
+            "weight": 1
+          },
+          {
+            "id": 8,
+            "lemma": "dysplasia",
+            "type": "SL",
+            "position": 37,
+            "weight": 1
+          },
+          {
+            "id": 9,
+            "lemma": ")",
+            "type": "SS",
+            "position": 46,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "질환",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 0,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "명",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 6,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": ":",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 9,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 3.7,
+            "position": 11,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "이",
+            "type": "NNP",
+            "scode": "13",
+            "weight": 1,
+            "position": 18,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "형성증",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 21,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "(",
+            "type": "SS",
+            "scode": "00",
+            "weight": 1,
+            "position": 30,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "Renal",
+            "type": "SL",
+            "scode": "00",
+            "weight": 1,
+            "position": 31,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 8,
+            "text": "dysplasia",
+            "type": "SL",
+            "scode": "00",
+            "weight": 1,
+            "position": 37,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 9,
+            "text": ")",
+            "type": "SS",
+            "scode": "00",
+            "weight": 1,
+            "position": 46,
+            "begin": 9,
+            "end": 9
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "질환명:",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "신장",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "이형성증(Renal",
+            "type": "",
+            "begin": 4,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "dysplasia)",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "CV_POSITION",
+            "begin": 3,
+            "end": 3,
+            "weight": 0.17712,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "이형성증",
+            "type": "PS_NAME",
+            "begin": 4,
+            "end": 5,
+            "weight": 0.178157,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 1,
+        "reserve_str": "",
+        "text": "관련 설명: ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "관련",
+            "type": "NNG",
+            "position": 47,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "설명",
+            "type": "NNG",
+            "position": 54,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": ":",
+            "type": "SP",
+            "position": 60,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "관련",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 47,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "설명",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 54,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": ":",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 60,
+            "begin": 2,
+            "end": 2
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "관련",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "설명:",
+            "type": "",
+            "begin": 1,
+            "end": 2
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 2,
+        "reserve_str": "",
+        "text": "정의",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "정의",
+            "type": "NNG",
+            "position": 62,
+            "weight": 0.43414
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 1,
+            "position": 62,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "LC_OTHERS",
+            "begin": 0,
+            "end": 0,
+            "weight": 1,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 3,
+        "reserve_str": "",
+        "text": "신장 이형성증은 신조직의 이상 분화로 신장 실질이 비정상적으로 발달한 것을 말하며, 폐쇄성 낭성 이형신의 경우 요로 폐쇄와 관련된 신장 이형성증으로 네프론의 내압 상승에 의한 결과로 생각됩니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 68,
+            "weight": 0.421842
+          },
+          {
+            "id": 1,
+            "lemma": "이형성증",
+            "type": "NNP",
+            "position": 75,
+            "weight": 0.6
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 87,
+            "weight": 0.0520511
+          },
+          {
+            "id": 3,
+            "lemma": "신",
+            "type": "XPN",
+            "position": 91,
+            "weight": 0.000252217
+          },
+          {
+            "id": 4,
+            "lemma": "조직",
+            "type": "NNG",
+            "position": 94,
+            "weight": 0.473811
+          },
+          {
+            "id": 5,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 100,
+            "weight": 0.0694213
+          },
+          {
+            "id": 6,
+            "lemma": "이상",
+            "type": "NNG",
+            "position": 104,
+            "weight": 0.866213
+          },
+          {
+            "id": 7,
+            "lemma": "분화",
+            "type": "NNG",
+            "position": 111,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 117,
+            "weight": 0.153229
+          },
+          {
+            "id": 9,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 121,
+            "weight": 0.200395
+          },
+          {
+            "id": 10,
+            "lemma": "실질",
+            "type": "NNG",
+            "position": 128,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 134,
+            "weight": 0.0360723
+          },
+          {
+            "id": 12,
+            "lemma": "비정상",
+            "type": "NNG",
+            "position": 138,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "적",
+            "type": "XSN",
+            "position": 147,
+            "weight": 0.0168756
+          },
+          {
+            "id": 14,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 150,
+            "weight": 0.121717
+          },
+          {
+            "id": 15,
+            "lemma": "발달하",
+            "type": "VV",
+            "position": 157,
+            "weight": 0.9
+          },
+          {
+            "id": 16,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 163,
+            "weight": 0.304215
+          },
+          {
+            "id": 17,
+            "lemma": "것",
+            "type": "NNB",
+            "position": 167,
+            "weight": 0.228788
+          },
+          {
+            "id": 18,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 170,
+            "weight": 0.0630104
+          },
+          {
+            "id": 19,
+            "lemma": "말",
+            "type": "NNG",
+            "position": 174,
+            "weight": 0.0814073
+          },
+          {
+            "id": 20,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 177,
+            "weight": 0.0001
+          },
+          {
+            "id": 21,
+            "lemma": "며",
+            "type": "EC",
+            "position": 180,
+            "weight": 0.371165
+          },
+          {
+            "id": 22,
+            "lemma": ",",
+            "type": "SP",
+            "position": 183,
+            "weight": 1
+          },
+          {
+            "id": 23,
+            "lemma": "폐쇄",
+            "type": "NNG",
+            "position": 185,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": "성",
+            "type": "NNG",
+            "position": 191,
+            "weight": 0.0908502
+          },
+          {
+            "id": 25,
+            "lemma": "낭성",
+            "type": "NNG",
+            "position": 195,
+            "weight": 0.05
+          },
+          {
+            "id": 26,
+            "lemma": "이형신",
+            "type": "NNP",
+            "position": 202,
+            "weight": 0.6
+          },
+          {
+            "id": 27,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 211,
+            "weight": 0.0987295
+          },
+          {
+            "id": 28,
+            "lemma": "경우",
+            "type": "NNG",
+            "position": 215,
+            "weight": 0.87105
+          },
+          {
+            "id": 29,
+            "lemma": "요로",
+            "type": "NNG",
+            "position": 222,
+            "weight": 0.181285
+          },
+          {
+            "id": 30,
+            "lemma": "폐쇄",
+            "type": "NNG",
+            "position": 229,
+            "weight": 0.9
+          },
+          {
+            "id": 31,
+            "lemma": "와",
+            "type": "JC",
+            "position": 235,
+            "weight": 0.0169714
+          },
+          {
+            "id": 32,
+            "lemma": "관련",
+            "type": "NNG",
+            "position": 239,
+            "weight": 0.9
+          },
+          {
+            "id": 33,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 245,
+            "weight": 0.000224177
+          },
+          {
+            "id": 34,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 245,
+            "weight": 0.392321
+          },
+          {
+            "id": 35,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 249,
+            "weight": 0.634611
+          },
+          {
+            "id": 36,
+            "lemma": "이",
+            "type": "NNP",
+            "position": 256,
+            "weight": 0.0001
+          },
+          {
+            "id": 37,
+            "lemma": "형성증",
+            "type": "NNG",
+            "position": 259,
+            "weight": 0
+          },
+          {
+            "id": 38,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 268,
+            "weight": 0.153406
+          },
+          {
+            "id": 39,
+            "lemma": "네프론",
+            "type": "NNG",
+            "position": 275,
+            "weight": 0
+          },
+          {
+            "id": 40,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 284,
+            "weight": 0.0694213
+          },
+          {
+            "id": 41,
+            "lemma": "내압",
+            "type": "NNG",
+            "position": 288,
+            "weight": 0.9
+          },
+          {
+            "id": 42,
+            "lemma": "상승",
+            "type": "NNG",
+            "position": 295,
+            "weight": 0.9
+          },
+          {
+            "id": 43,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 301,
+            "weight": 0.153364
+          },
+          {
+            "id": 44,
+            "lemma": "의하",
+            "type": "VV",
+            "position": 305,
+            "weight": 0.9
+          },
+          {
+            "id": 45,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 308,
+            "weight": 0.304215
+          },
+          {
+            "id": 46,
+            "lemma": "결과",
+            "type": "NNG",
+            "position": 312,
+            "weight": 0.9
+          },
+          {
+            "id": 47,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 318,
+            "weight": 0.153229
+          },
+          {
+            "id": 48,
+            "lemma": "생각",
+            "type": "NNG",
+            "position": 322,
+            "weight": 0.9
+          },
+          {
+            "id": 49,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 328,
+            "weight": 0.000224177
+          },
+          {
+            "id": 50,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 328,
+            "weight": 0.0449374
+          },
+          {
+            "id": 51,
+            "lemma": ".",
+            "type": "SF",
+            "position": 337,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 1.86667,
+            "position": 68,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "이형성증",
+            "type": "NNP",
+            "scode": "00",
+            "weight": 0,
+            "position": 75,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 87,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "신",
+            "type": "XPN",
+            "scode": "15",
+            "weight": 3,
+            "position": 91,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "조직",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 94,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 100,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "이상",
+            "type": "NNG",
+            "scode": "05",
+            "weight": 2.72692,
+            "position": 104,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "분화",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 111,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 8,
+            "text": "로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 117,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 9,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 2.2,
+            "position": 121,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 10,
+            "text": "실질",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 128,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 11,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 134,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 12,
+            "text": "비정상적",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 138,
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 150,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "발달하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 157,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 15,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 163,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 16,
+            "text": "것",
+            "type": "NNB",
+            "scode": "01",
+            "weight": 9.6,
+            "position": 167,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 17,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 170,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 18,
+            "text": "말하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 174,
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 19,
+            "text": "며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 180,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 20,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 183,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 21,
+            "text": "폐쇄성",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 185,
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 22,
+            "text": "낭성",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 195,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 23,
+            "text": "이형신",
+            "type": "NNP",
+            "scode": "00",
+            "weight": 0,
+            "position": 202,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 24,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 211,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 25,
+            "text": "경우",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 2,
+            "position": 215,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 26,
+            "text": "요로",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 222,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 27,
+            "text": "폐쇄",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 229,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 28,
+            "text": "와",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 235,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 29,
+            "text": "관련되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 239,
+            "begin": 32,
+            "end": 33
+          },
+          {
+            "id": 30,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 245,
+            "begin": 34,
+            "end": 34
+          },
+          {
+            "id": 31,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 1.5,
+            "position": 249,
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 32,
+            "text": "이",
+            "type": "NNP",
+            "scode": "13",
+            "weight": 2,
+            "position": 256,
+            "begin": 36,
+            "end": 36
+          },
+          {
+            "id": 33,
+            "text": "형성증",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 259,
+            "begin": 37,
+            "end": 37
+          },
+          {
+            "id": 34,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 268,
+            "begin": 38,
+            "end": 38
+          },
+          {
+            "id": 35,
+            "text": "네프론",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 275,
+            "begin": 39,
+            "end": 39
+          },
+          {
+            "id": 36,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 284,
+            "begin": 40,
+            "end": 40
+          },
+          {
+            "id": 37,
+            "text": "내압",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 288,
+            "begin": 41,
+            "end": 41
+          },
+          {
+            "id": 38,
+            "text": "상승",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 3.2,
+            "position": 295,
+            "begin": 42,
+            "end": 42
+          },
+          {
+            "id": 39,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 301,
+            "begin": 43,
+            "end": 43
+          },
+          {
+            "id": 40,
+            "text": "의하",
+            "type": "VV",
+            "scode": "01",
+            "weight": 8.8,
+            "position": 305,
+            "begin": 44,
+            "end": 44
+          },
+          {
+            "id": 41,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 308,
+            "begin": 45,
+            "end": 45
+          },
+          {
+            "id": 42,
+            "text": "결과",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 4.2,
+            "position": 312,
+            "begin": 46,
+            "end": 46
+          },
+          {
+            "id": 43,
+            "text": "로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 318,
+            "begin": 47,
+            "end": 47
+          },
+          {
+            "id": 44,
+            "text": "생각되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 322,
+            "begin": 48,
+            "end": 49
+          },
+          {
+            "id": 45,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 328,
+            "begin": 50,
+            "end": 50
+          },
+          {
+            "id": 46,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 337,
+            "begin": 51,
+            "end": 51
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "이형성증은",
+            "type": "",
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "신조직의",
+            "type": "",
+            "begin": 3,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "이상",
+            "type": "",
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 4,
+            "text": "분화로",
+            "type": "",
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 5,
+            "text": "신장",
+            "type": "",
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 6,
+            "text": "실질이",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 7,
+            "text": "비정상적으로",
+            "type": "",
+            "begin": 12,
+            "end": 14
+          },
+          {
+            "id": 8,
+            "text": "발달한",
+            "type": "",
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 9,
+            "text": "것을",
+            "type": "",
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 10,
+            "text": "말하며,",
+            "type": "",
+            "begin": 19,
+            "end": 22
+          },
+          {
+            "id": 11,
+            "text": "폐쇄성",
+            "type": "",
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 12,
+            "text": "낭성",
+            "type": "",
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 13,
+            "text": "이형신의",
+            "type": "",
+            "begin": 26,
+            "end": 27
+          },
+          {
+            "id": 14,
+            "text": "경우",
+            "type": "",
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 15,
+            "text": "요로",
+            "type": "",
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 16,
+            "text": "폐쇄와",
+            "type": "",
+            "begin": 30,
+            "end": 31
+          },
+          {
+            "id": 17,
+            "text": "관련된",
+            "type": "",
+            "begin": 32,
+            "end": 34
+          },
+          {
+            "id": 18,
+            "text": "신장",
+            "type": "",
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 19,
+            "text": "이형성증으로",
+            "type": "",
+            "begin": 36,
+            "end": 38
+          },
+          {
+            "id": 20,
+            "text": "네프론의",
+            "type": "",
+            "begin": 39,
+            "end": 40
+          },
+          {
+            "id": 21,
+            "text": "내압",
+            "type": "",
+            "begin": 41,
+            "end": 41
+          },
+          {
+            "id": 22,
+            "text": "상승에",
+            "type": "",
+            "begin": 42,
+            "end": 43
+          },
+          {
+            "id": 23,
+            "text": "의한",
+            "type": "",
+            "begin": 44,
+            "end": 45
+          },
+          {
+            "id": 24,
+            "text": "결과로",
+            "type": "",
+            "begin": 46,
+            "end": 47
+          },
+          {
+            "id": 25,
+            "text": "생각됩니다.",
+            "type": "",
+            "begin": 48,
+            "end": 51
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 0,
+            "weight": 0.247861,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "이형성증",
+            "type": "TMM_DISEASE",
+            "begin": 1,
+            "end": 1,
+            "weight": 0.226655,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "신장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 9,
+            "end": 9,
+            "weight": 0.282929,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "이형신",
+            "type": "PS_NAME",
+            "begin": 26,
+            "end": 26,
+            "weight": 0.215574,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "요로",
+            "type": "TM_CELL_TISSUE",
+            "begin": 29,
+            "end": 29,
+            "weight": 0.2282,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "네프론",
+            "type": "TM_CELL_TISSUE",
+            "begin": 39,
+            "end": 39,
+            "weight": 0.127785,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 4,
+        "reserve_str": "",
+        "text": "원인",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "원인",
+            "type": "NNG",
+            "position": 338,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "원인",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 338,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "원인",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "원인",
+            "type": "TR_OTHERS",
+            "begin": 0,
+            "end": 0,
+            "weight": 1,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 5,
+        "reserve_str": "",
+        "text": "신장 이형성증의 원인은 아직 명확히 밝혀지지 않았으며, 세포자멸사와 증식 양식의 변화가 신장 이형성증 발생에서 나타나는 비정상적 분화의 주요 원인으로 받아들여지고 있습니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 344,
+            "weight": 0.421842
+          },
+          {
+            "id": 1,
+            "lemma": "이",
+            "type": "NNP",
+            "position": 351,
+            "weight": 0.0001
+          },
+          {
+            "id": 2,
+            "lemma": "형성증",
+            "type": "NNG",
+            "position": 354,
+            "weight": 0
+          },
+          {
+            "id": 3,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 363,
+            "weight": 0.0694213
+          },
+          {
+            "id": 4,
+            "lemma": "원인",
+            "type": "NNG",
+            "position": 367,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "은",
+            "type": "JX",
+            "position": 373,
+            "weight": 0.0449928
+          },
+          {
+            "id": 6,
+            "lemma": "아직",
+            "type": "MAG",
+            "position": 377,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "명확히",
+            "type": "MAG",
+            "position": 384,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "밝혀지",
+            "type": "VV",
+            "position": 394,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "지",
+            "type": "EC",
+            "position": 403,
+            "weight": 0.301842
+          },
+          {
+            "id": 10,
+            "lemma": "않",
+            "type": "VX",
+            "position": 407,
+            "weight": 0.256301
+          },
+          {
+            "id": 11,
+            "lemma": "았",
+            "type": "EP",
+            "position": 410,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "으며",
+            "type": "EC",
+            "position": 413,
+            "weight": 0.197482
+          },
+          {
+            "id": 13,
+            "lemma": ",",
+            "type": "SP",
+            "position": 419,
+            "weight": 1
+          },
+          {
+            "id": 14,
+            "lemma": "세포",
+            "type": "NNG",
+            "position": 421,
+            "weight": 0.531362
+          },
+          {
+            "id": 15,
+            "lemma": "자멸사",
+            "type": "NNG",
+            "position": 427,
+            "weight": 0
+          },
+          {
+            "id": 16,
+            "lemma": "와",
+            "type": "JC",
+            "position": 436,
+            "weight": 0.0169714
+          },
+          {
+            "id": 17,
+            "lemma": "증식",
+            "type": "NNG",
+            "position": 440,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "양식",
+            "type": "NNG",
+            "position": 447,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 453,
+            "weight": 0.0694213
+          },
+          {
+            "id": 20,
+            "lemma": "변화",
+            "type": "NNG",
+            "position": 457,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 463,
+            "weight": 0.066324
+          },
+          {
+            "id": 22,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 467,
+            "weight": 0.201548
+          },
+          {
+            "id": 23,
+            "lemma": "이",
+            "type": "NNP",
+            "position": 474,
+            "weight": 0.0001
+          },
+          {
+            "id": 24,
+            "lemma": "형성증",
+            "type": "NNG",
+            "position": 477,
+            "weight": 0
+          },
+          {
+            "id": 25,
+            "lemma": "발생",
+            "type": "NNG",
+            "position": 487,
+            "weight": 0.9
+          },
+          {
+            "id": 26,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 493,
+            "weight": 0.153407
+          },
+          {
+            "id": 27,
+            "lemma": "나타나",
+            "type": "VV",
+            "position": 500,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 509,
+            "weight": 0.184941
+          },
+          {
+            "id": 29,
+            "lemma": "비정상",
+            "type": "NNG",
+            "position": 513,
+            "weight": 0.9
+          },
+          {
+            "id": 30,
+            "lemma": "적",
+            "type": "XSN",
+            "position": 522,
+            "weight": 0.0168756
+          },
+          {
+            "id": 31,
+            "lemma": "분화",
+            "type": "NNG",
+            "position": 526,
+            "weight": 0.9
+          },
+          {
+            "id": 32,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 532,
+            "weight": 0.0694213
+          },
+          {
+            "id": 33,
+            "lemma": "주요",
+            "type": "NNG",
+            "position": 536,
+            "weight": 0.9
+          },
+          {
+            "id": 34,
+            "lemma": "원인",
+            "type": "NNG",
+            "position": 543,
+            "weight": 0.9
+          },
+          {
+            "id": 35,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 549,
+            "weight": 0.153406
+          },
+          {
+            "id": 36,
+            "lemma": "받아들이",
+            "type": "VV",
+            "position": 556,
+            "weight": 0.9
+          },
+          {
+            "id": 37,
+            "lemma": "어",
+            "type": "EC",
+            "position": 565,
+            "weight": 0.41831
+          },
+          {
+            "id": 38,
+            "lemma": "지",
+            "type": "VX",
+            "position": 568,
+            "weight": 0.0539764
+          },
+          {
+            "id": 39,
+            "lemma": "고",
+            "type": "EC",
+            "position": 571,
+            "weight": 0.25644
+          },
+          {
+            "id": 40,
+            "lemma": "있",
+            "type": "VX",
+            "position": 575,
+            "weight": 0.125953
+          },
+          {
+            "id": 41,
+            "lemma": "습니다",
+            "type": "EF",
+            "position": 578,
+            "weight": 0.185981
+          },
+          {
+            "id": 42,
+            "lemma": ".",
+            "type": "SF",
+            "position": 587,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 2.5,
+            "position": 344,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "이",
+            "type": "NNP",
+            "scode": "13",
+            "weight": 2,
+            "position": 351,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "형성증",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 354,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 363,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "원인",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 3.2,
+            "position": 367,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 373,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "아직",
+            "type": "MAG",
+            "scode": "01",
+            "weight": 5.7,
+            "position": 377,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "명확히",
+            "type": "MAG",
+            "scode": "00",
+            "weight": 0,
+            "position": 384,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 8,
+            "text": "밝혀지",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 394,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 9,
+            "text": "지",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 403,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 10,
+            "text": "않",
+            "type": "VX",
+            "scode": "00",
+            "weight": 0,
+            "position": 407,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 11,
+            "text": "았",
+            "type": "EP",
+            "scode": "00",
+            "weight": 1,
+            "position": 410,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 12,
+            "text": "으며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 413,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 13,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 419,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 14,
+            "text": "세포",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 4.4,
+            "position": 421,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 15,
+            "text": "자멸사",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 427,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 16,
+            "text": "와",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 436,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 17,
+            "text": "증식",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 440,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 18,
+            "text": "양식",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 3.2,
+            "position": 447,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 19,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 453,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 20,
+            "text": "변화",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 457,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 21,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 463,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 22,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 1.5,
+            "position": 467,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 23,
+            "text": "이",
+            "type": "NNP",
+            "scode": "13",
+            "weight": 3,
+            "position": 474,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 24,
+            "text": "형성증",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 477,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 25,
+            "text": "발생",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 487,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 26,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 493,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 27,
+            "text": "나타나",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 500,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 28,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 509,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 29,
+            "text": "비정상적",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 513,
+            "begin": 29,
+            "end": 30
+          },
+          {
+            "id": 30,
+            "text": "분화",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 526,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 31,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 532,
+            "begin": 32,
+            "end": 32
+          },
+          {
+            "id": 32,
+            "text": "주요",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 536,
+            "begin": 33,
+            "end": 33
+          },
+          {
+            "id": 33,
+            "text": "원인",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 2.2,
+            "position": 543,
+            "begin": 34,
+            "end": 34
+          },
+          {
+            "id": 34,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 549,
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 35,
+            "text": "받아들이",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 556,
+            "begin": 36,
+            "end": 36
+          },
+          {
+            "id": 36,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 565,
+            "begin": 37,
+            "end": 37
+          },
+          {
+            "id": 37,
+            "text": "지",
+            "type": "VX",
+            "scode": "04",
+            "weight": 7.6,
+            "position": 568,
+            "begin": 38,
+            "end": 38
+          },
+          {
+            "id": 38,
+            "text": "고",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 571,
+            "begin": 39,
+            "end": 39
+          },
+          {
+            "id": 39,
+            "text": "있",
+            "type": "VX",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 575,
+            "begin": 40,
+            "end": 40
+          },
+          {
+            "id": 40,
+            "text": "습니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 578,
+            "begin": 41,
+            "end": 41
+          },
+          {
+            "id": 41,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 587,
+            "begin": 42,
+            "end": 42
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "이형성증의",
+            "type": "",
+            "begin": 1,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "원인은",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "아직",
+            "type": "",
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 4,
+            "text": "명확히",
+            "type": "",
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 5,
+            "text": "밝혀지지",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 6,
+            "text": "않았으며,",
+            "type": "",
+            "begin": 10,
+            "end": 13
+          },
+          {
+            "id": 7,
+            "text": "세포자멸사와",
+            "type": "",
+            "begin": 14,
+            "end": 16
+          },
+          {
+            "id": 8,
+            "text": "증식",
+            "type": "",
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 9,
+            "text": "양식의",
+            "type": "",
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 10,
+            "text": "변화가",
+            "type": "",
+            "begin": 20,
+            "end": 21
+          },
+          {
+            "id": 11,
+            "text": "신장",
+            "type": "",
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 12,
+            "text": "이형성증",
+            "type": "",
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 13,
+            "text": "발생에서",
+            "type": "",
+            "begin": 25,
+            "end": 26
+          },
+          {
+            "id": 14,
+            "text": "나타나는",
+            "type": "",
+            "begin": 27,
+            "end": 28
+          },
+          {
+            "id": 15,
+            "text": "비정상적",
+            "type": "",
+            "begin": 29,
+            "end": 30
+          },
+          {
+            "id": 16,
+            "text": "분화의",
+            "type": "",
+            "begin": 31,
+            "end": 32
+          },
+          {
+            "id": 17,
+            "text": "주요",
+            "type": "",
+            "begin": 33,
+            "end": 33
+          },
+          {
+            "id": 18,
+            "text": "원인으로",
+            "type": "",
+            "begin": 34,
+            "end": 35
+          },
+          {
+            "id": 19,
+            "text": "받아들여지고",
+            "type": "",
+            "begin": 36,
+            "end": 39
+          },
+          {
+            "id": 20,
+            "text": "있습니다.",
+            "type": "",
+            "begin": 40,
+            "end": 42
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "이",
+            "type": "PS_NAME",
+            "begin": 1,
+            "end": 1,
+            "weight": 0.289404,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 6,
+        "reserve_str": "",
+        "text": "  유전적인 원인이 드물게 보고되고 있으며, 약 90%는 요로계 폐쇄와 관련된 다양한 요로기형을 동반합니다. ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "유전",
+            "type": "NNG",
+            "position": 590,
+            "weight": 0.43703
+          },
+          {
+            "id": 1,
+            "lemma": "적",
+            "type": "NNG",
+            "position": 596,
+            "weight": 0.0169769
+          },
+          {
+            "id": 2,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 599,
+            "weight": 0.0177525
+          },
+          {
+            "id": 3,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 599,
+            "weight": 0.220712
+          },
+          {
+            "id": 4,
+            "lemma": "원인",
+            "type": "NNG",
+            "position": 603,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 609,
+            "weight": 0.0360723
+          },
+          {
+            "id": 6,
+            "lemma": "드물",
+            "type": "VA",
+            "position": 613,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "게",
+            "type": "EC",
+            "position": 619,
+            "weight": 0.31879
+          },
+          {
+            "id": 8,
+            "lemma": "보고",
+            "type": "NNG",
+            "position": 623,
+            "weight": 0.169355
+          },
+          {
+            "id": 9,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 629,
+            "weight": 0.000224177
+          },
+          {
+            "id": 10,
+            "lemma": "고",
+            "type": "EC",
+            "position": 632,
+            "weight": 0.359917
+          },
+          {
+            "id": 11,
+            "lemma": "있",
+            "type": "VX",
+            "position": 636,
+            "weight": 0.125953
+          },
+          {
+            "id": 12,
+            "lemma": "으며",
+            "type": "EC",
+            "position": 639,
+            "weight": 0.265281
+          },
+          {
+            "id": 13,
+            "lemma": ",",
+            "type": "SP",
+            "position": 645,
+            "weight": 1
+          },
+          {
+            "id": 14,
+            "lemma": "약",
+            "type": "MM",
+            "position": 647,
+            "weight": 0.0195054
+          },
+          {
+            "id": 15,
+            "lemma": "90",
+            "type": "SN",
+            "position": 651,
+            "weight": 1
+          },
+          {
+            "id": 16,
+            "lemma": "%",
+            "type": "SW",
+            "position": 653,
+            "weight": 1
+          },
+          {
+            "id": 17,
+            "lemma": "는",
+            "type": "JX",
+            "position": 654,
+            "weight": 0.0083557
+          },
+          {
+            "id": 18,
+            "lemma": "요로",
+            "type": "NNG",
+            "position": 658,
+            "weight": 0.318673
+          },
+          {
+            "id": 19,
+            "lemma": "계",
+            "type": "XSN",
+            "position": 664,
+            "weight": 0.027803
+          },
+          {
+            "id": 20,
+            "lemma": "폐쇄",
+            "type": "NNG",
+            "position": 668,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": "와",
+            "type": "JC",
+            "position": 674,
+            "weight": 0.0169714
+          },
+          {
+            "id": 22,
+            "lemma": "관련",
+            "type": "NNG",
+            "position": 678,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 684,
+            "weight": 0.000224177
+          },
+          {
+            "id": 24,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 684,
+            "weight": 0.392321
+          },
+          {
+            "id": 25,
+            "lemma": "다양",
+            "type": "NNG",
+            "position": 688,
+            "weight": 0.9
+          },
+          {
+            "id": 26,
+            "lemma": "하",
+            "type": "XSA",
+            "position": 694,
+            "weight": 0.0001
+          },
+          {
+            "id": 27,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 694,
+            "weight": 0.488779
+          },
+          {
+            "id": 28,
+            "lemma": "요로",
+            "type": "NNG",
+            "position": 698,
+            "weight": 0.646171
+          },
+          {
+            "id": 29,
+            "lemma": "기형",
+            "type": "NNG",
+            "position": 704,
+            "weight": 0.183846
+          },
+          {
+            "id": 30,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 710,
+            "weight": 0.129611
+          },
+          {
+            "id": 31,
+            "lemma": "동반",
+            "type": "NNG",
+            "position": 714,
+            "weight": 0.9
+          },
+          {
+            "id": 32,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 720,
+            "weight": 0.0001
+          },
+          {
+            "id": 33,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 720,
+            "weight": 0.0449374
+          },
+          {
+            "id": 34,
+            "lemma": ".",
+            "type": "SF",
+            "position": 729,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "유전적",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 590,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 599,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 599,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "원인",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 4.4,
+            "position": 603,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 609,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "드물",
+            "type": "VA",
+            "scode": "00",
+            "weight": 0,
+            "position": 613,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "게",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 619,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "보고되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 623,
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "고",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 632,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "있",
+            "type": "VX",
+            "scode": "01",
+            "weight": 6.6,
+            "position": 636,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "으며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 639,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 645,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "약",
+            "type": "MM",
+            "scode": "03",
+            "weight": 1,
+            "position": 647,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "90",
+            "type": "SN",
+            "scode": "00",
+            "weight": 1,
+            "position": 651,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "%",
+            "type": "SW",
+            "scode": "00",
+            "weight": 1,
+            "position": 653,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 15,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 654,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 16,
+            "text": "요로",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 658,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 17,
+            "text": "계",
+            "type": "XSN",
+            "scode": "19",
+            "weight": 1,
+            "position": 664,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 18,
+            "text": "폐쇄",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 668,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 19,
+            "text": "와",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 674,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 20,
+            "text": "관련되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 678,
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 21,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 684,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 22,
+            "text": "다양하",
+            "type": "VA",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 688,
+            "begin": 25,
+            "end": 26
+          },
+          {
+            "id": 23,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 694,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 24,
+            "text": "요로",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2,
+            "position": 698,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 25,
+            "text": "기형",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 2,
+            "position": 704,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 26,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 710,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 27,
+            "text": "동반하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 714,
+            "begin": 31,
+            "end": 32
+          },
+          {
+            "id": 28,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 720,
+            "begin": 33,
+            "end": 33
+          },
+          {
+            "id": 29,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 729,
+            "begin": 34,
+            "end": 34
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "유전적인",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "원인이",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "드물게",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "보고되고",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 4,
+            "text": "있으며,",
+            "type": "",
+            "begin": 11,
+            "end": 13
+          },
+          {
+            "id": 5,
+            "text": "약",
+            "type": "",
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 6,
+            "text": "90%는",
+            "type": "",
+            "begin": 15,
+            "end": 17
+          },
+          {
+            "id": 7,
+            "text": "요로계",
+            "type": "",
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 8,
+            "text": "폐쇄와",
+            "type": "",
+            "begin": 20,
+            "end": 21
+          },
+          {
+            "id": 9,
+            "text": "관련된",
+            "type": "",
+            "begin": 22,
+            "end": 24
+          },
+          {
+            "id": 10,
+            "text": "다양한",
+            "type": "",
+            "begin": 25,
+            "end": 27
+          },
+          {
+            "id": 11,
+            "text": "요로기형을",
+            "type": "",
+            "begin": 28,
+            "end": 30
+          },
+          {
+            "id": 12,
+            "text": "동반합니다.",
+            "type": "",
+            "begin": 31,
+            "end": 34
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "약 90%",
+            "type": "QT_PERCENTAGE",
+            "begin": 14,
+            "end": 16,
+            "weight": 0.787861,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "요로",
+            "type": "TM_CELL_TISSUE",
+            "begin": 28,
+            "end": 28,
+            "weight": 0.309573,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 7,
+        "reserve_str": "",
+        "text": "증상",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "증상",
+            "type": "NNG",
+            "position": 731,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "증상",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 731,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "증상",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 8,
+        "reserve_str": "",
+        "text": "신장이 전혀 없거나 또는 신장 발육부전이 발생하는 빈도가 약 2,500 내지 4,000명의 출생아당 1명입니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 737,
+            "weight": 0.421842
+          },
+          {
+            "id": 1,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 743,
+            "weight": 0.0360723
+          },
+          {
+            "id": 2,
+            "lemma": "전혀",
+            "type": "MAG",
+            "position": 747,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "없",
+            "type": "VA",
+            "position": 754,
+            "weight": 0.133265
+          },
+          {
+            "id": 4,
+            "lemma": "거나",
+            "type": "EC",
+            "position": 757,
+            "weight": 0.314176
+          },
+          {
+            "id": 5,
+            "lemma": "또는",
+            "type": "MAJ",
+            "position": 764,
+            "weight": 0.000483674
+          },
+          {
+            "id": 6,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 771,
+            "weight": 0.398531
+          },
+          {
+            "id": 7,
+            "lemma": "발육",
+            "type": "NNG",
+            "position": 778,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "부전",
+            "type": "NNG",
+            "position": 784,
+            "weight": 0.168336
+          },
+          {
+            "id": 9,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 790,
+            "weight": 0.0360723
+          },
+          {
+            "id": 10,
+            "lemma": "발생",
+            "type": "NNG",
+            "position": 794,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 800,
+            "weight": 0.0001
+          },
+          {
+            "id": 12,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 803,
+            "weight": 0.238503
+          },
+          {
+            "id": 13,
+            "lemma": "빈도",
+            "type": "NNG",
+            "position": 807,
+            "weight": 0.645576
+          },
+          {
+            "id": 14,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 813,
+            "weight": 0.066324
+          },
+          {
+            "id": 15,
+            "lemma": "약",
+            "type": "MM",
+            "position": 817,
+            "weight": 0.0118811
+          },
+          {
+            "id": 16,
+            "lemma": "2,500",
+            "type": "SN",
+            "position": 821,
+            "weight": 1
+          },
+          {
+            "id": 17,
+            "lemma": "내지",
+            "type": "MAG",
+            "position": 827,
+            "weight": 0.000123092
+          },
+          {
+            "id": 18,
+            "lemma": "4,000",
+            "type": "SN",
+            "position": 834,
+            "weight": 1
+          },
+          {
+            "id": 19,
+            "lemma": "명",
+            "type": "NNB",
+            "position": 839,
+            "weight": 0.399746
+          },
+          {
+            "id": 20,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 842,
+            "weight": 0.0520933
+          },
+          {
+            "id": 21,
+            "lemma": "출생",
+            "type": "NNG",
+            "position": 846,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "아",
+            "type": "XSN",
+            "position": 852,
+            "weight": 0.0001
+          },
+          {
+            "id": 23,
+            "lemma": "당",
+            "type": "XSN",
+            "position": 855,
+            "weight": 0.00469491
+          },
+          {
+            "id": 24,
+            "lemma": "1",
+            "type": "SN",
+            "position": 859,
+            "weight": 1
+          },
+          {
+            "id": 25,
+            "lemma": "명",
+            "type": "NNB",
+            "position": 860,
+            "weight": 0.399746
+          },
+          {
+            "id": 26,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 863,
+            "weight": 0.0607843
+          },
+          {
+            "id": 27,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 863,
+            "weight": 0.36174
+          },
+          {
+            "id": 28,
+            "lemma": ".",
+            "type": "SF",
+            "position": 872,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 1,
+            "position": 737,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 743,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "전혀",
+            "type": "MAG",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 747,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "없",
+            "type": "VA",
+            "scode": "01",
+            "weight": 3.2,
+            "position": 754,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "거나",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 757,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "또는",
+            "type": "MAJ",
+            "scode": "00",
+            "weight": 0,
+            "position": 764,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 4.4,
+            "position": 771,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "발육부전",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 778,
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 790,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "발생하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 794,
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 803,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "빈도",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 1,
+            "position": 807,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 813,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "약",
+            "type": "MM",
+            "scode": "03",
+            "weight": 3,
+            "position": 817,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "2,500",
+            "type": "SN",
+            "scode": "00",
+            "weight": 1,
+            "position": 821,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 15,
+            "text": "내지",
+            "type": "MAG",
+            "scode": "01",
+            "weight": 1,
+            "position": 827,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 16,
+            "text": "4,000",
+            "type": "SN",
+            "scode": "00",
+            "weight": 1,
+            "position": 834,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 17,
+            "text": "명",
+            "type": "NNB",
+            "scode": "03",
+            "weight": 4.4,
+            "position": 839,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 18,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 842,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 19,
+            "text": "출생",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 846,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 20,
+            "text": "아당",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 1,
+            "position": 852,
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 21,
+            "text": "1",
+            "type": "SN",
+            "scode": "00",
+            "weight": 1,
+            "position": 859,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 22,
+            "text": "명",
+            "type": "NNB",
+            "scode": "03",
+            "weight": 1,
+            "position": 860,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 23,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 863,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 24,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 863,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 25,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 872,
+            "begin": 28,
+            "end": 28
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "신장이",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "전혀",
+            "type": "",
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "없거나",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "또는",
+            "type": "",
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": "신장",
+            "type": "",
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 5,
+            "text": "발육부전이",
+            "type": "",
+            "begin": 7,
+            "end": 9
+          },
+          {
+            "id": 6,
+            "text": "발생하는",
+            "type": "",
+            "begin": 10,
+            "end": 12
+          },
+          {
+            "id": 7,
+            "text": "빈도가",
+            "type": "",
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 8,
+            "text": "약",
+            "type": "",
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 9,
+            "text": "2,500",
+            "type": "",
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 10,
+            "text": "내지",
+            "type": "",
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 11,
+            "text": "4,000명의",
+            "type": "",
+            "begin": 18,
+            "end": 20
+          },
+          {
+            "id": 12,
+            "text": "출생아당",
+            "type": "",
+            "begin": 21,
+            "end": 23
+          },
+          {
+            "id": 13,
+            "text": "1명입니다.",
+            "type": "",
+            "begin": 24,
+            "end": 28
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "신장 발육부전",
+            "type": "TMM_DISEASE",
+            "begin": 6,
+            "end": 8,
+            "weight": 0.219325,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "약 2,500 내지",
+            "type": "QT_COUNT",
+            "begin": 15,
+            "end": 17,
+            "weight": 0.296632,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "4,000명",
+            "type": "QT_MAN_COUNT",
+            "begin": 18,
+            "end": 19,
+            "weight": 0.875067,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "1명",
+            "type": "QT_MAN_COUNT",
+            "begin": 24,
+            "end": 25,
+            "weight": 0.83724,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 9,
+        "reserve_str": "",
+        "text": " 여아보다 남아에서 많이 발생하며 양수과소증을 동반합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "여아",
+            "type": "NNG",
+            "position": 874,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "보다",
+            "type": "JKB",
+            "position": 880,
+            "weight": 0.143482
+          },
+          {
+            "id": 2,
+            "lemma": "남아",
+            "type": "NNG",
+            "position": 887,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 893,
+            "weight": 0.153407
+          },
+          {
+            "id": 4,
+            "lemma": "많이",
+            "type": "MAG",
+            "position": 900,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "발생",
+            "type": "NNG",
+            "position": 907,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 913,
+            "weight": 0.0001
+          },
+          {
+            "id": 7,
+            "lemma": "며",
+            "type": "EC",
+            "position": 916,
+            "weight": 0.371165
+          },
+          {
+            "id": 8,
+            "lemma": "양수",
+            "type": "NNG",
+            "position": 920,
+            "weight": 0.216048
+          },
+          {
+            "id": 9,
+            "lemma": "과소증",
+            "type": "NNG",
+            "position": 926,
+            "weight": 0
+          },
+          {
+            "id": 10,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 935,
+            "weight": 0.129611
+          },
+          {
+            "id": 11,
+            "lemma": "동반",
+            "type": "NNG",
+            "position": 939,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 945,
+            "weight": 0.0001
+          },
+          {
+            "id": 13,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 945,
+            "weight": 0.0449374
+          },
+          {
+            "id": 14,
+            "lemma": ".",
+            "type": "SF",
+            "position": 954,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "여아",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 874,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "보다",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 880,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "남아",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 887,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 893,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "많이",
+            "type": "MAG",
+            "scode": "00",
+            "weight": 0,
+            "position": 900,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "발생하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 907,
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 916,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "양수과소증",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 920,
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 935,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "동반하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 939,
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 10,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 945,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 11,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 954,
+            "begin": 14,
+            "end": 14
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "여아보다",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "남아에서",
+            "type": "",
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "많이",
+            "type": "",
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "발생하며",
+            "type": "",
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "양수과소증을",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "동반합니다.",
+            "type": "",
+            "begin": 11,
+            "end": 14
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "양수과소증",
+            "type": "TMM_DISEASE",
+            "begin": 8,
+            "end": 9,
+            "weight": 0.198498,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 10,
+        "reserve_str": "",
+        "text": " 대부분 소아나 산전 진찰에서 발견되며 약 1/3에서 자궁 내 태아가 사망하며 살아서 태어나도 폐형성부전으로 48시간 이내에 사망하게 됩니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "대",
+            "type": "XPN",
+            "position": 956,
+            "weight": 0.000255245
+          },
+          {
+            "id": 1,
+            "lemma": "부분",
+            "type": "NNG",
+            "position": 959,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "소아",
+            "type": "NNG",
+            "position": 966,
+            "weight": 0.176625
+          },
+          {
+            "id": 3,
+            "lemma": "나",
+            "type": "JC",
+            "position": 972,
+            "weight": 0.00543468
+          },
+          {
+            "id": 4,
+            "lemma": "산전",
+            "type": "NNG",
+            "position": 976,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "진찰",
+            "type": "NNG",
+            "position": 983,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 989,
+            "weight": 0.153407
+          },
+          {
+            "id": 7,
+            "lemma": "발견",
+            "type": "NNG",
+            "position": 996,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1002,
+            "weight": 0.000224177
+          },
+          {
+            "id": 9,
+            "lemma": "며",
+            "type": "EC",
+            "position": 1005,
+            "weight": 0.371165
+          },
+          {
+            "id": 10,
+            "lemma": "약",
+            "type": "MM",
+            "position": 1009,
+            "weight": 0.0107162
+          },
+          {
+            "id": 11,
+            "lemma": "1",
+            "type": "SN",
+            "position": 1013,
+            "weight": 1
+          },
+          {
+            "id": 12,
+            "lemma": "/",
+            "type": "SP",
+            "position": 1014,
+            "weight": 1
+          },
+          {
+            "id": 13,
+            "lemma": "3",
+            "type": "SN",
+            "position": 1015,
+            "weight": 1
+          },
+          {
+            "id": 14,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 1016,
+            "weight": 0.00395809
+          },
+          {
+            "id": 15,
+            "lemma": "자궁",
+            "type": "NNG",
+            "position": 1023,
+            "weight": 0.9
+          },
+          {
+            "id": 16,
+            "lemma": "내",
+            "type": "NNB",
+            "position": 1030,
+            "weight": 0.00130296
+          },
+          {
+            "id": 17,
+            "lemma": "태아",
+            "type": "NNG",
+            "position": 1034,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 1040,
+            "weight": 0.066324
+          },
+          {
+            "id": 19,
+            "lemma": "사망",
+            "type": "NNG",
+            "position": 1044,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1050,
+            "weight": 0.0001
+          },
+          {
+            "id": 21,
+            "lemma": "며",
+            "type": "EC",
+            "position": 1053,
+            "weight": 0.371165
+          },
+          {
+            "id": 22,
+            "lemma": "살",
+            "type": "VV",
+            "position": 1057,
+            "weight": 0.182142
+          },
+          {
+            "id": 23,
+            "lemma": "아서",
+            "type": "EC",
+            "position": 1060,
+            "weight": 0.428178
+          },
+          {
+            "id": 24,
+            "lemma": "태어나",
+            "type": "VV",
+            "position": 1067,
+            "weight": 0.9
+          },
+          {
+            "id": 25,
+            "lemma": "아도",
+            "type": "EC",
+            "position": 1073,
+            "weight": 0.430216
+          },
+          {
+            "id": 26,
+            "lemma": "폐형성부전",
+            "type": "NNG",
+            "position": 1080,
+            "weight": 0
+          },
+          {
+            "id": 27,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1095,
+            "weight": 0.153406
+          },
+          {
+            "id": 28,
+            "lemma": "48",
+            "type": "SN",
+            "position": 1102,
+            "weight": 1
+          },
+          {
+            "id": 29,
+            "lemma": "시간",
+            "type": "NNB",
+            "position": 1104,
+            "weight": 0.054566
+          },
+          {
+            "id": 30,
+            "lemma": "이내",
+            "type": "NNG",
+            "position": 1111,
+            "weight": 0.050261
+          },
+          {
+            "id": 31,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1117,
+            "weight": 0.153364
+          },
+          {
+            "id": 32,
+            "lemma": "사망",
+            "type": "NNG",
+            "position": 1121,
+            "weight": 0.9
+          },
+          {
+            "id": 33,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1127,
+            "weight": 0.0001
+          },
+          {
+            "id": 34,
+            "lemma": "게",
+            "type": "EC",
+            "position": 1130,
+            "weight": 0.369675
+          },
+          {
+            "id": 35,
+            "lemma": "되",
+            "type": "VV",
+            "position": 1134,
+            "weight": 0.209958
+          },
+          {
+            "id": 36,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1134,
+            "weight": 0.0793776
+          },
+          {
+            "id": 37,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1143,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "대부분",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 956,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "소아",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 1,
+            "position": 966,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "나",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 972,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "산전",
+            "type": "NNG",
+            "scode": "05",
+            "weight": 1,
+            "position": 976,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "진찰",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 983,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 989,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "발견되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 996,
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 7,
+            "text": "며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1005,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "약",
+            "type": "MM",
+            "scode": "03",
+            "weight": 2.2,
+            "position": 1009,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "1",
+            "type": "SN",
+            "scode": "00",
+            "weight": 1,
+            "position": 1013,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "/",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1014,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "3",
+            "type": "SN",
+            "scode": "00",
+            "weight": 1,
+            "position": 1015,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1016,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "자궁",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 3.2,
+            "position": 1023,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "내",
+            "type": "NNB",
+            "scode": "09",
+            "weight": 3.2,
+            "position": 1030,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 15,
+            "text": "태아",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 3.2,
+            "position": 1034,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 16,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1040,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 17,
+            "text": "사망하",
+            "type": "VV",
+            "scode": "01",
+            "weight": 1,
+            "position": 1044,
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1053,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 19,
+            "text": "살",
+            "type": "VV",
+            "scode": "01",
+            "weight": 3.2,
+            "position": 1057,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 20,
+            "text": "아서",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1060,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 21,
+            "text": "태어나",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1067,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 22,
+            "text": "아도",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1073,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 23,
+            "text": "폐형성부전",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1080,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 24,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1095,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 25,
+            "text": "48",
+            "type": "SN",
+            "scode": "00",
+            "weight": 1,
+            "position": 1102,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 26,
+            "text": "시간",
+            "type": "NNB",
+            "scode": "04",
+            "weight": 4.4,
+            "position": 1104,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 27,
+            "text": "이내",
+            "type": "NNG",
+            "scode": "05",
+            "weight": 2.2,
+            "position": 1111,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 28,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1117,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 29,
+            "text": "사망하",
+            "type": "VV",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1121,
+            "begin": 32,
+            "end": 33
+          },
+          {
+            "id": 30,
+            "text": "게",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1130,
+            "begin": 34,
+            "end": 34
+          },
+          {
+            "id": 31,
+            "text": "되",
+            "type": "VV",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 1134,
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 32,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1134,
+            "begin": 36,
+            "end": 36
+          },
+          {
+            "id": 33,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1143,
+            "begin": 37,
+            "end": 37
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "대부분",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "소아나",
+            "type": "",
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "산전",
+            "type": "",
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "진찰에서",
+            "type": "",
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 4,
+            "text": "발견되며",
+            "type": "",
+            "begin": 7,
+            "end": 9
+          },
+          {
+            "id": 5,
+            "text": "약",
+            "type": "",
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 6,
+            "text": "1/3에서",
+            "type": "",
+            "begin": 11,
+            "end": 14
+          },
+          {
+            "id": 7,
+            "text": "자궁",
+            "type": "",
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "내",
+            "type": "",
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 9,
+            "text": "태아가",
+            "type": "",
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 10,
+            "text": "사망하며",
+            "type": "",
+            "begin": 19,
+            "end": 21
+          },
+          {
+            "id": 11,
+            "text": "살아서",
+            "type": "",
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 12,
+            "text": "태어나도",
+            "type": "",
+            "begin": 24,
+            "end": 25
+          },
+          {
+            "id": 13,
+            "text": "폐형성부전으로",
+            "type": "",
+            "begin": 26,
+            "end": 27
+          },
+          {
+            "id": 14,
+            "text": "48시간",
+            "type": "",
+            "begin": 28,
+            "end": 29
+          },
+          {
+            "id": 15,
+            "text": "이내에",
+            "type": "",
+            "begin": 30,
+            "end": 31
+          },
+          {
+            "id": 16,
+            "text": "사망하게",
+            "type": "",
+            "begin": 32,
+            "end": 34
+          },
+          {
+            "id": 17,
+            "text": "됩니다.",
+            "type": "",
+            "begin": 35,
+            "end": 37
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "약 1/3",
+            "type": "QT_PERCENTAGE",
+            "begin": 10,
+            "end": 13,
+            "weight": 0.691526,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "자궁",
+            "type": "TM_CELL_TISSUE",
+            "begin": 15,
+            "end": 15,
+            "weight": 0.641635,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "48시간 이내",
+            "type": "TI_DURATION",
+            "begin": 28,
+            "end": 30,
+            "weight": 0.530809,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 11,
+        "reserve_str": "",
+        "text": " 외모는 납작한 코와 크고 아래로 축 처진 귀가 특징입니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "외모",
+            "type": "NNG",
+            "position": 1145,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "는",
+            "type": "JX",
+            "position": 1151,
+            "weight": 0.0287565
+          },
+          {
+            "id": 2,
+            "lemma": "납작",
+            "type": "MAG",
+            "position": 1155,
+            "weight": 0.0799624
+          },
+          {
+            "id": 3,
+            "lemma": "하",
+            "type": "XSA",
+            "position": 1161,
+            "weight": 0.0001
+          },
+          {
+            "id": 4,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1161,
+            "weight": 0.488779
+          },
+          {
+            "id": 5,
+            "lemma": "코",
+            "type": "NNG",
+            "position": 1165,
+            "weight": 0.656122
+          },
+          {
+            "id": 6,
+            "lemma": "와",
+            "type": "JC",
+            "position": 1168,
+            "weight": 0.0169714
+          },
+          {
+            "id": 7,
+            "lemma": "크",
+            "type": "VA",
+            "position": 1172,
+            "weight": 0.0233539
+          },
+          {
+            "id": 8,
+            "lemma": "고",
+            "type": "EC",
+            "position": 1175,
+            "weight": 0.310376
+          },
+          {
+            "id": 9,
+            "lemma": "아래",
+            "type": "NNG",
+            "position": 1179,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 1185,
+            "weight": 0.153229
+          },
+          {
+            "id": 11,
+            "lemma": "축",
+            "type": "MAG",
+            "position": 1189,
+            "weight": 0.00925273
+          },
+          {
+            "id": 12,
+            "lemma": "처지",
+            "type": "VV",
+            "position": 1193,
+            "weight": 0.0764818
+          },
+          {
+            "id": 13,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1196,
+            "weight": 0.304215
+          },
+          {
+            "id": 14,
+            "lemma": "귀",
+            "type": "NNG",
+            "position": 1200,
+            "weight": 0.656808
+          },
+          {
+            "id": 15,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 1203,
+            "weight": 0.066324
+          },
+          {
+            "id": 16,
+            "lemma": "특징",
+            "type": "NNG",
+            "position": 1207,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1213,
+            "weight": 0.0177525
+          },
+          {
+            "id": 18,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1213,
+            "weight": 0.36174
+          },
+          {
+            "id": 19,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1222,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "외모",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 1145,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1151,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "납작하",
+            "type": "VA",
+            "scode": "02",
+            "weight": 4.4,
+            "position": 1155,
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1161,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "코",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 1165,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "와",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1168,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "크",
+            "type": "VA",
+            "scode": "01",
+            "weight": 6.6,
+            "position": 1172,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "고",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1175,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "아래",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 8.8,
+            "position": 1179,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1185,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 10,
+            "text": "축",
+            "type": "MAG",
+            "scode": "03",
+            "weight": 8.6,
+            "position": 1189,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 11,
+            "text": "처지",
+            "type": "VV",
+            "scode": "01",
+            "weight": 6.4,
+            "position": 1193,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 12,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1196,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": "귀",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 1200,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1203,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 15,
+            "text": "특징",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1207,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 16,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 1213,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 17,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1213,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 18,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1222,
+            "begin": 19,
+            "end": 19
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "외모는",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "납작한",
+            "type": "",
+            "begin": 2,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "코와",
+            "type": "",
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 3,
+            "text": "크고",
+            "type": "",
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 4,
+            "text": "아래로",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "축",
+            "type": "",
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 6,
+            "text": "처진",
+            "type": "",
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 7,
+            "text": "귀가",
+            "type": "",
+            "begin": 14,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "특징입니다.",
+            "type": "",
+            "begin": 16,
+            "end": 19
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "코",
+            "type": "AM_PART",
+            "begin": 5,
+            "end": 5,
+            "weight": 0.40204,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "귀",
+            "type": "AM_PART",
+            "begin": 14,
+            "end": 14,
+            "weight": 0.260703,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 12,
+        "reserve_str": "",
+        "text": "진단",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "진단",
+            "type": "NNG",
+            "position": 1223,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "진단",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 1223,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "진단",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "진단",
+            "type": "LCP_COUNTRY",
+            "begin": 0,
+            "end": 0,
+            "weight": 1,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 13,
+        "reserve_str": "",
+        "text": " 초음파상에서 양수가 적거나 없을 때, 신장이 관찰되지 않을 때, 방광에 소변이 없을 때에는 신장 이형성증을 의심해 보아야 합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "초음파상",
+            "type": "NNG",
+            "position": 1230,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 1242,
+            "weight": 0.153407
+          },
+          {
+            "id": 2,
+            "lemma": "양수",
+            "type": "NNG",
+            "position": 1249,
+            "weight": 0.204846
+          },
+          {
+            "id": 3,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 1255,
+            "weight": 0.066324
+          },
+          {
+            "id": 4,
+            "lemma": "적",
+            "type": "VA",
+            "position": 1259,
+            "weight": 0.0378686
+          },
+          {
+            "id": 5,
+            "lemma": "거나",
+            "type": "EC",
+            "position": 1262,
+            "weight": 0.314176
+          },
+          {
+            "id": 6,
+            "lemma": "없",
+            "type": "VA",
+            "position": 1269,
+            "weight": 0.0501699
+          },
+          {
+            "id": 7,
+            "lemma": "을",
+            "type": "ETM",
+            "position": 1272,
+            "weight": 0.0306722
+          },
+          {
+            "id": 8,
+            "lemma": "때",
+            "type": "NNG",
+            "position": 1276,
+            "weight": 0.656522
+          },
+          {
+            "id": 9,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1279,
+            "weight": 1
+          },
+          {
+            "id": 10,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 1281,
+            "weight": 0.512049
+          },
+          {
+            "id": 11,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1287,
+            "weight": 0.0360723
+          },
+          {
+            "id": 12,
+            "lemma": "관찰",
+            "type": "NNG",
+            "position": 1291,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1297,
+            "weight": 0.000224177
+          },
+          {
+            "id": 14,
+            "lemma": "지",
+            "type": "EC",
+            "position": 1300,
+            "weight": 0.260723
+          },
+          {
+            "id": 15,
+            "lemma": "않",
+            "type": "VX",
+            "position": 1304,
+            "weight": 0.256301
+          },
+          {
+            "id": 16,
+            "lemma": "을",
+            "type": "ETM",
+            "position": 1307,
+            "weight": 0.0215632
+          },
+          {
+            "id": 17,
+            "lemma": "때",
+            "type": "NNG",
+            "position": 1311,
+            "weight": 0.656522
+          },
+          {
+            "id": 18,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1314,
+            "weight": 1
+          },
+          {
+            "id": 19,
+            "lemma": "방광",
+            "type": "NNG",
+            "position": 1316,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1322,
+            "weight": 0.153364
+          },
+          {
+            "id": 21,
+            "lemma": "소변",
+            "type": "NNG",
+            "position": 1326,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1332,
+            "weight": 0.0360723
+          },
+          {
+            "id": 23,
+            "lemma": "없",
+            "type": "VA",
+            "position": 1336,
+            "weight": 0.249359
+          },
+          {
+            "id": 24,
+            "lemma": "을",
+            "type": "ETM",
+            "position": 1339,
+            "weight": 0.0306722
+          },
+          {
+            "id": 25,
+            "lemma": "때",
+            "type": "NNG",
+            "position": 1343,
+            "weight": 0.656522
+          },
+          {
+            "id": 26,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1346,
+            "weight": 0.153364
+          },
+          {
+            "id": 27,
+            "lemma": "는",
+            "type": "JX",
+            "position": 1349,
+            "weight": 0.0387928
+          },
+          {
+            "id": 28,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 1353,
+            "weight": 0.312972
+          },
+          {
+            "id": 29,
+            "lemma": "이",
+            "type": "NNP",
+            "position": 1360,
+            "weight": 0.0001
+          },
+          {
+            "id": 30,
+            "lemma": "형성증",
+            "type": "NNG",
+            "position": 1363,
+            "weight": 0
+          },
+          {
+            "id": 31,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1372,
+            "weight": 0.129611
+          },
+          {
+            "id": 32,
+            "lemma": "의심",
+            "type": "NNG",
+            "position": 1376,
+            "weight": 0.9
+          },
+          {
+            "id": 33,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1382,
+            "weight": 0.0001
+          },
+          {
+            "id": 34,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1382,
+            "weight": 0.361326
+          },
+          {
+            "id": 35,
+            "lemma": "보",
+            "type": "VX",
+            "position": 1386,
+            "weight": 0.0990326
+          },
+          {
+            "id": 36,
+            "lemma": "아야",
+            "type": "EC",
+            "position": 1389,
+            "weight": 0.264302
+          },
+          {
+            "id": 37,
+            "lemma": "하",
+            "type": "VX",
+            "position": 1396,
+            "weight": 0.0899221
+          },
+          {
+            "id": 38,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1396,
+            "weight": 0.184529
+          },
+          {
+            "id": 39,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1405,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "초음파상",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1230,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1242,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "양수",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1249,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1255,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "적",
+            "type": "VA",
+            "scode": "02",
+            "weight": 6.6,
+            "position": 1259,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "거나",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1262,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "없",
+            "type": "VA",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 1269,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "을",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1272,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 8,
+            "text": "때",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 6.59688,
+            "position": 1276,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 9,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1279,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 10,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 1.95,
+            "position": 1281,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 11,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1287,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 12,
+            "text": "관찰되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1291,
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": "지",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1300,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "않",
+            "type": "VX",
+            "scode": "00",
+            "weight": 0,
+            "position": 1304,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 15,
+            "text": "을",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1307,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 16,
+            "text": "때",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.2,
+            "position": 1311,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 17,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1314,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 18,
+            "text": "방광",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 4.4,
+            "position": 1316,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 19,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1322,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 20,
+            "text": "소변",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 1326,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 21,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1332,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 22,
+            "text": "없",
+            "type": "VA",
+            "scode": "01",
+            "weight": 3.2,
+            "position": 1336,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 23,
+            "text": "을",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1339,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 24,
+            "text": "때",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 9.89687,
+            "position": 1343,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 25,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1346,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 26,
+            "text": "는",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1349,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 27,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "09",
+            "weight": 1.95,
+            "position": 1353,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 28,
+            "text": "이",
+            "type": "NNP",
+            "scode": "13",
+            "weight": 2.56296,
+            "position": 1360,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 29,
+            "text": "형성증",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1363,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 30,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1372,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 31,
+            "text": "의심하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1376,
+            "begin": 32,
+            "end": 33
+          },
+          {
+            "id": 32,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1382,
+            "begin": 34,
+            "end": 34
+          },
+          {
+            "id": 33,
+            "text": "보",
+            "type": "VX",
+            "scode": "01",
+            "weight": 3.7,
+            "position": 1386,
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 34,
+            "text": "아야",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1389,
+            "begin": 36,
+            "end": 36
+          },
+          {
+            "id": 35,
+            "text": "하",
+            "type": "VX",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1396,
+            "begin": 37,
+            "end": 37
+          },
+          {
+            "id": 36,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1396,
+            "begin": 38,
+            "end": 38
+          },
+          {
+            "id": 37,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1405,
+            "begin": 39,
+            "end": 39
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "초음파상에서",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "양수가",
+            "type": "",
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "적거나",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "없을",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "때,",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 5,
+            "text": "신장이",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 6,
+            "text": "관찰되지",
+            "type": "",
+            "begin": 12,
+            "end": 14
+          },
+          {
+            "id": 7,
+            "text": "않을",
+            "type": "",
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 8,
+            "text": "때,",
+            "type": "",
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 9,
+            "text": "방광에",
+            "type": "",
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 10,
+            "text": "소변이",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 11,
+            "text": "없을",
+            "type": "",
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 12,
+            "text": "때에는",
+            "type": "",
+            "begin": 25,
+            "end": 27
+          },
+          {
+            "id": 13,
+            "text": "신장",
+            "type": "",
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 14,
+            "text": "이형성증을",
+            "type": "",
+            "begin": 29,
+            "end": 31
+          },
+          {
+            "id": 15,
+            "text": "의심해",
+            "type": "",
+            "begin": 32,
+            "end": 34
+          },
+          {
+            "id": 16,
+            "text": "보아야",
+            "type": "",
+            "begin": 35,
+            "end": 36
+          },
+          {
+            "id": 17,
+            "text": "합니다.",
+            "type": "",
+            "begin": 37,
+            "end": 39
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "방광",
+            "type": "TM_CELL_TISSUE",
+            "begin": 19,
+            "end": 19,
+            "weight": 0.284818,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "이형성증",
+            "type": "TMM_DISEASE",
+            "begin": 29,
+            "end": 30,
+            "weight": 0.144998,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 14,
+        "reserve_str": "",
+        "text": "치료",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "치료",
+            "type": "NNG",
+            "position": 1406,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "치료",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1406,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "치료",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 15,
+        "reserve_str": "",
+        "text": "신장 이형성증이 한쪽 신장에만 있을 경우, 반대쪽 요로의 기형이 동반된 경우 반복적인 요로 감염으로 신장 기능의 감소하여 만성 신부전으로 될 수 있기 때문에 반대쪽 신장 및 요로의 기형 여부를 확인하는 것이 중요합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 1412,
+            "weight": 0.421842
+          },
+          {
+            "id": 1,
+            "lemma": "이",
+            "type": "NNP",
+            "position": 1419,
+            "weight": 0.0001
+          },
+          {
+            "id": 2,
+            "lemma": "형성증",
+            "type": "NNG",
+            "position": 1422,
+            "weight": 0
+          },
+          {
+            "id": 3,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1431,
+            "weight": 0.0360723
+          },
+          {
+            "id": 4,
+            "lemma": "한쪽",
+            "type": "NNG",
+            "position": 1435,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 1442,
+            "weight": 0.178042
+          },
+          {
+            "id": 6,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1448,
+            "weight": 0.153364
+          },
+          {
+            "id": 7,
+            "lemma": "만",
+            "type": "JX",
+            "position": 1451,
+            "weight": 0.0704508
+          },
+          {
+            "id": 8,
+            "lemma": "있",
+            "type": "VA",
+            "position": 1455,
+            "weight": 0.0558599
+          },
+          {
+            "id": 9,
+            "lemma": "을",
+            "type": "ETM",
+            "position": 1458,
+            "weight": 0.0306722
+          },
+          {
+            "id": 10,
+            "lemma": "경우",
+            "type": "NNG",
+            "position": 1462,
+            "weight": 0.658545
+          },
+          {
+            "id": 11,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1468,
+            "weight": 1
+          },
+          {
+            "id": 12,
+            "lemma": "반대",
+            "type": "NNG",
+            "position": 1470,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "쪽",
+            "type": "NNG",
+            "position": 1476,
+            "weight": 0.00899105
+          },
+          {
+            "id": 14,
+            "lemma": "요로",
+            "type": "NNG",
+            "position": 1480,
+            "weight": 0.181285
+          },
+          {
+            "id": 15,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1486,
+            "weight": 0.0694213
+          },
+          {
+            "id": 16,
+            "lemma": "기형",
+            "type": "NNG",
+            "position": 1490,
+            "weight": 0.866757
+          },
+          {
+            "id": 17,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1496,
+            "weight": 0.0360723
+          },
+          {
+            "id": 18,
+            "lemma": "동반",
+            "type": "NNG",
+            "position": 1500,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1506,
+            "weight": 0.000224177
+          },
+          {
+            "id": 20,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1506,
+            "weight": 0.392321
+          },
+          {
+            "id": 21,
+            "lemma": "경우",
+            "type": "NNG",
+            "position": 1510,
+            "weight": 0.658545
+          },
+          {
+            "id": 22,
+            "lemma": "반복",
+            "type": "NNG",
+            "position": 1517,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "적",
+            "type": "XSN",
+            "position": 1523,
+            "weight": 0.0168756
+          },
+          {
+            "id": 24,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1526,
+            "weight": 0.0165001
+          },
+          {
+            "id": 25,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1526,
+            "weight": 0.220712
+          },
+          {
+            "id": 26,
+            "lemma": "요로",
+            "type": "NNG",
+            "position": 1530,
+            "weight": 0.646171
+          },
+          {
+            "id": 27,
+            "lemma": "감염",
+            "type": "NNG",
+            "position": 1537,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1543,
+            "weight": 0.153406
+          },
+          {
+            "id": 29,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 1550,
+            "weight": 0.200395
+          },
+          {
+            "id": 30,
+            "lemma": "기능",
+            "type": "NNG",
+            "position": 1557,
+            "weight": 0.184796
+          },
+          {
+            "id": 31,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1563,
+            "weight": 0.0694213
+          },
+          {
+            "id": 32,
+            "lemma": "감소",
+            "type": "NNG",
+            "position": 1567,
+            "weight": 0.9
+          },
+          {
+            "id": 33,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1573,
+            "weight": 0.0001
+          },
+          {
+            "id": 34,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1576,
+            "weight": 0.361326
+          },
+          {
+            "id": 35,
+            "lemma": "만성",
+            "type": "NNG",
+            "position": 1580,
+            "weight": 0.9
+          },
+          {
+            "id": 36,
+            "lemma": "신",
+            "type": "NNG",
+            "position": 1587,
+            "weight": 0.109223
+          },
+          {
+            "id": 37,
+            "lemma": "부전",
+            "type": "NNG",
+            "position": 1590,
+            "weight": 0.168336
+          },
+          {
+            "id": 38,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1596,
+            "weight": 0.153406
+          },
+          {
+            "id": 39,
+            "lemma": "되",
+            "type": "VV",
+            "position": 1603,
+            "weight": 0.412662
+          },
+          {
+            "id": 40,
+            "lemma": "ㄹ",
+            "type": "ETM",
+            "position": 1603,
+            "weight": 0.300746
+          },
+          {
+            "id": 41,
+            "lemma": "수",
+            "type": "NNB",
+            "position": 1607,
+            "weight": 0.215617
+          },
+          {
+            "id": 42,
+            "lemma": "있",
+            "type": "VA",
+            "position": 1611,
+            "weight": 0.0518488
+          },
+          {
+            "id": 43,
+            "lemma": "기",
+            "type": "ETN",
+            "position": 1614,
+            "weight": 0.0217586
+          },
+          {
+            "id": 44,
+            "lemma": "때문",
+            "type": "NNB",
+            "position": 1618,
+            "weight": 0.9
+          },
+          {
+            "id": 45,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1624,
+            "weight": 0.135559
+          },
+          {
+            "id": 46,
+            "lemma": "반대",
+            "type": "NNG",
+            "position": 1628,
+            "weight": 0.9
+          },
+          {
+            "id": 47,
+            "lemma": "쪽",
+            "type": "NNG",
+            "position": 1634,
+            "weight": 0.00899105
+          },
+          {
+            "id": 48,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 1638,
+            "weight": 0.178042
+          },
+          {
+            "id": 49,
+            "lemma": "및",
+            "type": "MAJ",
+            "position": 1645,
+            "weight": 0.00215414
+          },
+          {
+            "id": 50,
+            "lemma": "요로",
+            "type": "NNG",
+            "position": 1649,
+            "weight": 0.405791
+          },
+          {
+            "id": 51,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1655,
+            "weight": 0.0694213
+          },
+          {
+            "id": 52,
+            "lemma": "기형",
+            "type": "NNG",
+            "position": 1659,
+            "weight": 0.866757
+          },
+          {
+            "id": 53,
+            "lemma": "여부",
+            "type": "NNG",
+            "position": 1666,
+            "weight": 0.9
+          },
+          {
+            "id": 54,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 1672,
+            "weight": 0.137686
+          },
+          {
+            "id": 55,
+            "lemma": "확인",
+            "type": "NNG",
+            "position": 1676,
+            "weight": 0.9
+          },
+          {
+            "id": 56,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1682,
+            "weight": 0.0001
+          },
+          {
+            "id": 57,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1685,
+            "weight": 0.238503
+          },
+          {
+            "id": 58,
+            "lemma": "것",
+            "type": "NNB",
+            "position": 1689,
+            "weight": 0.228788
+          },
+          {
+            "id": 59,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1692,
+            "weight": 0.0376169
+          },
+          {
+            "id": 60,
+            "lemma": "중요",
+            "type": "NNG",
+            "position": 1696,
+            "weight": 0.9
+          },
+          {
+            "id": 61,
+            "lemma": "하",
+            "type": "XSA",
+            "position": 1702,
+            "weight": 0.0001
+          },
+          {
+            "id": 62,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1702,
+            "weight": 0.0509021
+          },
+          {
+            "id": 63,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1711,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 1.5,
+            "position": 1412,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "이",
+            "type": "NNP",
+            "scode": "13",
+            "weight": 1,
+            "position": 1419,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "형성증",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1422,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1431,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "한쪽",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1435,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 5.82857,
+            "position": 1442,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1448,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "만",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1451,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 8,
+            "text": "있",
+            "type": "VA",
+            "scode": "01",
+            "weight": 9.8,
+            "position": 1455,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 9,
+            "text": "을",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1458,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 10,
+            "text": "경우",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 8.6,
+            "position": 1462,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 11,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1468,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 12,
+            "text": "반대쪽",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1470,
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": "요로",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2,
+            "position": 1480,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 1486,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 15,
+            "text": "기형",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 2,
+            "position": 1490,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 16,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1496,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 17,
+            "text": "동반되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1500,
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 18,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1506,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 19,
+            "text": "경우",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 2,
+            "position": 1510,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 20,
+            "text": "반복",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 1517,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 21,
+            "text": "적",
+            "type": "XSN",
+            "scode": "18",
+            "weight": 4.2,
+            "position": 1523,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 22,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 1526,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 23,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1526,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 24,
+            "text": "요로",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.2,
+            "position": 1530,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 25,
+            "text": "감염",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1537,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 26,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1543,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 27,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 3.03339,
+            "position": 1550,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 28,
+            "text": "기능",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 4.4,
+            "position": 1557,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 29,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 1563,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 30,
+            "text": "감소하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1567,
+            "begin": 32,
+            "end": 33
+          },
+          {
+            "id": 31,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1576,
+            "begin": 34,
+            "end": 34
+          },
+          {
+            "id": 32,
+            "text": "만성",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 5.4,
+            "position": 1580,
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 33,
+            "text": "신부전",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1587,
+            "begin": 36,
+            "end": 37
+          },
+          {
+            "id": 34,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1596,
+            "begin": 38,
+            "end": 38
+          },
+          {
+            "id": 35,
+            "text": "되",
+            "type": "VV",
+            "scode": "01",
+            "weight": 8.6,
+            "position": 1603,
+            "begin": 39,
+            "end": 39
+          },
+          {
+            "id": 36,
+            "text": "ㄹ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1603,
+            "begin": 40,
+            "end": 40
+          },
+          {
+            "id": 37,
+            "text": "수",
+            "type": "NNB",
+            "scode": "02",
+            "weight": 6.59923,
+            "position": 1607,
+            "begin": 41,
+            "end": 41
+          },
+          {
+            "id": 38,
+            "text": "있",
+            "type": "VA",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 1611,
+            "begin": 42,
+            "end": 42
+          },
+          {
+            "id": 39,
+            "text": "기",
+            "type": "ETN",
+            "scode": "00",
+            "weight": 1,
+            "position": 1614,
+            "begin": 43,
+            "end": 43
+          },
+          {
+            "id": 40,
+            "text": "때문",
+            "type": "NNB",
+            "scode": "00",
+            "weight": 0,
+            "position": 1618,
+            "begin": 44,
+            "end": 44
+          },
+          {
+            "id": 41,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1624,
+            "begin": 45,
+            "end": 45
+          },
+          {
+            "id": 42,
+            "text": "반대쪽",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1628,
+            "begin": 46,
+            "end": 47
+          },
+          {
+            "id": 43,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 2.2,
+            "position": 1638,
+            "begin": 48,
+            "end": 48
+          },
+          {
+            "id": 44,
+            "text": "및",
+            "type": "MAJ",
+            "scode": "00",
+            "weight": 0,
+            "position": 1645,
+            "begin": 49,
+            "end": 49
+          },
+          {
+            "id": 45,
+            "text": "요로",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.2,
+            "position": 1649,
+            "begin": 50,
+            "end": 50
+          },
+          {
+            "id": 46,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 1655,
+            "begin": 51,
+            "end": 51
+          },
+          {
+            "id": 47,
+            "text": "기형",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 1,
+            "position": 1659,
+            "begin": 52,
+            "end": 52
+          },
+          {
+            "id": 48,
+            "text": "여부",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1666,
+            "begin": 53,
+            "end": 53
+          },
+          {
+            "id": 49,
+            "text": "를",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1672,
+            "begin": 54,
+            "end": 54
+          },
+          {
+            "id": 50,
+            "text": "확인하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1676,
+            "begin": 55,
+            "end": 56
+          },
+          {
+            "id": 51,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1685,
+            "begin": 57,
+            "end": 57
+          },
+          {
+            "id": 52,
+            "text": "것",
+            "type": "NNB",
+            "scode": "01",
+            "weight": 6.6,
+            "position": 1689,
+            "begin": 58,
+            "end": 58
+          },
+          {
+            "id": 53,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1692,
+            "begin": 59,
+            "end": 59
+          },
+          {
+            "id": 54,
+            "text": "중요하",
+            "type": "VA",
+            "scode": "02",
+            "weight": 2.2,
+            "position": 1696,
+            "begin": 60,
+            "end": 61
+          },
+          {
+            "id": 55,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1702,
+            "begin": 62,
+            "end": 62
+          },
+          {
+            "id": 56,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1711,
+            "begin": 63,
+            "end": 63
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "이형성증이",
+            "type": "",
+            "begin": 1,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "한쪽",
+            "type": "",
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "신장에만",
+            "type": "",
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "있을",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 5,
+            "text": "경우,",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 6,
+            "text": "반대쪽",
+            "type": "",
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 7,
+            "text": "요로의",
+            "type": "",
+            "begin": 14,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "기형이",
+            "type": "",
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 9,
+            "text": "동반된",
+            "type": "",
+            "begin": 18,
+            "end": 20
+          },
+          {
+            "id": 10,
+            "text": "경우",
+            "type": "",
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 11,
+            "text": "반복적인",
+            "type": "",
+            "begin": 22,
+            "end": 25
+          },
+          {
+            "id": 12,
+            "text": "요로",
+            "type": "",
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 13,
+            "text": "감염으로",
+            "type": "",
+            "begin": 27,
+            "end": 28
+          },
+          {
+            "id": 14,
+            "text": "신장",
+            "type": "",
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 15,
+            "text": "기능의",
+            "type": "",
+            "begin": 30,
+            "end": 31
+          },
+          {
+            "id": 16,
+            "text": "감소하여",
+            "type": "",
+            "begin": 32,
+            "end": 34
+          },
+          {
+            "id": 17,
+            "text": "만성",
+            "type": "",
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 18,
+            "text": "신부전으로",
+            "type": "",
+            "begin": 36,
+            "end": 38
+          },
+          {
+            "id": 19,
+            "text": "될",
+            "type": "",
+            "begin": 39,
+            "end": 40
+          },
+          {
+            "id": 20,
+            "text": "수",
+            "type": "",
+            "begin": 41,
+            "end": 41
+          },
+          {
+            "id": 21,
+            "text": "있기",
+            "type": "",
+            "begin": 42,
+            "end": 43
+          },
+          {
+            "id": 22,
+            "text": "때문에",
+            "type": "",
+            "begin": 44,
+            "end": 45
+          },
+          {
+            "id": 23,
+            "text": "반대쪽",
+            "type": "",
+            "begin": 46,
+            "end": 47
+          },
+          {
+            "id": 24,
+            "text": "신장",
+            "type": "",
+            "begin": 48,
+            "end": 48
+          },
+          {
+            "id": 25,
+            "text": "및",
+            "type": "",
+            "begin": 49,
+            "end": 49
+          },
+          {
+            "id": 26,
+            "text": "요로의",
+            "type": "",
+            "begin": 50,
+            "end": 51
+          },
+          {
+            "id": 27,
+            "text": "기형",
+            "type": "",
+            "begin": 52,
+            "end": 52
+          },
+          {
+            "id": 28,
+            "text": "여부를",
+            "type": "",
+            "begin": 53,
+            "end": 54
+          },
+          {
+            "id": 29,
+            "text": "확인하는",
+            "type": "",
+            "begin": 55,
+            "end": 57
+          },
+          {
+            "id": 30,
+            "text": "것이",
+            "type": "",
+            "begin": 58,
+            "end": 59
+          },
+          {
+            "id": 31,
+            "text": "중요합니다.",
+            "type": "",
+            "begin": 60,
+            "end": 63
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "이",
+            "type": "PS_NAME",
+            "begin": 1,
+            "end": 1,
+            "weight": 0.289606,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "신장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 5,
+            "end": 5,
+            "weight": 0.285185,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "요로",
+            "type": "TMM_DISEASE",
+            "begin": 26,
+            "end": 26,
+            "weight": 0.296194,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "신장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 29,
+            "end": 29,
+            "weight": 0.366904,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "만성 신부전",
+            "type": "TMM_DISEASE",
+            "begin": 35,
+            "end": 37,
+            "weight": 0.745247,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "신장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 48,
+            "end": 48,
+            "weight": 0.379527,
+            "common_noun": 0
+          },
+          {
+            "id": 6,
+            "text": "요로",
+            "type": "TM_CELL_TISSUE",
+            "begin": 50,
+            "end": 50,
+            "weight": 0.207764,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 16,
+        "reserve_str": "",
+        "text": " 정기적인 검사를 시행하여 신장 기능의 악화 여부를 확인해야 합니다. ",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "정기",
+            "type": "NNG",
+            "position": 1713,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "적",
+            "type": "XSN",
+            "position": 1719,
+            "weight": 0.0168756
+          },
+          {
+            "id": 2,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1722,
+            "weight": 0.0165001
+          },
+          {
+            "id": 3,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1722,
+            "weight": 0.220712
+          },
+          {
+            "id": 4,
+            "lemma": "검사",
+            "type": "NNG",
+            "position": 1726,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 1732,
+            "weight": 0.137686
+          },
+          {
+            "id": 6,
+            "lemma": "시행",
+            "type": "NNG",
+            "position": 1736,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1742,
+            "weight": 0.0001
+          },
+          {
+            "id": 8,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1745,
+            "weight": 0.361326
+          },
+          {
+            "id": 9,
+            "lemma": "신장",
+            "type": "NNG",
+            "position": 1749,
+            "weight": 0.211354
+          },
+          {
+            "id": 10,
+            "lemma": "기능",
+            "type": "NNG",
+            "position": 1756,
+            "weight": 0.184796
+          },
+          {
+            "id": 11,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1762,
+            "weight": 0.0694213
+          },
+          {
+            "id": 12,
+            "lemma": "악화",
+            "type": "NNG",
+            "position": 1766,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "여부",
+            "type": "NNG",
+            "position": 1773,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "를",
+            "type": "JKO",
+            "position": 1779,
+            "weight": 0.137686
+          },
+          {
+            "id": 15,
+            "lemma": "확인",
+            "type": "NNG",
+            "position": 1783,
+            "weight": 0.9
+          },
+          {
+            "id": 16,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1789,
+            "weight": 0.0001
+          },
+          {
+            "id": 17,
+            "lemma": "어야",
+            "type": "EC",
+            "position": 1789,
+            "weight": 0.371703
+          },
+          {
+            "id": 18,
+            "lemma": "하",
+            "type": "VX",
+            "position": 1796,
+            "weight": 0.0899221
+          },
+          {
+            "id": 19,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1796,
+            "weight": 0.184529
+          },
+          {
+            "id": 20,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1805,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "정기적",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1713,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 1722,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1722,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "검사",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 5.24615,
+            "position": 1726,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "를",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1732,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "시행하",
+            "type": "VV",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1736,
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 6,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1745,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 7,
+            "text": "신장",
+            "type": "NNG",
+            "scode": "14",
+            "weight": 3.03339,
+            "position": 1749,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "기능",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 4.2,
+            "position": 1756,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 1762,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "악화",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2,
+            "position": 1766,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "여부",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.2,
+            "position": 1773,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "를",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1779,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "확인하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1783,
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 14,
+            "text": "어야",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1789,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 15,
+            "text": "하",
+            "type": "VX",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 1796,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 16,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1796,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1805,
+            "begin": 20,
+            "end": 20
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "정기적인",
+            "type": "",
+            "begin": 0,
+            "end": 3
+          },
+          {
+            "id": 1,
+            "text": "검사를",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "시행하여",
+            "type": "",
+            "begin": 6,
+            "end": 8
+          },
+          {
+            "id": 3,
+            "text": "신장",
+            "type": "",
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 4,
+            "text": "기능의",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 5,
+            "text": "악화",
+            "type": "",
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 6,
+            "text": "여부를",
+            "type": "",
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 7,
+            "text": "확인해야",
+            "type": "",
+            "begin": 15,
+            "end": 17
+          },
+          {
+            "id": 8,
+            "text": "합니다.",
+            "type": "",
+            "begin": 18,
+            "end": 20
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "신장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 9,
+            "end": 9,
+            "weight": 0.278637,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      }
+    ],
+    "entity": []
+  }
+}

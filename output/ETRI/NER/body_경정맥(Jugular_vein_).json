@@ -1,0 +1,8367 @@
+{
+  "result": 0,
+  "return_object": {
+    "doc_id": "",
+    "DCT": "",
+    "category": "",
+    "category_weight": 0,
+    "title": {
+      "text": "",
+      "NE": ""
+    },
+    "metaInfo": {},
+    "paragraphInfo": [],
+    "sentence": [
+      {
+        "id": 0,
+        "reserve_str": "",
+        "text": "신체명: 경정맥(Jugular vein )",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "신체명",
+            "type": "NNG",
+            "position": 0,
+            "weight": 0
+          },
+          {
+            "id": 1,
+            "lemma": ":",
+            "type": "SP",
+            "position": 9,
+            "weight": 1
+          },
+          {
+            "id": 2,
+            "lemma": "경",
+            "type": "NNG",
+            "position": 11,
+            "weight": 0.127997
+          },
+          {
+            "id": 3,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 14,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "(",
+            "type": "SS",
+            "position": 20,
+            "weight": 1
+          },
+          {
+            "id": 5,
+            "lemma": "Jugular",
+            "type": "SL",
+            "position": 21,
+            "weight": 1
+          },
+          {
+            "id": 6,
+            "lemma": "vein",
+            "type": "SL",
+            "position": 29,
+            "weight": 1
+          },
+          {
+            "id": 7,
+            "lemma": ")",
+            "type": "SS",
+            "position": 34,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "신체명",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 0,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": ":",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 9,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "경정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 11,
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "(",
+            "type": "SS",
+            "scode": "00",
+            "weight": 1,
+            "position": 20,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "Jugular",
+            "type": "SL",
+            "scode": "00",
+            "weight": 1,
+            "position": 21,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "vein",
+            "type": "SL",
+            "scode": "00",
+            "weight": 1,
+            "position": 29,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": ")",
+            "type": "SS",
+            "scode": "00",
+            "weight": 1,
+            "position": 34,
+            "begin": 7,
+            "end": 7
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "신체명:",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "경정맥(Jugular",
+            "type": "",
+            "begin": 2,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "vein",
+            "type": "",
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 3,
+            "text": ")",
+            "type": "",
+            "begin": 7,
+            "end": 7
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "경정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 2,
+            "end": 3,
+            "weight": 0.491361,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 1,
+        "reserve_str": "",
+        "text": "정의",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "정의",
+            "type": "NNG",
+            "position": 35,
+            "weight": 0.43414
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 1,
+            "position": 35,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "정의",
+            "type": "LC_OTHERS",
+            "begin": 0,
+            "end": 0,
+            "weight": 1,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 2,
+        "reserve_str": "",
+        "text": "목정맥은 가슴 부위의 상대정맥과 이어져, 얼굴과 머리의 정맥혈을 심장으로 내려보내는 혈관입니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 41,
+            "weight": 0.436002
+          },
+          {
+            "id": 1,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 44,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 50,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "가슴",
+            "type": "NNG",
+            "position": 54,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "부위",
+            "type": "NNG",
+            "position": 61,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 67,
+            "weight": 0.0694213
+          },
+          {
+            "id": 6,
+            "lemma": "상대",
+            "type": "NNG",
+            "position": 71,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 77,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "과",
+            "type": "JC",
+            "position": 83,
+            "weight": 0.017569
+          },
+          {
+            "id": 9,
+            "lemma": "이어지",
+            "type": "VV",
+            "position": 87,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "어",
+            "type": "EC",
+            "position": 93,
+            "weight": 0.41831
+          },
+          {
+            "id": 11,
+            "lemma": ",",
+            "type": "SP",
+            "position": 96,
+            "weight": 1
+          },
+          {
+            "id": 12,
+            "lemma": "얼굴",
+            "type": "NNG",
+            "position": 98,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "과",
+            "type": "JC",
+            "position": 104,
+            "weight": 0.017569
+          },
+          {
+            "id": 14,
+            "lemma": "머리",
+            "type": "NNG",
+            "position": 108,
+            "weight": 0.802757
+          },
+          {
+            "id": 15,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 114,
+            "weight": 0.0694213
+          },
+          {
+            "id": 16,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 118,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "혈",
+            "type": "NNG",
+            "position": 124,
+            "weight": 0.184155
+          },
+          {
+            "id": 18,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 127,
+            "weight": 0.129611
+          },
+          {
+            "id": 19,
+            "lemma": "심장",
+            "type": "NNG",
+            "position": 131,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 137,
+            "weight": 0.153406
+          },
+          {
+            "id": 21,
+            "lemma": "내리",
+            "type": "VV",
+            "position": 144,
+            "weight": 0.436757
+          },
+          {
+            "id": 22,
+            "lemma": "어",
+            "type": "EC",
+            "position": 147,
+            "weight": 0.41831
+          },
+          {
+            "id": 23,
+            "lemma": "보내",
+            "type": "VV",
+            "position": 150,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 156,
+            "weight": 0.184941
+          },
+          {
+            "id": 25,
+            "lemma": "혈관",
+            "type": "NNG",
+            "position": 160,
+            "weight": 0.9
+          },
+          {
+            "id": 26,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 166,
+            "weight": 0.0177525
+          },
+          {
+            "id": 27,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 166,
+            "weight": 0.36174
+          },
+          {
+            "id": 28,
+            "lemma": ".",
+            "type": "SF",
+            "position": 175,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 41,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 50,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "가슴",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 54,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "부위",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 6.4,
+            "position": 61,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 67,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "상대정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 71,
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 6,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 83,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 7,
+            "text": "이어지",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 87,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 93,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 96,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "얼굴",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 7.6,
+            "position": 98,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 104,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "머리",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 108,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 114,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "정맥혈",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 118,
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 15,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 127,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 16,
+            "text": "심장",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 7.6,
+            "position": 131,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 137,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "내리",
+            "type": "VV",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 144,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 19,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 147,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 20,
+            "text": "보내",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 150,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 21,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 156,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 22,
+            "text": "혈관",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 160,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 23,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 166,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 24,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 166,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 25,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 175,
+            "begin": 28,
+            "end": 28
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "목정맥은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "가슴",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "부위의",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "상대정맥과",
+            "type": "",
+            "begin": 6,
+            "end": 8
+          },
+          {
+            "id": 4,
+            "text": "이어져,",
+            "type": "",
+            "begin": 9,
+            "end": 11
+          },
+          {
+            "id": 5,
+            "text": "얼굴과",
+            "type": "",
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 6,
+            "text": "머리의",
+            "type": "",
+            "begin": 14,
+            "end": 15
+          },
+          {
+            "id": 7,
+            "text": "정맥혈을",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          },
+          {
+            "id": 8,
+            "text": "심장으로",
+            "type": "",
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 9,
+            "text": "내려보내는",
+            "type": "",
+            "begin": 21,
+            "end": 24
+          },
+          {
+            "id": 10,
+            "text": "혈관입니다.",
+            "type": "",
+            "begin": 25,
+            "end": 28
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 1,
+            "weight": 0.168867,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "가슴",
+            "type": "AM_PART",
+            "begin": 3,
+            "end": 3,
+            "weight": 0.434696,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "상대정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 6,
+            "end": 7,
+            "weight": 0.289054,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "얼굴",
+            "type": "AM_PART",
+            "begin": 12,
+            "end": 12,
+            "weight": 0.773994,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "머리",
+            "type": "AM_PART",
+            "begin": 14,
+            "end": 14,
+            "weight": 0.59119,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "심장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 19,
+            "end": 19,
+            "weight": 0.419987,
+            "common_noun": 0
+          },
+          {
+            "id": 6,
+            "text": "혈관",
+            "type": "TM_CELL_TISSUE",
+            "begin": 25,
+            "end": 25,
+            "weight": 0.422302,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 3,
+        "reserve_str": "",
+        "text": " 목정맥은 머리 부분에서 나오는 산소가 적은 혈액을 심장으로 흘려보냅니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 177,
+            "weight": 0.436002
+          },
+          {
+            "id": 1,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 180,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 186,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "머리",
+            "type": "NNG",
+            "position": 190,
+            "weight": 0.324792
+          },
+          {
+            "id": 4,
+            "lemma": "부분",
+            "type": "NNG",
+            "position": 197,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 203,
+            "weight": 0.153407
+          },
+          {
+            "id": 6,
+            "lemma": "나오",
+            "type": "VV",
+            "position": 210,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 216,
+            "weight": 0.184941
+          },
+          {
+            "id": 8,
+            "lemma": "산소",
+            "type": "NNG",
+            "position": 220,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 226,
+            "weight": 0.066324
+          },
+          {
+            "id": 10,
+            "lemma": "적",
+            "type": "VA",
+            "position": 230,
+            "weight": 0.0378686
+          },
+          {
+            "id": 11,
+            "lemma": "은",
+            "type": "ETM",
+            "position": 233,
+            "weight": 0.155123
+          },
+          {
+            "id": 12,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 237,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 243,
+            "weight": 0.129611
+          },
+          {
+            "id": 14,
+            "lemma": "심장",
+            "type": "NNG",
+            "position": 247,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 253,
+            "weight": 0.153406
+          },
+          {
+            "id": 16,
+            "lemma": "흘려보내",
+            "type": "VV",
+            "position": 260,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 269,
+            "weight": 0.0793776
+          },
+          {
+            "id": 18,
+            "lemma": ".",
+            "type": "SF",
+            "position": 278,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 177,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 186,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "머리",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 8.6,
+            "position": 190,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "부분",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 11,
+            "position": 197,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 203,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "나오",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 210,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 216,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "산소",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 8.8,
+            "position": 220,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 226,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "적",
+            "type": "VA",
+            "scode": "02",
+            "weight": 7.6,
+            "position": 230,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 10,
+            "text": "은",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 233,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 11,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 237,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 12,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 243,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": "심장",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 5.4,
+            "position": 247,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 253,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 15,
+            "text": "흘려보내",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 260,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 16,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 269,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 17,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 278,
+            "begin": 18,
+            "end": 18
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "목정맥은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "머리",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "부분에서",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "나오는",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "산소가",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 5,
+            "text": "적은",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 6,
+            "text": "혈액을",
+            "type": "",
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 7,
+            "text": "심장으로",
+            "type": "",
+            "begin": 14,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "흘려보냅니다.",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 1,
+            "weight": 0.154872,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "머리",
+            "type": "AM_PART",
+            "begin": 3,
+            "end": 3,
+            "weight": 0.509371,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "산소",
+            "type": "MT_ELEMENT",
+            "begin": 8,
+            "end": 8,
+            "weight": 1,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "심장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 14,
+            "end": 14,
+            "weight": 0.499127,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 4,
+        "reserve_str": "",
+        "text": "위치",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "위치",
+            "type": "NNG",
+            "position": 279,
+            "weight": 0.437565
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "위치",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 279,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "위치",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 5,
+        "reserve_str": "",
+        "text": "목의 양측에 존재하며, 피부에 가까운 표층부과 심층부에 각각 위치합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 285,
+            "weight": 0.436002
+          },
+          {
+            "id": 1,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 288,
+            "weight": 0.0694213
+          },
+          {
+            "id": 2,
+            "lemma": "양측",
+            "type": "NNG",
+            "position": 292,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 298,
+            "weight": 0.153364
+          },
+          {
+            "id": 4,
+            "lemma": "존재",
+            "type": "NNG",
+            "position": 302,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 308,
+            "weight": 0.0001
+          },
+          {
+            "id": 6,
+            "lemma": "며",
+            "type": "EC",
+            "position": 311,
+            "weight": 0.371165
+          },
+          {
+            "id": 7,
+            "lemma": ",",
+            "type": "SP",
+            "position": 314,
+            "weight": 1
+          },
+          {
+            "id": 8,
+            "lemma": "피부",
+            "type": "NNG",
+            "position": 316,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 322,
+            "weight": 0.153364
+          },
+          {
+            "id": 10,
+            "lemma": "가깝",
+            "type": "VA",
+            "position": 326,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 332,
+            "weight": 0.430446
+          },
+          {
+            "id": 12,
+            "lemma": "표층부",
+            "type": "NNG",
+            "position": 336,
+            "weight": 0.05
+          },
+          {
+            "id": 13,
+            "lemma": "과",
+            "type": "JC",
+            "position": 345,
+            "weight": 0.017569
+          },
+          {
+            "id": 14,
+            "lemma": "심층",
+            "type": "NNG",
+            "position": 349,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "부",
+            "type": "XSN",
+            "position": 355,
+            "weight": 0.0112289
+          },
+          {
+            "id": 16,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 358,
+            "weight": 0.121683
+          },
+          {
+            "id": 17,
+            "lemma": "각각",
+            "type": "MAG",
+            "position": 362,
+            "weight": 0.0478324
+          },
+          {
+            "id": 18,
+            "lemma": "위치",
+            "type": "NNG",
+            "position": 369,
+            "weight": 0.261268
+          },
+          {
+            "id": 19,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 375,
+            "weight": 0.0001
+          },
+          {
+            "id": 20,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 375,
+            "weight": 0.0449374
+          },
+          {
+            "id": 21,
+            "lemma": ".",
+            "type": "SF",
+            "position": 384,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "목",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 285,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 288,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "양측",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 292,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 298,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "존재하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 302,
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 311,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 314,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "피부",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 316,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 322,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "가깝",
+            "type": "VA",
+            "scode": "00",
+            "weight": 0,
+            "position": 326,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 10,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 332,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 11,
+            "text": "표층부",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 336,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 12,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 345,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 13,
+            "text": "심층부",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 349,
+            "begin": 14,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 358,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 15,
+            "text": "각각",
+            "type": "MAG",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 362,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 16,
+            "text": "위치하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 369,
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 375,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 384,
+            "begin": 21,
+            "end": 21
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "목의",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "양측에",
+            "type": "",
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "존재하며,",
+            "type": "",
+            "begin": 4,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "피부에",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 4,
+            "text": "가까운",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 5,
+            "text": "표층부과",
+            "type": "",
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 6,
+            "text": "심층부에",
+            "type": "",
+            "begin": 14,
+            "end": 16
+          },
+          {
+            "id": 7,
+            "text": "각각",
+            "type": "",
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 8,
+            "text": "위치합니다.",
+            "type": "",
+            "begin": 18,
+            "end": 21
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "목",
+            "type": "AM_PART",
+            "begin": 0,
+            "end": 0,
+            "weight": 0.341092,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "피부",
+            "type": "TM_CELL_TISSUE",
+            "begin": 8,
+            "end": 8,
+            "weight": 0.32732,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 6,
+        "reserve_str": "",
+        "text": "구조",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "구조",
+            "type": "NNG",
+            "position": 385,
+            "weight": 0.9
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "구조",
+            "type": "NNG",
+            "scode": "08",
+            "weight": 1,
+            "position": 385,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "구조",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 7,
+        "reserve_str": "",
+        "text": "목정맥은 목의 앞면으로 혈액이 유입되는 정맥 한 쌍을 말하며, 목의 외측면을 타고 내려가 쇄골 바로 뒤에 위치한 쇄골하정맥과 연결됩니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 391,
+            "weight": 0.436002
+          },
+          {
+            "id": 1,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 394,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 400,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 404,
+            "weight": 0.323478
+          },
+          {
+            "id": 4,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 407,
+            "weight": 0.0694213
+          },
+          {
+            "id": 5,
+            "lemma": "앞면",
+            "type": "NNG",
+            "position": 411,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 417,
+            "weight": 0.153406
+          },
+          {
+            "id": 7,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 424,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 430,
+            "weight": 0.0360723
+          },
+          {
+            "id": 9,
+            "lemma": "유입",
+            "type": "NNG",
+            "position": 434,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 440,
+            "weight": 0.000224177
+          },
+          {
+            "id": 11,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 443,
+            "weight": 0.238503
+          },
+          {
+            "id": 12,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 447,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "한",
+            "type": "MM",
+            "position": 454,
+            "weight": 0.00309921
+          },
+          {
+            "id": 14,
+            "lemma": "쌍",
+            "type": "NNG",
+            "position": 458,
+            "weight": 0.735163
+          },
+          {
+            "id": 15,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 461,
+            "weight": 0.129611
+          },
+          {
+            "id": 16,
+            "lemma": "말",
+            "type": "NNG",
+            "position": 465,
+            "weight": 0.0814073
+          },
+          {
+            "id": 17,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 468,
+            "weight": 0.0001
+          },
+          {
+            "id": 18,
+            "lemma": "며",
+            "type": "EC",
+            "position": 471,
+            "weight": 0.371165
+          },
+          {
+            "id": 19,
+            "lemma": ",",
+            "type": "SP",
+            "position": 474,
+            "weight": 1
+          },
+          {
+            "id": 20,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 476,
+            "weight": 0.529237
+          },
+          {
+            "id": 21,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 479,
+            "weight": 0.0694213
+          },
+          {
+            "id": 22,
+            "lemma": "외측면",
+            "type": "NNG",
+            "position": 483,
+            "weight": 0.1
+          },
+          {
+            "id": 23,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 492,
+            "weight": 0.129611
+          },
+          {
+            "id": 24,
+            "lemma": "타",
+            "type": "VV",
+            "position": 496,
+            "weight": 0.743915
+          },
+          {
+            "id": 25,
+            "lemma": "고",
+            "type": "EC",
+            "position": 499,
+            "weight": 0.416679
+          },
+          {
+            "id": 26,
+            "lemma": "내려가",
+            "type": "VV",
+            "position": 503,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "아",
+            "type": "EC",
+            "position": 509,
+            "weight": 0.398809
+          },
+          {
+            "id": 28,
+            "lemma": "쇄골",
+            "type": "NNG",
+            "position": 513,
+            "weight": 0.9
+          },
+          {
+            "id": 29,
+            "lemma": "바로",
+            "type": "MAG",
+            "position": 520,
+            "weight": 0.00507053
+          },
+          {
+            "id": 30,
+            "lemma": "뒤",
+            "type": "NNG",
+            "position": 527,
+            "weight": 0.261297
+          },
+          {
+            "id": 31,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 530,
+            "weight": 0.153364
+          },
+          {
+            "id": 32,
+            "lemma": "위치",
+            "type": "NNG",
+            "position": 534,
+            "weight": 0.207864
+          },
+          {
+            "id": 33,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 540,
+            "weight": 0.0001
+          },
+          {
+            "id": 34,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 540,
+            "weight": 0.392321
+          },
+          {
+            "id": 35,
+            "lemma": "쇄골",
+            "type": "NNG",
+            "position": 544,
+            "weight": 0.9
+          },
+          {
+            "id": 36,
+            "lemma": "하",
+            "type": "NNG",
+            "position": 550,
+            "weight": 0.000123752
+          },
+          {
+            "id": 37,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 553,
+            "weight": 0.9
+          },
+          {
+            "id": 38,
+            "lemma": "과",
+            "type": "JKB",
+            "position": 559,
+            "weight": 0.0503087
+          },
+          {
+            "id": 39,
+            "lemma": "연결",
+            "type": "NNG",
+            "position": 563,
+            "weight": 0.9
+          },
+          {
+            "id": 40,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 569,
+            "weight": 0.000224177
+          },
+          {
+            "id": 41,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 569,
+            "weight": 0.0449374
+          },
+          {
+            "id": 42,
+            "lemma": ".",
+            "type": "SF",
+            "position": 578,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 391,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 400,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "목",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1.72381,
+            "position": 404,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 407,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "앞면",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 411,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 417,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 424,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 430,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "유입되",
+            "type": "VV",
+            "scode": "01",
+            "weight": 1,
+            "position": 434,
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 443,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "정맥",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 2.2,
+            "position": 447,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "한",
+            "type": "MM",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 454,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "쌍",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 3.2,
+            "position": 458,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 461,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "말하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 465,
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 15,
+            "text": "며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 471,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 16,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 474,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": "목",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.63333,
+            "position": 476,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 479,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 19,
+            "text": "외측면",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 483,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 20,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 492,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 21,
+            "text": "타",
+            "type": "VV",
+            "scode": "02",
+            "weight": 2.62667,
+            "position": 496,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 22,
+            "text": "고",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 499,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 23,
+            "text": "내려가",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 503,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 24,
+            "text": "아",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 509,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 25,
+            "text": "쇄골",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 513,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 26,
+            "text": "바로",
+            "type": "MAG",
+            "scode": "02",
+            "weight": 5.4,
+            "position": 520,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 27,
+            "text": "뒤",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 8.8,
+            "position": 527,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 28,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 530,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 29,
+            "text": "위치하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 534,
+            "begin": 32,
+            "end": 33
+          },
+          {
+            "id": 30,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 540,
+            "begin": 34,
+            "end": 34
+          },
+          {
+            "id": 31,
+            "text": "쇄골하정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 544,
+            "begin": 35,
+            "end": 37
+          },
+          {
+            "id": 32,
+            "text": "과",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 559,
+            "begin": 38,
+            "end": 38
+          },
+          {
+            "id": 33,
+            "text": "연결되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 563,
+            "begin": 39,
+            "end": 40
+          },
+          {
+            "id": 34,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 569,
+            "begin": 41,
+            "end": 41
+          },
+          {
+            "id": 35,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 578,
+            "begin": 42,
+            "end": 42
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "목정맥은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "목의",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "앞면으로",
+            "type": "",
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 3,
+            "text": "혈액이",
+            "type": "",
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 4,
+            "text": "유입되는",
+            "type": "",
+            "begin": 9,
+            "end": 11
+          },
+          {
+            "id": 5,
+            "text": "정맥",
+            "type": "",
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 6,
+            "text": "한",
+            "type": "",
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 7,
+            "text": "쌍을",
+            "type": "",
+            "begin": 14,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "말하며,",
+            "type": "",
+            "begin": 16,
+            "end": 19
+          },
+          {
+            "id": 9,
+            "text": "목의",
+            "type": "",
+            "begin": 20,
+            "end": 21
+          },
+          {
+            "id": 10,
+            "text": "외측면을",
+            "type": "",
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 11,
+            "text": "타고",
+            "type": "",
+            "begin": 24,
+            "end": 25
+          },
+          {
+            "id": 12,
+            "text": "내려가",
+            "type": "",
+            "begin": 26,
+            "end": 27
+          },
+          {
+            "id": 13,
+            "text": "쇄골",
+            "type": "",
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 14,
+            "text": "바로",
+            "type": "",
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 15,
+            "text": "뒤에",
+            "type": "",
+            "begin": 30,
+            "end": 31
+          },
+          {
+            "id": 16,
+            "text": "위치한",
+            "type": "",
+            "begin": 32,
+            "end": 34
+          },
+          {
+            "id": 17,
+            "text": "쇄골하정맥과",
+            "type": "",
+            "begin": 35,
+            "end": 38
+          },
+          {
+            "id": 18,
+            "text": "연결됩니다.",
+            "type": "",
+            "begin": 39,
+            "end": 42
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "AM_PART",
+            "begin": 0,
+            "end": 1,
+            "weight": 0.155599,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "목",
+            "type": "AM_PART",
+            "begin": 3,
+            "end": 3,
+            "weight": 0.325167,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 12,
+            "end": 12,
+            "weight": 0.271755,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "한 쌍",
+            "type": "QT_OTHERS",
+            "begin": 13,
+            "end": 14,
+            "weight": 0.456947,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "목",
+            "type": "AM_PART",
+            "begin": 20,
+            "end": 20,
+            "weight": 0.302877,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "쇄골",
+            "type": "TM_CELL_TISSUE",
+            "begin": 28,
+            "end": 28,
+            "weight": 0.279756,
+            "common_noun": 0
+          },
+          {
+            "id": 6,
+            "text": "쇄골하정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 35,
+            "end": 37,
+            "weight": 0.295809,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 8,
+        "reserve_str": "",
+        "text": " 목정맥은 외경정맥과 내경정맥, 총 두 종류로 나뉩니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 580,
+            "weight": 0.436002
+          },
+          {
+            "id": 1,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 583,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 589,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "외경",
+            "type": "NNG",
+            "position": 593,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 599,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "과",
+            "type": "JC",
+            "position": 605,
+            "weight": 0.017569
+          },
+          {
+            "id": 6,
+            "lemma": "내경",
+            "type": "NNG",
+            "position": 609,
+            "weight": 0.35
+          },
+          {
+            "id": 7,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 615,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": ",",
+            "type": "SP",
+            "position": 621,
+            "weight": 1
+          },
+          {
+            "id": 9,
+            "lemma": "총",
+            "type": "MM",
+            "position": 623,
+            "weight": 0.00893365
+          },
+          {
+            "id": 10,
+            "lemma": "두",
+            "type": "MM",
+            "position": 627,
+            "weight": 0.00818553
+          },
+          {
+            "id": 11,
+            "lemma": "종류",
+            "type": "NNG",
+            "position": 631,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 637,
+            "weight": 0.153229
+          },
+          {
+            "id": 13,
+            "lemma": "나뉘",
+            "type": "VV",
+            "position": 641,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 644,
+            "weight": 0.0793776
+          },
+          {
+            "id": 15,
+            "lemma": ".",
+            "type": "SF",
+            "position": 653,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 580,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 589,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "외경정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 593,
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 605,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 4,
+            "text": "내경",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 609,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 5,
+            "text": "정맥",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 5.4,
+            "position": 615,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 6,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 621,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 7,
+            "text": "총",
+            "type": "MM",
+            "scode": "06",
+            "weight": 1,
+            "position": 623,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "두",
+            "type": "MM",
+            "scode": "01",
+            "weight": 7.6,
+            "position": 627,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "종류",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 4.4,
+            "position": 631,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 637,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "나뉘",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 641,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 644,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 653,
+            "begin": 15,
+            "end": 15
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "목정맥은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "외경정맥과",
+            "type": "",
+            "begin": 3,
+            "end": 5
+          },
+          {
+            "id": 2,
+            "text": "내경정맥,",
+            "type": "",
+            "begin": 6,
+            "end": 8
+          },
+          {
+            "id": 3,
+            "text": "총",
+            "type": "",
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 4,
+            "text": "두",
+            "type": "",
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "종류로",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 6,
+            "text": "나뉩니다.",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 1,
+            "weight": 0.201744,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "외경정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 3,
+            "end": 4,
+            "weight": 0.224533,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "내경정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 6,
+            "end": 7,
+            "weight": 0.264931,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "두 종류",
+            "type": "QT_COUNT",
+            "begin": 10,
+            "end": 11,
+            "weight": 0.820798,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 9,
+        "reserve_str": "",
+        "text": " 경막의 S상 정맥동과 안면정맥이 모여 내경정맥이 형성되어 총경동맥, 미주신경과 함께 위치합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "경막",
+            "type": "NNG",
+            "position": 655,
+            "weight": 0.4
+          },
+          {
+            "id": 1,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 661,
+            "weight": 0.0694213
+          },
+          {
+            "id": 2,
+            "lemma": "S",
+            "type": "SL",
+            "position": 665,
+            "weight": 1
+          },
+          {
+            "id": 3,
+            "lemma": "상",
+            "type": "NNG",
+            "position": 666,
+            "weight": 0.0782647
+          },
+          {
+            "id": 4,
+            "lemma": "정맥동",
+            "type": "NNG",
+            "position": 670,
+            "weight": 0.1
+          },
+          {
+            "id": 5,
+            "lemma": "과",
+            "type": "JC",
+            "position": 679,
+            "weight": 0.017569
+          },
+          {
+            "id": 6,
+            "lemma": "안면",
+            "type": "NNG",
+            "position": 683,
+            "weight": 0.794443
+          },
+          {
+            "id": 7,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 689,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 695,
+            "weight": 0.0360723
+          },
+          {
+            "id": 9,
+            "lemma": "모이",
+            "type": "VV",
+            "position": 699,
+            "weight": 0.307011
+          },
+          {
+            "id": 10,
+            "lemma": "어",
+            "type": "EC",
+            "position": 702,
+            "weight": 0.41831
+          },
+          {
+            "id": 11,
+            "lemma": "내경정맥",
+            "type": "NNG",
+            "position": 706,
+            "weight": 0.1
+          },
+          {
+            "id": 12,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 718,
+            "weight": 0.0360723
+          },
+          {
+            "id": 13,
+            "lemma": "형성",
+            "type": "NNG",
+            "position": 722,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 728,
+            "weight": 0.000224177
+          },
+          {
+            "id": 15,
+            "lemma": "어",
+            "type": "EC",
+            "position": 731,
+            "weight": 0.361326
+          },
+          {
+            "id": 16,
+            "lemma": "총경",
+            "type": "NNG",
+            "position": 735,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "동맥",
+            "type": "NNG",
+            "position": 741,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": ",",
+            "type": "SP",
+            "position": 747,
+            "weight": 1
+          },
+          {
+            "id": 19,
+            "lemma": "미주",
+            "type": "NNG",
+            "position": 749,
+            "weight": 0.0625411
+          },
+          {
+            "id": 20,
+            "lemma": "신경",
+            "type": "NNG",
+            "position": 755,
+            "weight": 0.184633
+          },
+          {
+            "id": 21,
+            "lemma": "과",
+            "type": "JKB",
+            "position": 761,
+            "weight": 0.0503087
+          },
+          {
+            "id": 22,
+            "lemma": "함께",
+            "type": "MAG",
+            "position": 765,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "위치",
+            "type": "NNG",
+            "position": 772,
+            "weight": 0.261268
+          },
+          {
+            "id": 24,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 778,
+            "weight": 0.0001
+          },
+          {
+            "id": 25,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 778,
+            "weight": 0.0449374
+          },
+          {
+            "id": 26,
+            "lemma": ".",
+            "type": "SF",
+            "position": 787,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "경막",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 655,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 661,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "S",
+            "type": "SL",
+            "scode": "00",
+            "weight": 1,
+            "position": 665,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "상",
+            "type": "NNG",
+            "scode": "25",
+            "weight": 1,
+            "position": 666,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "정맥동",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 670,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 679,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "안면",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 1,
+            "position": 683,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "정맥",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 2.2,
+            "position": 689,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 8,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 695,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 9,
+            "text": "모이",
+            "type": "VV",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 699,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 10,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 702,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 11,
+            "text": "내경정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 706,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 12,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 718,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 13,
+            "text": "형성되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 722,
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 14,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 731,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 15,
+            "text": "총경동맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 735,
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 16,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 747,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 17,
+            "text": "미주신경",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 749,
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "과",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 761,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 19,
+            "text": "함께",
+            "type": "MAG",
+            "scode": "00",
+            "weight": 0,
+            "position": 765,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 20,
+            "text": "위치하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 772,
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 21,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 778,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 22,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 787,
+            "begin": 26,
+            "end": 26
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "경막의",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "S상",
+            "type": "",
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "정맥동과",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "안면정맥이",
+            "type": "",
+            "begin": 6,
+            "end": 8
+          },
+          {
+            "id": 4,
+            "text": "모여",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "내경정맥이",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 6,
+            "text": "형성되어",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          },
+          {
+            "id": 7,
+            "text": "총경동맥,",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          },
+          {
+            "id": 8,
+            "text": "미주신경과",
+            "type": "",
+            "begin": 19,
+            "end": 21
+          },
+          {
+            "id": 9,
+            "text": "함께",
+            "type": "",
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 10,
+            "text": "위치합니다.",
+            "type": "",
+            "begin": 23,
+            "end": 26
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "경막",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 0,
+            "weight": 0.256605,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "S",
+            "type": "TM_CELL_TISSUE",
+            "begin": 2,
+            "end": 2,
+            "weight": 0.275533,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "정맥동",
+            "type": "TM_CELL_TISSUE",
+            "begin": 4,
+            "end": 4,
+            "weight": 0.250111,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "안면정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 6,
+            "end": 7,
+            "weight": 0.324752,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "내경정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 11,
+            "end": 11,
+            "weight": 0.179516,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "총경동맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 16,
+            "end": 17,
+            "weight": 0.228037,
+            "common_noun": 0
+          },
+          {
+            "id": 6,
+            "text": "미주신경",
+            "type": "TM_CELL_TISSUE",
+            "begin": 19,
+            "end": 20,
+            "weight": 0.431276,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 10,
+        "reserve_str": "",
+        "text": " 외경정맥은 표면 가까이에서 흉쇄유돌근을 따라 위치하며, 더 얇은 혈관은 하악 부근으로 뻗어져 나갑니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "외경",
+            "type": "NNG",
+            "position": 789,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 795,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 801,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "표면",
+            "type": "NNG",
+            "position": 805,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "가까이",
+            "type": "NNG",
+            "position": 812,
+            "weight": 0.0496584
+          },
+          {
+            "id": 5,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 821,
+            "weight": 0.153407
+          },
+          {
+            "id": 6,
+            "lemma": "흉쇄유",
+            "type": "NNG",
+            "position": 828,
+            "weight": 0
+          },
+          {
+            "id": 7,
+            "lemma": "돌근",
+            "type": "NNG",
+            "position": 837,
+            "weight": 0
+          },
+          {
+            "id": 8,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 843,
+            "weight": 0.129611
+          },
+          {
+            "id": 9,
+            "lemma": "따르",
+            "type": "VV",
+            "position": 847,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "아",
+            "type": "EC",
+            "position": 850,
+            "weight": 0.398809
+          },
+          {
+            "id": 11,
+            "lemma": "위치",
+            "type": "NNG",
+            "position": 854,
+            "weight": 0.219232
+          },
+          {
+            "id": 12,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 860,
+            "weight": 0.0001
+          },
+          {
+            "id": 13,
+            "lemma": "며",
+            "type": "EC",
+            "position": 863,
+            "weight": 0.371165
+          },
+          {
+            "id": 14,
+            "lemma": ",",
+            "type": "SP",
+            "position": 866,
+            "weight": 1
+          },
+          {
+            "id": 15,
+            "lemma": "더",
+            "type": "MAG",
+            "position": 868,
+            "weight": 0.057579
+          },
+          {
+            "id": 16,
+            "lemma": "얇",
+            "type": "VA",
+            "position": 872,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "은",
+            "type": "ETM",
+            "position": 875,
+            "weight": 0.155123
+          },
+          {
+            "id": 18,
+            "lemma": "혈관",
+            "type": "NNG",
+            "position": 879,
+            "weight": 0.9
+          },
+          {
+            "id": 19,
+            "lemma": "은",
+            "type": "JX",
+            "position": 885,
+            "weight": 0.0449928
+          },
+          {
+            "id": 20,
+            "lemma": "하악",
+            "type": "NNG",
+            "position": 889,
+            "weight": 0.15
+          },
+          {
+            "id": 21,
+            "lemma": "부근",
+            "type": "NNG",
+            "position": 896,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 902,
+            "weight": 0.153406
+          },
+          {
+            "id": 23,
+            "lemma": "뻗어지",
+            "type": "VV",
+            "position": 909,
+            "weight": 0.05
+          },
+          {
+            "id": 24,
+            "lemma": "어",
+            "type": "EC",
+            "position": 915,
+            "weight": 0.41831
+          },
+          {
+            "id": 25,
+            "lemma": "나가",
+            "type": "VV",
+            "position": 919,
+            "weight": 0.135331
+          },
+          {
+            "id": 26,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 922,
+            "weight": 0.0793776
+          },
+          {
+            "id": 27,
+            "lemma": ".",
+            "type": "SF",
+            "position": 931,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "외경정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 789,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 801,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "표면",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 805,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "가까이",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 812,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 821,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "흉쇄유돌근",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 828,
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 6,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 843,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 7,
+            "text": "따르",
+            "type": "VV",
+            "scode": "01",
+            "weight": 3.17872,
+            "position": 847,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "아",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 850,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "위치하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 854,
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 10,
+            "text": "며",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 863,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 11,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 866,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 12,
+            "text": "더",
+            "type": "MAG",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 868,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 13,
+            "text": "얇",
+            "type": "VA",
+            "scode": "00",
+            "weight": 0,
+            "position": 872,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 14,
+            "text": "은",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 875,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 15,
+            "text": "혈관",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 879,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 16,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 885,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": "하악",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 889,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "부근",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 1,
+            "position": 896,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 19,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 902,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 20,
+            "text": "뻗어지",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 909,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 21,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 915,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 22,
+            "text": "나가",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 919,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 23,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 922,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 24,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 931,
+            "begin": 27,
+            "end": 27
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "외경정맥은",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "표면",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "가까이에서",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "흉쇄유돌근을",
+            "type": "",
+            "begin": 6,
+            "end": 8
+          },
+          {
+            "id": 4,
+            "text": "따라",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "위치하며,",
+            "type": "",
+            "begin": 11,
+            "end": 14
+          },
+          {
+            "id": 6,
+            "text": "더",
+            "type": "",
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 7,
+            "text": "얇은",
+            "type": "",
+            "begin": 16,
+            "end": 17
+          },
+          {
+            "id": 8,
+            "text": "혈관은",
+            "type": "",
+            "begin": 18,
+            "end": 19
+          },
+          {
+            "id": 9,
+            "text": "하악",
+            "type": "",
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 10,
+            "text": "부근으로",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 11,
+            "text": "뻗어져",
+            "type": "",
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 12,
+            "text": "나갑니다.",
+            "type": "",
+            "begin": 25,
+            "end": 27
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "외경정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 1,
+            "weight": 0.173583,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "흉쇄유돌근",
+            "type": "TM_CELL_TISSUE",
+            "begin": 6,
+            "end": 7,
+            "weight": 0.125281,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "혈관",
+            "type": "TM_CELL_TISSUE",
+            "begin": 18,
+            "end": 18,
+            "weight": 0.325338,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "하악",
+            "type": "TM_CELL_TISSUE",
+            "begin": 20,
+            "end": 20,
+            "weight": 0.227869,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 11,
+        "reserve_str": "",
+        "text": " 좌측과 우측의 내경정맥은 쇄골하정맥으로 이어지다가 위팔·머리와 연결된 정맥 혈관과 만납니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "좌측",
+            "type": "NNG",
+            "position": 933,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "과",
+            "type": "JC",
+            "position": 939,
+            "weight": 0.017569
+          },
+          {
+            "id": 2,
+            "lemma": "우측",
+            "type": "NNG",
+            "position": 943,
+            "weight": 0.9
+          },
+          {
+            "id": 3,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 949,
+            "weight": 0.0694213
+          },
+          {
+            "id": 4,
+            "lemma": "내경",
+            "type": "NNG",
+            "position": 953,
+            "weight": 0.35
+          },
+          {
+            "id": 5,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 959,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "은",
+            "type": "JX",
+            "position": 965,
+            "weight": 0.0449928
+          },
+          {
+            "id": 7,
+            "lemma": "쇄골",
+            "type": "NNG",
+            "position": 969,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "하",
+            "type": "NNG",
+            "position": 975,
+            "weight": 0.000123752
+          },
+          {
+            "id": 9,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 978,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 984,
+            "weight": 0.153406
+          },
+          {
+            "id": 11,
+            "lemma": "이어지",
+            "type": "VV",
+            "position": 991,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "다가",
+            "type": "EC",
+            "position": 1000,
+            "weight": 0.411843
+          },
+          {
+            "id": 13,
+            "lemma": "위팔",
+            "type": "NNG",
+            "position": 1007,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "·",
+            "type": "SP",
+            "position": 1013,
+            "weight": 1
+          },
+          {
+            "id": 15,
+            "lemma": "머리",
+            "type": "NNG",
+            "position": 1015,
+            "weight": 0.531387
+          },
+          {
+            "id": 16,
+            "lemma": "와",
+            "type": "JKB",
+            "position": 1021,
+            "weight": 0.0567862
+          },
+          {
+            "id": 17,
+            "lemma": "연결",
+            "type": "NNG",
+            "position": 1025,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1031,
+            "weight": 0.000224177
+          },
+          {
+            "id": 19,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1031,
+            "weight": 0.392321
+          },
+          {
+            "id": 20,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1035,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": "혈관",
+            "type": "NNG",
+            "position": 1042,
+            "weight": 0.9
+          },
+          {
+            "id": 22,
+            "lemma": "과",
+            "type": "JKB",
+            "position": 1048,
+            "weight": 0.0503087
+          },
+          {
+            "id": 23,
+            "lemma": "만나",
+            "type": "VV",
+            "position": 1052,
+            "weight": 0.445131
+          },
+          {
+            "id": 24,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1055,
+            "weight": 0.0793776
+          },
+          {
+            "id": 25,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1064,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "좌측",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 933,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 939,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "우측",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 943,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 949,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "내경",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 953,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "정맥",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 4.4,
+            "position": 959,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 965,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "쇄골하정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 969,
+            "begin": 7,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 984,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "이어지",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 991,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "다가",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1000,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "위팔",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1007,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "·",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1013,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "머리",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 1015,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "와",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1021,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 15,
+            "text": "연결되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1025,
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 16,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1031,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 17,
+            "text": "정맥",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 6.6,
+            "position": 1035,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "혈관",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1042,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 19,
+            "text": "과",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1048,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 20,
+            "text": "만나",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1052,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 21,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1055,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 22,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1064,
+            "begin": 25,
+            "end": 25
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "좌측과",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "우측의",
+            "type": "",
+            "begin": 2,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "내경정맥은",
+            "type": "",
+            "begin": 4,
+            "end": 6
+          },
+          {
+            "id": 3,
+            "text": "쇄골하정맥으로",
+            "type": "",
+            "begin": 7,
+            "end": 10
+          },
+          {
+            "id": 4,
+            "text": "이어지다가",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 5,
+            "text": "위팔·머리와",
+            "type": "",
+            "begin": 13,
+            "end": 16
+          },
+          {
+            "id": 6,
+            "text": "연결된",
+            "type": "",
+            "begin": 17,
+            "end": 19
+          },
+          {
+            "id": 7,
+            "text": "정맥",
+            "type": "",
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 8,
+            "text": "혈관과",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 9,
+            "text": "만납니다.",
+            "type": "",
+            "begin": 23,
+            "end": 25
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "좌측",
+            "type": "TM_DIRECTION",
+            "begin": 0,
+            "end": 0,
+            "weight": 0.250821,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "내경정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 4,
+            "end": 5,
+            "weight": 0.329878,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "쇄골하정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 7,
+            "end": 9,
+            "weight": 0.356547,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "위팔",
+            "type": "TM_CELL_TISSUE",
+            "begin": 13,
+            "end": 13,
+            "weight": 0.261509,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "머리",
+            "type": "AM_PART",
+            "begin": 15,
+            "end": 15,
+            "weight": 0.468711,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 20,
+            "end": 20,
+            "weight": 0.315071,
+            "common_noun": 0
+          },
+          {
+            "id": 6,
+            "text": "혈관",
+            "type": "TM_CELL_TISSUE",
+            "begin": 21,
+            "end": 21,
+            "weight": 0.297928,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 12,
+        "reserve_str": "",
+        "text": " 이 혈관은 상대정맥으로 이어져 우심방으로 이어집니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "이",
+            "type": "MM",
+            "position": 1066,
+            "weight": 0.0020222
+          },
+          {
+            "id": 1,
+            "lemma": "혈관",
+            "type": "NNG",
+            "position": 1070,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "은",
+            "type": "JX",
+            "position": 1076,
+            "weight": 0.0449928
+          },
+          {
+            "id": 3,
+            "lemma": "상대",
+            "type": "NNG",
+            "position": 1080,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1086,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1092,
+            "weight": 0.153406
+          },
+          {
+            "id": 6,
+            "lemma": "이어지",
+            "type": "VV",
+            "position": 1099,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1105,
+            "weight": 0.41831
+          },
+          {
+            "id": 8,
+            "lemma": "우",
+            "type": "NNG",
+            "position": 1109,
+            "weight": 0.0995182
+          },
+          {
+            "id": 9,
+            "lemma": "심방",
+            "type": "NNG",
+            "position": 1112,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1118,
+            "weight": 0.153406
+          },
+          {
+            "id": 11,
+            "lemma": "이어지",
+            "type": "VV",
+            "position": 1125,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1131,
+            "weight": 0.0793776
+          },
+          {
+            "id": 13,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1140,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "이",
+            "type": "MM",
+            "scode": "05",
+            "weight": 3.2,
+            "position": 1066,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "혈관",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1070,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1076,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "상대정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1080,
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1092,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "이어지",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1099,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1105,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "우심방",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1109,
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1118,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "이어지",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1125,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1131,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1140,
+            "begin": 13,
+            "end": 13
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "이",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "혈관은",
+            "type": "",
+            "begin": 1,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "상대정맥으로",
+            "type": "",
+            "begin": 3,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "이어져",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "우심방으로",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "이어집니다.",
+            "type": "",
+            "begin": 11,
+            "end": 13
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "혈관",
+            "type": "TM_CELL_TISSUE",
+            "begin": 1,
+            "end": 1,
+            "weight": 0.301266,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "상대정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 3,
+            "end": 4,
+            "weight": 0.487497,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "우심방",
+            "type": "TM_CELL_TISSUE",
+            "begin": 8,
+            "end": 9,
+            "weight": 0.349942,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 13,
+        "reserve_str": "",
+        "text": "동맥과 달리 정맥은 심장으로 되돌아오는 압력이 약하기 때문에 혈액이 역류하는 것을 방지하기 위한 정맥벽 내부에 판막 구조가 존재합니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "동맥",
+            "type": "NNG",
+            "position": 1141,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "과",
+            "type": "JC",
+            "position": 1147,
+            "weight": 0.017569
+          },
+          {
+            "id": 2,
+            "lemma": "달리",
+            "type": "MAG",
+            "position": 1151,
+            "weight": 0.00337865
+          },
+          {
+            "id": 3,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1158,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "은",
+            "type": "JX",
+            "position": 1164,
+            "weight": 0.0449928
+          },
+          {
+            "id": 5,
+            "lemma": "심장",
+            "type": "NNG",
+            "position": 1168,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1174,
+            "weight": 0.153406
+          },
+          {
+            "id": 7,
+            "lemma": "되돌아오",
+            "type": "VV",
+            "position": 1181,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1193,
+            "weight": 0.184941
+          },
+          {
+            "id": 9,
+            "lemma": "압력",
+            "type": "NNG",
+            "position": 1197,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1203,
+            "weight": 0.0360723
+          },
+          {
+            "id": 11,
+            "lemma": "약하",
+            "type": "VA",
+            "position": 1207,
+            "weight": 0.249126
+          },
+          {
+            "id": 12,
+            "lemma": "기",
+            "type": "ETN",
+            "position": 1213,
+            "weight": 0.0217586
+          },
+          {
+            "id": 13,
+            "lemma": "때문",
+            "type": "NNB",
+            "position": 1217,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1223,
+            "weight": 0.135559
+          },
+          {
+            "id": 15,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 1227,
+            "weight": 0.9
+          },
+          {
+            "id": 16,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1233,
+            "weight": 0.0360723
+          },
+          {
+            "id": 17,
+            "lemma": "역류",
+            "type": "NNG",
+            "position": 1237,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1243,
+            "weight": 0.0001
+          },
+          {
+            "id": 19,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1246,
+            "weight": 0.238503
+          },
+          {
+            "id": 20,
+            "lemma": "것",
+            "type": "NNB",
+            "position": 1250,
+            "weight": 0.228788
+          },
+          {
+            "id": 21,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1253,
+            "weight": 0.0630104
+          },
+          {
+            "id": 22,
+            "lemma": "방지",
+            "type": "NNG",
+            "position": 1257,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1263,
+            "weight": 0.0001
+          },
+          {
+            "id": 24,
+            "lemma": "기",
+            "type": "ETN",
+            "position": 1266,
+            "weight": 0.0556099
+          },
+          {
+            "id": 25,
+            "lemma": "위하",
+            "type": "VV",
+            "position": 1270,
+            "weight": 0.176484
+          },
+          {
+            "id": 26,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1273,
+            "weight": 0.304215
+          },
+          {
+            "id": 27,
+            "lemma": "정맥벽",
+            "type": "NNG",
+            "position": 1277,
+            "weight": 0
+          },
+          {
+            "id": 28,
+            "lemma": "내부",
+            "type": "NNG",
+            "position": 1287,
+            "weight": 0.9
+          },
+          {
+            "id": 29,
+            "lemma": "에",
+            "type": "JKB",
+            "position": 1293,
+            "weight": 0.153364
+          },
+          {
+            "id": 30,
+            "lemma": "판막",
+            "type": "NNG",
+            "position": 1297,
+            "weight": 0.2038
+          },
+          {
+            "id": 31,
+            "lemma": "구조",
+            "type": "NNG",
+            "position": 1304,
+            "weight": 0.9
+          },
+          {
+            "id": 32,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 1310,
+            "weight": 0.066324
+          },
+          {
+            "id": 33,
+            "lemma": "존재",
+            "type": "NNG",
+            "position": 1314,
+            "weight": 0.9
+          },
+          {
+            "id": 34,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1320,
+            "weight": 0.0001
+          },
+          {
+            "id": 35,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1320,
+            "weight": 0.0449374
+          },
+          {
+            "id": 36,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1329,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "동맥",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1141,
+            "begin": 0,
+            "end": 0
+          },
+          {
+            "id": 1,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1147,
+            "begin": 1,
+            "end": 1
+          },
+          {
+            "id": 2,
+            "text": "달리",
+            "type": "MAG",
+            "scode": "01",
+            "weight": 1,
+            "position": 1151,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 3,
+            "text": "정맥",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 5.4,
+            "position": 1158,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 4,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1164,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 5,
+            "text": "심장",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 4.4,
+            "position": 1168,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 6,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1174,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 7,
+            "text": "되돌아오",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1181,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 8,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1193,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 9,
+            "text": "압력",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1197,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 10,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1203,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 11,
+            "text": "약하",
+            "type": "VA",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1207,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 12,
+            "text": "기",
+            "type": "ETN",
+            "scode": "00",
+            "weight": 1,
+            "position": 1213,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 13,
+            "text": "때문",
+            "type": "NNB",
+            "scode": "00",
+            "weight": 0,
+            "position": 1217,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 14,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1223,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 15,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1227,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 16,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1233,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 17,
+            "text": "역류하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1237,
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 18,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1246,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 19,
+            "text": "것",
+            "type": "NNB",
+            "scode": "01",
+            "weight": 8.8,
+            "position": 1250,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 20,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1253,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 21,
+            "text": "방지하",
+            "type": "VV",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1257,
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 22,
+            "text": "기",
+            "type": "ETN",
+            "scode": "00",
+            "weight": 1,
+            "position": 1266,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 23,
+            "text": "위하",
+            "type": "VV",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 1270,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 24,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1273,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 25,
+            "text": "정맥벽",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1277,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 26,
+            "text": "내부",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 4.4,
+            "position": 1287,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 27,
+            "text": "에",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1293,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 28,
+            "text": "판막",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 1297,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 29,
+            "text": "구조",
+            "type": "NNG",
+            "scode": "08",
+            "weight": 4.4,
+            "position": 1304,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 30,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1310,
+            "begin": 32,
+            "end": 32
+          },
+          {
+            "id": 31,
+            "text": "존재하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1314,
+            "begin": 33,
+            "end": 34
+          },
+          {
+            "id": 32,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1320,
+            "begin": 35,
+            "end": 35
+          },
+          {
+            "id": 33,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1329,
+            "begin": 36,
+            "end": 36
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "동맥과",
+            "type": "",
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "달리",
+            "type": "",
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "정맥은",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 3,
+            "text": "심장으로",
+            "type": "",
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 4,
+            "text": "되돌아오는",
+            "type": "",
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 5,
+            "text": "압력이",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 6,
+            "text": "약하기",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 7,
+            "text": "때문에",
+            "type": "",
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 8,
+            "text": "혈액이",
+            "type": "",
+            "begin": 15,
+            "end": 16
+          },
+          {
+            "id": 9,
+            "text": "역류하는",
+            "type": "",
+            "begin": 17,
+            "end": 19
+          },
+          {
+            "id": 10,
+            "text": "것을",
+            "type": "",
+            "begin": 20,
+            "end": 21
+          },
+          {
+            "id": 11,
+            "text": "방지하기",
+            "type": "",
+            "begin": 22,
+            "end": 24
+          },
+          {
+            "id": 12,
+            "text": "위한",
+            "type": "",
+            "begin": 25,
+            "end": 26
+          },
+          {
+            "id": 13,
+            "text": "정맥벽",
+            "type": "",
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 14,
+            "text": "내부에",
+            "type": "",
+            "begin": 28,
+            "end": 29
+          },
+          {
+            "id": 15,
+            "text": "판막",
+            "type": "",
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 16,
+            "text": "구조가",
+            "type": "",
+            "begin": 31,
+            "end": 32
+          },
+          {
+            "id": 17,
+            "text": "존재합니다.",
+            "type": "",
+            "begin": 33,
+            "end": 36
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "동맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 0,
+            "weight": 0.291038,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 3,
+            "end": 3,
+            "weight": 0.190943,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "심장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 5,
+            "end": 5,
+            "weight": 0.488088,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "판막",
+            "type": "TM_CELL_TISSUE",
+            "begin": 30,
+            "end": 30,
+            "weight": 0.33913,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 14,
+        "reserve_str": "",
+        "text": "기능",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "기능",
+            "type": "NNG",
+            "position": 1330,
+            "weight": 0.437845
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "기능",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 1,
+            "position": 1330,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "기능",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "기능",
+            "type": "OGG_ECONOMY",
+            "begin": 0,
+            "end": 0,
+            "weight": 1,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 15,
+        "reserve_str": "",
+        "text": "목정맥을 통해 두개골, 안면부, 목보다 상위층의 정맥 혈액이 상대정맥과 연결되어 심장으로 배출됩니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 1336,
+            "weight": 0.436002
+          },
+          {
+            "id": 1,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1339,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1345,
+            "weight": 0.129611
+          },
+          {
+            "id": 3,
+            "lemma": "통하",
+            "type": "VV",
+            "position": 1349,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1352,
+            "weight": 0.41831
+          },
+          {
+            "id": 5,
+            "lemma": "두개",
+            "type": "NNG",
+            "position": 1356,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "골",
+            "type": "NNG",
+            "position": 1362,
+            "weight": 0.161176
+          },
+          {
+            "id": 7,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1365,
+            "weight": 1
+          },
+          {
+            "id": 8,
+            "lemma": "안면",
+            "type": "NNG",
+            "position": 1367,
+            "weight": 0.525884
+          },
+          {
+            "id": 9,
+            "lemma": "부",
+            "type": "XSN",
+            "position": 1373,
+            "weight": 0.0112289
+          },
+          {
+            "id": 10,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1376,
+            "weight": 1
+          },
+          {
+            "id": 11,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 1378,
+            "weight": 0.529237
+          },
+          {
+            "id": 12,
+            "lemma": "보다",
+            "type": "JKB",
+            "position": 1381,
+            "weight": 0.143482
+          },
+          {
+            "id": 13,
+            "lemma": "상위",
+            "type": "NNG",
+            "position": 1388,
+            "weight": 0.9
+          },
+          {
+            "id": 14,
+            "lemma": "층",
+            "type": "NNG",
+            "position": 1394,
+            "weight": 0.141586
+          },
+          {
+            "id": 15,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1397,
+            "weight": 0.0694213
+          },
+          {
+            "id": 16,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1401,
+            "weight": 0.9
+          },
+          {
+            "id": 17,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 1408,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1414,
+            "weight": 0.0360723
+          },
+          {
+            "id": 19,
+            "lemma": "상대",
+            "type": "NNG",
+            "position": 1418,
+            "weight": 0.9
+          },
+          {
+            "id": 20,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1424,
+            "weight": 0.9
+          },
+          {
+            "id": 21,
+            "lemma": "과",
+            "type": "JC",
+            "position": 1430,
+            "weight": 0.017569
+          },
+          {
+            "id": 22,
+            "lemma": "연결",
+            "type": "NNG",
+            "position": 1434,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1440,
+            "weight": 0.000224177
+          },
+          {
+            "id": 24,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1443,
+            "weight": 0.361326
+          },
+          {
+            "id": 25,
+            "lemma": "심장",
+            "type": "NNG",
+            "position": 1447,
+            "weight": 0.9
+          },
+          {
+            "id": 26,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1453,
+            "weight": 0.153406
+          },
+          {
+            "id": 27,
+            "lemma": "배출",
+            "type": "NNG",
+            "position": 1460,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "되",
+            "type": "XSV",
+            "position": 1466,
+            "weight": 0.000224177
+          },
+          {
+            "id": 29,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1466,
+            "weight": 0.0449374
+          },
+          {
+            "id": 30,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1475,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1336,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1345,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "통하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1349,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1352,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "두개골",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1356,
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 5,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1365,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 6,
+            "text": "안면",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 3.2,
+            "position": 1367,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 7,
+            "text": "부",
+            "type": "XSN",
+            "scode": "23",
+            "weight": 3,
+            "position": 1373,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 8,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1376,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 9,
+            "text": "목",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1378,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 10,
+            "text": "보다",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1381,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 11,
+            "text": "상위",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 1388,
+            "begin": 13,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "층",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 1394,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 1397,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "정맥",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 6.6,
+            "position": 1401,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 15,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1408,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 16,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1414,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 17,
+            "text": "상대정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1418,
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 18,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1430,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 19,
+            "text": "연결되",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1434,
+            "begin": 22,
+            "end": 23
+          },
+          {
+            "id": 20,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1443,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 21,
+            "text": "심장",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 5.4,
+            "position": 1447,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 22,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1453,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 23,
+            "text": "배출되",
+            "type": "VV",
+            "scode": "03",
+            "weight": 1,
+            "position": 1460,
+            "begin": 27,
+            "end": 28
+          },
+          {
+            "id": 24,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1466,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 25,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1475,
+            "begin": 30,
+            "end": 30
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "목정맥을",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "통해",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "두개골,",
+            "type": "",
+            "begin": 5,
+            "end": 7
+          },
+          {
+            "id": 3,
+            "text": "안면부,",
+            "type": "",
+            "begin": 8,
+            "end": 10
+          },
+          {
+            "id": 4,
+            "text": "목보다",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 5,
+            "text": "상위층의",
+            "type": "",
+            "begin": 13,
+            "end": 15
+          },
+          {
+            "id": 6,
+            "text": "정맥",
+            "type": "",
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 7,
+            "text": "혈액이",
+            "type": "",
+            "begin": 17,
+            "end": 18
+          },
+          {
+            "id": 8,
+            "text": "상대정맥과",
+            "type": "",
+            "begin": 19,
+            "end": 21
+          },
+          {
+            "id": 9,
+            "text": "연결되어",
+            "type": "",
+            "begin": 22,
+            "end": 24
+          },
+          {
+            "id": 10,
+            "text": "심장으로",
+            "type": "",
+            "begin": 25,
+            "end": 26
+          },
+          {
+            "id": 11,
+            "text": "배출됩니다.",
+            "type": "",
+            "begin": 27,
+            "end": 30
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "목정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 1,
+            "weight": 0.206057,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "두개골",
+            "type": "TM_CELL_TISSUE",
+            "begin": 5,
+            "end": 6,
+            "weight": 0.554304,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "안면부",
+            "type": "AM_PART",
+            "begin": 8,
+            "end": 9,
+            "weight": 0.214245,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "목",
+            "type": "AM_PART",
+            "begin": 11,
+            "end": 11,
+            "weight": 0.265122,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 16,
+            "end": 16,
+            "weight": 0.21576,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "상대정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 19,
+            "end": 20,
+            "weight": 0.419786,
+            "common_noun": 0
+          },
+          {
+            "id": 6,
+            "text": "심장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 25,
+            "end": 25,
+            "weight": 0.281092,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 16,
+        "reserve_str": "",
+        "text": "헬스팁",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "헬스팁",
+            "type": "NNG",
+            "position": 1476,
+            "weight": 0
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "헬스팁",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1476,
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "헬스팁",
+            "type": "",
+            "begin": 0,
+            "end": 0
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "헬스팁",
+            "type": "PS_NAME",
+            "begin": 0,
+            "end": 0,
+            "weight": 0.115488,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 17,
+        "reserve_str": "",
+        "text": "상대정맥이란 상체에서 심장으로 돌아오는 혈액이 흐르는 대정맥 중 하나로, 머리, 목, 흉부, 상지의 정맥 혈액이 모이는 혈관입니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "상대",
+            "type": "NNG",
+            "position": 1485,
+            "weight": 0.9
+          },
+          {
+            "id": 1,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1491,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "이란",
+            "type": "JX",
+            "position": 1497,
+            "weight": 0.0614517
+          },
+          {
+            "id": 3,
+            "lemma": "상체",
+            "type": "NNG",
+            "position": 1504,
+            "weight": 0.9
+          },
+          {
+            "id": 4,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 1510,
+            "weight": 0.153407
+          },
+          {
+            "id": 5,
+            "lemma": "심장",
+            "type": "NNG",
+            "position": 1517,
+            "weight": 0.9
+          },
+          {
+            "id": 6,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1523,
+            "weight": 0.153406
+          },
+          {
+            "id": 7,
+            "lemma": "돌아오",
+            "type": "VV",
+            "position": 1530,
+            "weight": 0.9
+          },
+          {
+            "id": 8,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1539,
+            "weight": 0.184941
+          },
+          {
+            "id": 9,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 1543,
+            "weight": 0.9
+          },
+          {
+            "id": 10,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1549,
+            "weight": 0.0360723
+          },
+          {
+            "id": 11,
+            "lemma": "흐르",
+            "type": "VV",
+            "position": 1553,
+            "weight": 0.9
+          },
+          {
+            "id": 12,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1559,
+            "weight": 0.184941
+          },
+          {
+            "id": 13,
+            "lemma": "대",
+            "type": "XPN",
+            "position": 1563,
+            "weight": 0.00011884
+          },
+          {
+            "id": 14,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1566,
+            "weight": 0.9
+          },
+          {
+            "id": 15,
+            "lemma": "중",
+            "type": "NNB",
+            "position": 1573,
+            "weight": 0.013531
+          },
+          {
+            "id": 16,
+            "lemma": "하나",
+            "type": "NR",
+            "position": 1577,
+            "weight": 0.000267377
+          },
+          {
+            "id": 17,
+            "lemma": "로",
+            "type": "JKB",
+            "position": 1583,
+            "weight": 0.0190976
+          },
+          {
+            "id": 18,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1586,
+            "weight": 1
+          },
+          {
+            "id": 19,
+            "lemma": "머리",
+            "type": "NNG",
+            "position": 1588,
+            "weight": 0.531387
+          },
+          {
+            "id": 20,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1594,
+            "weight": 1
+          },
+          {
+            "id": 21,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 1596,
+            "weight": 0.529237
+          },
+          {
+            "id": 22,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1599,
+            "weight": 1
+          },
+          {
+            "id": 23,
+            "lemma": "흉부",
+            "type": "NNG",
+            "position": 1601,
+            "weight": 0.9
+          },
+          {
+            "id": 24,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1607,
+            "weight": 1
+          },
+          {
+            "id": 25,
+            "lemma": "상지",
+            "type": "NNG",
+            "position": 1609,
+            "weight": 0.365475
+          },
+          {
+            "id": 26,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1615,
+            "weight": 0.0694213
+          },
+          {
+            "id": 27,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1619,
+            "weight": 0.9
+          },
+          {
+            "id": 28,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 1626,
+            "weight": 0.9
+          },
+          {
+            "id": 29,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1632,
+            "weight": 0.0360723
+          },
+          {
+            "id": 30,
+            "lemma": "모이",
+            "type": "VV",
+            "position": 1636,
+            "weight": 0.307011
+          },
+          {
+            "id": 31,
+            "lemma": "는",
+            "type": "ETM",
+            "position": 1642,
+            "weight": 0.184941
+          },
+          {
+            "id": 32,
+            "lemma": "혈관",
+            "type": "NNG",
+            "position": 1646,
+            "weight": 0.9
+          },
+          {
+            "id": 33,
+            "lemma": "이",
+            "type": "VCP",
+            "position": 1652,
+            "weight": 0.0177525
+          },
+          {
+            "id": 34,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1652,
+            "weight": 0.36174
+          },
+          {
+            "id": 35,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1661,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "상대정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1485,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "이란",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1497,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "상체",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 1,
+            "position": 1504,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1510,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "심장",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 8.6,
+            "position": 1517,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1523,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "돌아오",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1530,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1539,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1543,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1549,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 10,
+            "text": "흐르",
+            "type": "VV",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 1553,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 11,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1559,
+            "begin": 12,
+            "end": 12
+          },
+          {
+            "id": 12,
+            "text": "대정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1563,
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "중",
+            "type": "NNB",
+            "scode": "04",
+            "weight": 6.6,
+            "position": 1573,
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 14,
+            "text": "하나",
+            "type": "NR",
+            "scode": "00",
+            "weight": 0,
+            "position": 1577,
+            "begin": 16,
+            "end": 16
+          },
+          {
+            "id": 15,
+            "text": "로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1583,
+            "begin": 17,
+            "end": 17
+          },
+          {
+            "id": 16,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1586,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 17,
+            "text": "머리",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 5.4,
+            "position": 1588,
+            "begin": 19,
+            "end": 19
+          },
+          {
+            "id": 18,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1594,
+            "begin": 20,
+            "end": 20
+          },
+          {
+            "id": 19,
+            "text": "목",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.2,
+            "position": 1596,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 20,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1599,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 21,
+            "text": "흉부",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 1601,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 22,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1607,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 23,
+            "text": "상지",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 1,
+            "position": 1609,
+            "begin": 25,
+            "end": 25
+          },
+          {
+            "id": 24,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 1615,
+            "begin": 26,
+            "end": 26
+          },
+          {
+            "id": 25,
+            "text": "정맥",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 6.6,
+            "position": 1619,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 26,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1626,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 27,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1632,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 28,
+            "text": "모이",
+            "type": "VV",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 1636,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 29,
+            "text": "는",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1642,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 30,
+            "text": "혈관",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1646,
+            "begin": 32,
+            "end": 32
+          },
+          {
+            "id": 31,
+            "text": "이",
+            "type": "VCP",
+            "scode": "01",
+            "weight": 1,
+            "position": 1652,
+            "begin": 33,
+            "end": 33
+          },
+          {
+            "id": 32,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1652,
+            "begin": 34,
+            "end": 34
+          },
+          {
+            "id": 33,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1661,
+            "begin": 35,
+            "end": 35
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "상대정맥이란",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "상체에서",
+            "type": "",
+            "begin": 3,
+            "end": 4
+          },
+          {
+            "id": 2,
+            "text": "심장으로",
+            "type": "",
+            "begin": 5,
+            "end": 6
+          },
+          {
+            "id": 3,
+            "text": "돌아오는",
+            "type": "",
+            "begin": 7,
+            "end": 8
+          },
+          {
+            "id": 4,
+            "text": "혈액이",
+            "type": "",
+            "begin": 9,
+            "end": 10
+          },
+          {
+            "id": 5,
+            "text": "흐르는",
+            "type": "",
+            "begin": 11,
+            "end": 12
+          },
+          {
+            "id": 6,
+            "text": "대정맥",
+            "type": "",
+            "begin": 13,
+            "end": 14
+          },
+          {
+            "id": 7,
+            "text": "중",
+            "type": "",
+            "begin": 15,
+            "end": 15
+          },
+          {
+            "id": 8,
+            "text": "하나로,",
+            "type": "",
+            "begin": 16,
+            "end": 18
+          },
+          {
+            "id": 9,
+            "text": "머리,",
+            "type": "",
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 10,
+            "text": "목,",
+            "type": "",
+            "begin": 21,
+            "end": 22
+          },
+          {
+            "id": 11,
+            "text": "흉부,",
+            "type": "",
+            "begin": 23,
+            "end": 24
+          },
+          {
+            "id": 12,
+            "text": "상지의",
+            "type": "",
+            "begin": 25,
+            "end": 26
+          },
+          {
+            "id": 13,
+            "text": "정맥",
+            "type": "",
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 14,
+            "text": "혈액이",
+            "type": "",
+            "begin": 28,
+            "end": 29
+          },
+          {
+            "id": 15,
+            "text": "모이는",
+            "type": "",
+            "begin": 30,
+            "end": 31
+          },
+          {
+            "id": 16,
+            "text": "혈관입니다.",
+            "type": "",
+            "begin": 32,
+            "end": 35
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "상대정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 1,
+            "weight": 0.38242,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "상체",
+            "type": "AM_PART",
+            "begin": 3,
+            "end": 3,
+            "weight": 0.313701,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "심장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 5,
+            "end": 5,
+            "weight": 0.401193,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "대정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 13,
+            "end": 14,
+            "weight": 0.334197,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "하나",
+            "type": "QT_COUNT",
+            "begin": 16,
+            "end": 16,
+            "weight": 0.515115,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "머리",
+            "type": "AM_PART",
+            "begin": 19,
+            "end": 19,
+            "weight": 0.603364,
+            "common_noun": 0
+          },
+          {
+            "id": 6,
+            "text": "목",
+            "type": "AM_PART",
+            "begin": 21,
+            "end": 21,
+            "weight": 0.476929,
+            "common_noun": 0
+          },
+          {
+            "id": 7,
+            "text": "상지",
+            "type": "TM_CELL_TISSUE",
+            "begin": 25,
+            "end": 25,
+            "weight": 0.147979,
+            "common_noun": 0
+          },
+          {
+            "id": 8,
+            "text": "정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 27,
+            "end": 27,
+            "weight": 0.230471,
+            "common_noun": 0
+          },
+          {
+            "id": 9,
+            "text": "혈관",
+            "type": "TM_CELL_TISSUE",
+            "begin": 32,
+            "end": 32,
+            "weight": 0.441375,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      },
+      {
+        "id": 18,
+        "reserve_str": "",
+        "text": " 좌심실에서 박출된 산소가 풍부한 혈액은 전신을 순환하면서 이산화탄소와 노폐물이 쌓이고, 목정맥과 쇄골하 정맥을 거쳐 상대정맥으로 들어온 뒤 다시 심장의 우심방으로 들어갑니다.",
+        "morp": [
+          {
+            "id": 0,
+            "lemma": "좌",
+            "type": "NNG",
+            "position": 1663,
+            "weight": 0.409273
+          },
+          {
+            "id": 1,
+            "lemma": "심실",
+            "type": "NNG",
+            "position": 1666,
+            "weight": 0.9
+          },
+          {
+            "id": 2,
+            "lemma": "에서",
+            "type": "JKB",
+            "position": 1672,
+            "weight": 0.153407
+          },
+          {
+            "id": 3,
+            "lemma": "박출된",
+            "type": "NNG",
+            "position": 1679,
+            "weight": 0
+          },
+          {
+            "id": 4,
+            "lemma": "산소",
+            "type": "NNG",
+            "position": 1689,
+            "weight": 0.9
+          },
+          {
+            "id": 5,
+            "lemma": "가",
+            "type": "JKS",
+            "position": 1695,
+            "weight": 0.066324
+          },
+          {
+            "id": 6,
+            "lemma": "풍부하",
+            "type": "VA",
+            "position": 1699,
+            "weight": 0.9
+          },
+          {
+            "id": 7,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1705,
+            "weight": 0.430446
+          },
+          {
+            "id": 8,
+            "lemma": "혈액",
+            "type": "NNG",
+            "position": 1709,
+            "weight": 0.9
+          },
+          {
+            "id": 9,
+            "lemma": "은",
+            "type": "JX",
+            "position": 1715,
+            "weight": 0.0449928
+          },
+          {
+            "id": 10,
+            "lemma": "전신",
+            "type": "NNG",
+            "position": 1719,
+            "weight": 0.9
+          },
+          {
+            "id": 11,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1725,
+            "weight": 0.129611
+          },
+          {
+            "id": 12,
+            "lemma": "순환",
+            "type": "NNG",
+            "position": 1729,
+            "weight": 0.9
+          },
+          {
+            "id": 13,
+            "lemma": "하",
+            "type": "XSV",
+            "position": 1735,
+            "weight": 0.0001
+          },
+          {
+            "id": 14,
+            "lemma": "면서",
+            "type": "EC",
+            "position": 1738,
+            "weight": 0.370489
+          },
+          {
+            "id": 15,
+            "lemma": "이산",
+            "type": "NNG",
+            "position": 1745,
+            "weight": 0.209628
+          },
+          {
+            "id": 16,
+            "lemma": "화",
+            "type": "XSN",
+            "position": 1751,
+            "weight": 0.0240371
+          },
+          {
+            "id": 17,
+            "lemma": "탄소",
+            "type": "NNG",
+            "position": 1754,
+            "weight": 0.9
+          },
+          {
+            "id": 18,
+            "lemma": "와",
+            "type": "JC",
+            "position": 1760,
+            "weight": 0.0169714
+          },
+          {
+            "id": 19,
+            "lemma": "노폐",
+            "type": "NNG",
+            "position": 1764,
+            "weight": 0.05
+          },
+          {
+            "id": 20,
+            "lemma": "물",
+            "type": "XSN",
+            "position": 1770,
+            "weight": 0.00142289
+          },
+          {
+            "id": 21,
+            "lemma": "이",
+            "type": "JKS",
+            "position": 1773,
+            "weight": 0.0731805
+          },
+          {
+            "id": 22,
+            "lemma": "쌓이",
+            "type": "VV",
+            "position": 1777,
+            "weight": 0.9
+          },
+          {
+            "id": 23,
+            "lemma": "고",
+            "type": "EC",
+            "position": 1783,
+            "weight": 0.416679
+          },
+          {
+            "id": 24,
+            "lemma": ",",
+            "type": "SP",
+            "position": 1786,
+            "weight": 1
+          },
+          {
+            "id": 25,
+            "lemma": "목",
+            "type": "NNG",
+            "position": 1788,
+            "weight": 0.529237
+          },
+          {
+            "id": 26,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1791,
+            "weight": 0.9
+          },
+          {
+            "id": 27,
+            "lemma": "과",
+            "type": "JC",
+            "position": 1797,
+            "weight": 0.017569
+          },
+          {
+            "id": 28,
+            "lemma": "쇄골",
+            "type": "NNG",
+            "position": 1801,
+            "weight": 0.9
+          },
+          {
+            "id": 29,
+            "lemma": "하",
+            "type": "XSN",
+            "position": 1807,
+            "weight": 0.0001
+          },
+          {
+            "id": 30,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1811,
+            "weight": 0.9
+          },
+          {
+            "id": 31,
+            "lemma": "을",
+            "type": "JKO",
+            "position": 1817,
+            "weight": 0.129611
+          },
+          {
+            "id": 32,
+            "lemma": "거치",
+            "type": "VV",
+            "position": 1821,
+            "weight": 0.773981
+          },
+          {
+            "id": 33,
+            "lemma": "어",
+            "type": "EC",
+            "position": 1824,
+            "weight": 0.41831
+          },
+          {
+            "id": 34,
+            "lemma": "상대",
+            "type": "NNG",
+            "position": 1828,
+            "weight": 0.9
+          },
+          {
+            "id": 35,
+            "lemma": "정맥",
+            "type": "NNG",
+            "position": 1834,
+            "weight": 0.9
+          },
+          {
+            "id": 36,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1840,
+            "weight": 0.153406
+          },
+          {
+            "id": 37,
+            "lemma": "들어오",
+            "type": "VV",
+            "position": 1847,
+            "weight": 0.9
+          },
+          {
+            "id": 38,
+            "lemma": "ㄴ",
+            "type": "ETM",
+            "position": 1853,
+            "weight": 0.304215
+          },
+          {
+            "id": 39,
+            "lemma": "뒤",
+            "type": "NNG",
+            "position": 1857,
+            "weight": 0.65834
+          },
+          {
+            "id": 40,
+            "lemma": "다시",
+            "type": "MAG",
+            "position": 1861,
+            "weight": 0.00503199
+          },
+          {
+            "id": 41,
+            "lemma": "심장",
+            "type": "NNG",
+            "position": 1868,
+            "weight": 0.9
+          },
+          {
+            "id": 42,
+            "lemma": "의",
+            "type": "JKG",
+            "position": 1874,
+            "weight": 0.0694213
+          },
+          {
+            "id": 43,
+            "lemma": "우",
+            "type": "NNG",
+            "position": 1878,
+            "weight": 0.395237
+          },
+          {
+            "id": 44,
+            "lemma": "심방",
+            "type": "NNG",
+            "position": 1881,
+            "weight": 0.9
+          },
+          {
+            "id": 45,
+            "lemma": "으로",
+            "type": "JKB",
+            "position": 1887,
+            "weight": 0.153406
+          },
+          {
+            "id": 46,
+            "lemma": "들어가",
+            "type": "VV",
+            "position": 1894,
+            "weight": 0.9
+          },
+          {
+            "id": 47,
+            "lemma": "ㅂ니다",
+            "type": "EF",
+            "position": 1900,
+            "weight": 0.0793776
+          },
+          {
+            "id": 48,
+            "lemma": ".",
+            "type": "SF",
+            "position": 1909,
+            "weight": 1
+          }
+        ],
+        "WSD": [
+          {
+            "id": 0,
+            "text": "좌심실",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1663,
+            "begin": 0,
+            "end": 1
+          },
+          {
+            "id": 1,
+            "text": "에서",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1672,
+            "begin": 2,
+            "end": 2
+          },
+          {
+            "id": 2,
+            "text": "박출된",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1679,
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 3,
+            "text": "산소",
+            "type": "NNG",
+            "scode": "03",
+            "weight": 4.4,
+            "position": 1689,
+            "begin": 4,
+            "end": 4
+          },
+          {
+            "id": 4,
+            "text": "가",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1695,
+            "begin": 5,
+            "end": 5
+          },
+          {
+            "id": 5,
+            "text": "풍부하",
+            "type": "VA",
+            "scode": "00",
+            "weight": 0,
+            "position": 1699,
+            "begin": 6,
+            "end": 6
+          },
+          {
+            "id": 6,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1705,
+            "begin": 7,
+            "end": 7
+          },
+          {
+            "id": 7,
+            "text": "혈액",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1709,
+            "begin": 8,
+            "end": 8
+          },
+          {
+            "id": 8,
+            "text": "은",
+            "type": "JX",
+            "scode": "00",
+            "weight": 1,
+            "position": 1715,
+            "begin": 9,
+            "end": 9
+          },
+          {
+            "id": 9,
+            "text": "전신",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 1719,
+            "begin": 10,
+            "end": 10
+          },
+          {
+            "id": 10,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1725,
+            "begin": 11,
+            "end": 11
+          },
+          {
+            "id": 11,
+            "text": "순환하",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1729,
+            "begin": 12,
+            "end": 13
+          },
+          {
+            "id": 12,
+            "text": "면서",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1738,
+            "begin": 14,
+            "end": 14
+          },
+          {
+            "id": 13,
+            "text": "이산화탄소",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1745,
+            "begin": 15,
+            "end": 17
+          },
+          {
+            "id": 14,
+            "text": "와",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1760,
+            "begin": 18,
+            "end": 18
+          },
+          {
+            "id": 15,
+            "text": "노폐물",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1764,
+            "begin": 19,
+            "end": 20
+          },
+          {
+            "id": 16,
+            "text": "이",
+            "type": "JKS",
+            "scode": "00",
+            "weight": 1,
+            "position": 1773,
+            "begin": 21,
+            "end": 21
+          },
+          {
+            "id": 17,
+            "text": "쌓이",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1777,
+            "begin": 22,
+            "end": 22
+          },
+          {
+            "id": 18,
+            "text": "고",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1783,
+            "begin": 23,
+            "end": 23
+          },
+          {
+            "id": 19,
+            "text": ",",
+            "type": "SP",
+            "scode": "00",
+            "weight": 1,
+            "position": 1786,
+            "begin": 24,
+            "end": 24
+          },
+          {
+            "id": 20,
+            "text": "목정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1788,
+            "begin": 25,
+            "end": 26
+          },
+          {
+            "id": 21,
+            "text": "과",
+            "type": "JC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1797,
+            "begin": 27,
+            "end": 27
+          },
+          {
+            "id": 22,
+            "text": "쇄골",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 1,
+            "position": 1801,
+            "begin": 28,
+            "end": 28
+          },
+          {
+            "id": 23,
+            "text": "하",
+            "type": "XSN",
+            "scode": "12",
+            "weight": 1,
+            "position": 1807,
+            "begin": 29,
+            "end": 29
+          },
+          {
+            "id": 24,
+            "text": "정맥",
+            "type": "NNG",
+            "scode": "04",
+            "weight": 8.8,
+            "position": 1811,
+            "begin": 30,
+            "end": 30
+          },
+          {
+            "id": 25,
+            "text": "을",
+            "type": "JKO",
+            "scode": "00",
+            "weight": 1,
+            "position": 1817,
+            "begin": 31,
+            "end": 31
+          },
+          {
+            "id": 26,
+            "text": "거치",
+            "type": "VV",
+            "scode": "01",
+            "weight": 4.4,
+            "position": 1821,
+            "begin": 32,
+            "end": 32
+          },
+          {
+            "id": 27,
+            "text": "어",
+            "type": "EC",
+            "scode": "00",
+            "weight": 1,
+            "position": 1824,
+            "begin": 33,
+            "end": 33
+          },
+          {
+            "id": 28,
+            "text": "상대정맥",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1828,
+            "begin": 34,
+            "end": 35
+          },
+          {
+            "id": 29,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1840,
+            "begin": 36,
+            "end": 36
+          },
+          {
+            "id": 30,
+            "text": "들어오",
+            "type": "VV",
+            "scode": "00",
+            "weight": 0,
+            "position": 1847,
+            "begin": 37,
+            "end": 37
+          },
+          {
+            "id": 31,
+            "text": "ㄴ",
+            "type": "ETM",
+            "scode": "00",
+            "weight": 1,
+            "position": 1853,
+            "begin": 38,
+            "end": 38
+          },
+          {
+            "id": 32,
+            "text": "뒤",
+            "type": "NNG",
+            "scode": "01",
+            "weight": 8.8,
+            "position": 1857,
+            "begin": 39,
+            "end": 39
+          },
+          {
+            "id": 33,
+            "text": "다시",
+            "type": "MAG",
+            "scode": "01",
+            "weight": 7.6,
+            "position": 1861,
+            "begin": 40,
+            "end": 40
+          },
+          {
+            "id": 34,
+            "text": "심장",
+            "type": "NNG",
+            "scode": "02",
+            "weight": 9.8,
+            "position": 1868,
+            "begin": 41,
+            "end": 41
+          },
+          {
+            "id": 35,
+            "text": "의",
+            "type": "JKG",
+            "scode": "00",
+            "weight": 1,
+            "position": 1874,
+            "begin": 42,
+            "end": 42
+          },
+          {
+            "id": 36,
+            "text": "우심방",
+            "type": "NNG",
+            "scode": "00",
+            "weight": 0,
+            "position": 1878,
+            "begin": 43,
+            "end": 44
+          },
+          {
+            "id": 37,
+            "text": "으로",
+            "type": "JKB",
+            "scode": "00",
+            "weight": 1,
+            "position": 1887,
+            "begin": 45,
+            "end": 45
+          },
+          {
+            "id": 38,
+            "text": "들어가",
+            "type": "VV",
+            "scode": "01",
+            "weight": 2.2,
+            "position": 1894,
+            "begin": 46,
+            "end": 46
+          },
+          {
+            "id": 39,
+            "text": "ㅂ니다",
+            "type": "EF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1900,
+            "begin": 47,
+            "end": 47
+          },
+          {
+            "id": 40,
+            "text": ".",
+            "type": "SF",
+            "scode": "00",
+            "weight": 1,
+            "position": 1909,
+            "begin": 48,
+            "end": 48
+          }
+        ],
+        "word": [
+          {
+            "id": 0,
+            "text": "좌심실에서",
+            "type": "",
+            "begin": 0,
+            "end": 2
+          },
+          {
+            "id": 1,
+            "text": "박출된",
+            "type": "",
+            "begin": 3,
+            "end": 3
+          },
+          {
+            "id": 2,
+            "text": "산소가",
+            "type": "",
+            "begin": 4,
+            "end": 5
+          },
+          {
+            "id": 3,
+            "text": "풍부한",
+            "type": "",
+            "begin": 6,
+            "end": 7
+          },
+          {
+            "id": 4,
+            "text": "혈액은",
+            "type": "",
+            "begin": 8,
+            "end": 9
+          },
+          {
+            "id": 5,
+            "text": "전신을",
+            "type": "",
+            "begin": 10,
+            "end": 11
+          },
+          {
+            "id": 6,
+            "text": "순환하면서",
+            "type": "",
+            "begin": 12,
+            "end": 14
+          },
+          {
+            "id": 7,
+            "text": "이산화탄소와",
+            "type": "",
+            "begin": 15,
+            "end": 18
+          },
+          {
+            "id": 8,
+            "text": "노폐물이",
+            "type": "",
+            "begin": 19,
+            "end": 21
+          },
+          {
+            "id": 9,
+            "text": "쌓이고,",
+            "type": "",
+            "begin": 22,
+            "end": 24
+          },
+          {
+            "id": 10,
+            "text": "목정맥과",
+            "type": "",
+            "begin": 25,
+            "end": 27
+          },
+          {
+            "id": 11,
+            "text": "쇄골하",
+            "type": "",
+            "begin": 28,
+            "end": 29
+          },
+          {
+            "id": 12,
+            "text": "정맥을",
+            "type": "",
+            "begin": 30,
+            "end": 31
+          },
+          {
+            "id": 13,
+            "text": "거쳐",
+            "type": "",
+            "begin": 32,
+            "end": 33
+          },
+          {
+            "id": 14,
+            "text": "상대정맥으로",
+            "type": "",
+            "begin": 34,
+            "end": 36
+          },
+          {
+            "id": 15,
+            "text": "들어온",
+            "type": "",
+            "begin": 37,
+            "end": 38
+          },
+          {
+            "id": 16,
+            "text": "뒤",
+            "type": "",
+            "begin": 39,
+            "end": 39
+          },
+          {
+            "id": 17,
+            "text": "다시",
+            "type": "",
+            "begin": 40,
+            "end": 40
+          },
+          {
+            "id": 18,
+            "text": "심장의",
+            "type": "",
+            "begin": 41,
+            "end": 42
+          },
+          {
+            "id": 19,
+            "text": "우심방으로",
+            "type": "",
+            "begin": 43,
+            "end": 45
+          },
+          {
+            "id": 20,
+            "text": "들어갑니다.",
+            "type": "",
+            "begin": 46,
+            "end": 48
+          }
+        ],
+        "NE": [
+          {
+            "id": 0,
+            "text": "좌심실",
+            "type": "TM_CELL_TISSUE",
+            "begin": 0,
+            "end": 1,
+            "weight": 0.470154,
+            "common_noun": 0
+          },
+          {
+            "id": 1,
+            "text": "산소",
+            "type": "MT_ELEMENT",
+            "begin": 4,
+            "end": 4,
+            "weight": 1,
+            "common_noun": 0
+          },
+          {
+            "id": 2,
+            "text": "이산화탄소",
+            "type": "MT_CHEMICAL",
+            "begin": 15,
+            "end": 17,
+            "weight": 0.678069,
+            "common_noun": 0
+          },
+          {
+            "id": 3,
+            "text": "목정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 25,
+            "end": 26,
+            "weight": 0.270251,
+            "common_noun": 0
+          },
+          {
+            "id": 4,
+            "text": "쇄골하 정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 28,
+            "end": 30,
+            "weight": 0.31045,
+            "common_noun": 0
+          },
+          {
+            "id": 5,
+            "text": "상대정맥",
+            "type": "TM_CELL_TISSUE",
+            "begin": 34,
+            "end": 35,
+            "weight": 0.334913,
+            "common_noun": 0
+          },
+          {
+            "id": 6,
+            "text": "심장",
+            "type": "TM_CELL_TISSUE",
+            "begin": 41,
+            "end": 41,
+            "weight": 0.336207,
+            "common_noun": 0
+          },
+          {
+            "id": 7,
+            "text": "우심방",
+            "type": "TM_CELL_TISSUE",
+            "begin": 43,
+            "end": 44,
+            "weight": 0.37009,
+            "common_noun": 0
+          }
+        ],
+        "dependency": [],
+        "SRL": []
+      }
+    ],
+    "entity": []
+  }
+}
