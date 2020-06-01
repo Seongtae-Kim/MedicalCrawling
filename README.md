@@ -1,5 +1,6 @@
 # MedicalCrawling
 서울아산병원 홈페이지에 있는 데이터를 크롤링해서 워드임베딩까지 수행하는 작업입니다.
+2020-06-01 기준: 현재 크롤링 작업과 pos tagging, ner까지 수행을 끝마쳤습니다. 형태분절과 word embedding을 수행할 예정입니다.
 
 
 ## Crawling
