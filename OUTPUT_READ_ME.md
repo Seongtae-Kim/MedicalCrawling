@@ -13,7 +13,7 @@
 
 # 폴더별 설명
 
-## /Whole/
+## /whole/
 전체 크롤링 결과 자료를 합친 버전을 모아둔 폴더입니다.
 
 
@@ -83,19 +83,19 @@
 
 
 
-## /Separated/
+## /output/
 
 효율적인 처리를 위하여 각 항목별로 분리한 텍스트파일들입니다. 총 1722개의 파일로 구성되어있습니다.
 
 
 
-## /ETRI/POS
+## /output/ETRI/POS
 
 ETRI openapi를 이용하여 POS태깅한 결과 자료입니다.  파일형식은 json형태입니다.
 
 
 
-## /ETRI/NER
+## /output/ETRI/NER
 
 ETRI openapi를 이용하여 NER태깅한 결과 자료입니다.  파일형식은 json형태입니다.
 
