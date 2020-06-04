@@ -22,8 +22,7 @@ ETRI API를 사용하기 위한 각 항목별 텍스트 파일로 나타납니�
 각각의 결과는 ./output/ETRI/의 /POS/ 폴더와 /NER/폴더에 저장되어 있습니다.
 
 ## Morphological Analysis & WordEmbedding
-형태소 분절은 '은전한닢(https://github.com/koshort/pyeunjeon)'을 이용하였습니다.
-WordEmbedding은 Gensim을 활용하여 Word2Vec과 Fasttext를 이용합니다. 시각화도 수행할 예정입니다.(2020-06-04 기준)
+형태소 분절은 '은전한닢(https://github.com/koshort/pyeunjeon)'을 이용하였습니다. 각각의 분절된 형태소는 2018년 국립국어원 코퍼스에서 가장 많이 사용된 300만 어절의 빈도표를 활용하여 불용어로 정의, 해당 단어장을 구축하는데 제외합니다. WordEmbedding은 Gensim을 활용하여 Word2Vec과 Fasttext를 이용합니다. 시각화도 수행할 예정입니다.(2020-06-04 기준)
 
 
 
