@@ -106,3 +106,13 @@ ETRI openapi를 이용하여 NER태깅한 결과 자료입니다.  파일형식�
 
 
 
+## /xml/
+
+결과파일을 xml형식으로 저장합니다. 내부 dtd 형식입니다.
+
+
+
+### bodies.xml / diseases.xml / interventions.xml / SeoulAsanData.xml
+
+SeoulAsanData.xml은 bodies. xml, diseases.xml, interventions.xml을 모두 합친 xml 파일입니다.
+
