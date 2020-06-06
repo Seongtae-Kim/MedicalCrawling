@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE bodies SYSTEM "[
-<!ELEMENT body (name, part, disease, medDep, related_diseases, related_interventions, descrips)*>
+<!DOCTYPE bodies [
+<!ELEMENT bodies (body)*>
+<!ELEMENT body (name, part, disease, medDep, related_diseases, related_interventions, description)*>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT part (#PCDATA)>
 <!ELEMENT disease (#PCDATA)>
 <!ELEMENT medDep (#PCDATA)>
 <!ELEMENT related_diseases (related_disease)*>
 <!ELEMENT related_disease (#PCDATA)>
-<!ELEMENT related_interventions (related_interventions)*>
+<!ELEMENT related_interventions (related_intervention)*>
 <!ELEMENT related_intervention (#PCDATA)>
-<!ELEMENT description (definition, location, architecture, function, tip)*>
+<!ELEMENT description (definition?, location?, architecture?, function?, tip?)*>
 <!ELEMENT definition (#PCDATA)>
 <!ELEMENT location (#PCDATA)>
 <!ELEMENT architecture (#PCDATA)>
 <!ELEMENT function (#PCDATA)>
 <!ELEMENT tip (#PCDATA)>
-]" >
+]>
 <!--Seongtae Kim 2020-06-06 https://github.com/Seongtae-Kim -->
 <bodies>
   <body>

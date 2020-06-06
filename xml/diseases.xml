@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE diseases SYSTEM "[
-<!ELEMENT disease (name, related_diseases, related_symptoms, medDeps, synonym, descrips)*>
+<!DOCTYPE diseases [
+<!ELEMENT diseases (disease)*>
+<!ELEMENT disease (name?, related_diseases?, related_symptoms?, medDeps?, synonym?, description?)*>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT synonym (#PCDATA)>
 <!ELEMENT related_diseases (related_disease)*>
 <!ELEMENT related_disease (#PCDATA)>
-<!ELEMENT related_symptoms (related_symptoms)*>
+<!ELEMENT related_symptoms (related_symptom)*>
 <!ELEMENT related_symptom (#PCDATA)>
-<!ELEMENT medDeps (medDeps)*>
+<!ELEMENT medDeps (medDep)*>
 <!ELEMENT medDep (#PCDATA)>
-<!ELEMENT description (definition, cause, symptom, diagnosis, progress, caution)*>
+<!ELEMENT description (definition?, cause?, symptom?, diagnosis?, progress?, caution?)*>
 <!ELEMENT definition (#PCDATA)>
 <!ELEMENT cause (#PCDATA)>
 <!ELEMENT symptom (#PCDATA)>
 <!ELEMENT diagnosis (#PCDATA)>
 <!ELEMENT progress (#PCDATA)>
 <!ELEMENT caution (#PCDATA)>
-]">
+]>
 <!--Seongtae Kim 2020-06-06 https://github.com/Seongtae-Kim -->
 <diseases>
   <disease>
